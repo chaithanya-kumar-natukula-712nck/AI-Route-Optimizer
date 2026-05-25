@@ -18,7 +18,7 @@ from services.route_optimizer import (
 )
 
 from services.matrix_builder import (
-    build_duration_matrix
+    build_duration_matrix,build_distance_matrix
 )
 
 
@@ -79,6 +79,10 @@ for trip_id, trip_data in grouped_trips:
         cache_df
     )
 
+    distance_matrix = build_distance_matrix(
+    location_ids,
+    cache_df
+    )
     # -----------------------------------
     # OPTIMIZE
     # -----------------------------------
@@ -90,6 +94,31 @@ for trip_id, trip_data in grouped_trips:
     optimized_indexes = result[
         "optimized_route"
     ]
+
+    optimized_distance = 0
+
+    for i in range(
+        len(optimized_indexes) - 1
+    ):
+
+        current_stop = optimized_indexes[i]
+
+        next_stop = optimized_indexes[i + 1]
+
+        optimized_distance += (
+
+            distance_matrix[
+                current_stop
+            ][
+                next_stop
+            ]
+        )
+
+    optimized_distance = round(
+        optimized_distance,
+        2
+    )
+
 
     optimized_route = [
 
@@ -108,6 +137,9 @@ for trip_id, trip_data in grouped_trips:
 
         "optimized_route":
             optimized_route_string,
+        
+        "optimized_distance_km":
+            optimized_distance,
 
         "optimized_duration_min":
             result[

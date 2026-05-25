@@ -1,481 +1,481 @@
-trip_id,optimized_route,optimized_duration_min
-1,Ratnadeep Supermarket → Cafe Niloufer → Apollo Health City → Apollo Pharmacy → Pista House → IKEA Hyderabad,281.05
-2,Decathlon Madhapur → Joyalukkas → South India Shopping Mall,77.51
-3,Karachi Bakery → Naturals Salon → Bata Shoe Store → Roastery Coffee House → Joyalukkas,206.78
-4,Karachi Bakery → Inorbit Mall Shoppers Stop → Lalitha Jewellery → Bajaj Electronics → Kalanikethan Kukatpally → Roastery Coffee House → Lakme Salon,211.56
-5,Reliance Smart Jubilee → Joyalukkas → Bajaj Electronics → IKEA Hyderabad,129.54
-6,Decathlon Madhapur → Joyalukkas → South India Shopping Mall,77.51
-7,Decathlon Madhapur → Joyalukkas → South India Shopping Mall,77.51
-8,Karachi Bakery → Inorbit Mall Shoppers Stop → Lalitha Jewellery → Bajaj Electronics → Kalanikethan Kukatpally → Roastery Coffee House → Lakme Salon,211.56
-9,Decathlon Madhapur → Joyalukkas → South India Shopping Mall,77.51
-10,Decathlon Madhapur → Joyalukkas → South India Shopping Mall,77.51
-11,Reliance Smart Jubilee → Joyalukkas → Bajaj Electronics → IKEA Hyderabad,129.54
-12,Reliance Smart Jubilee → Joyalukkas → Bajaj Electronics → IKEA Hyderabad,129.54
-13,Karachi Bakery → Naturals Salon → Bata Shoe Store → Roastery Coffee House,145.43
-14,Karachi Bakery → Naturals Salon → Bata Shoe Store → Roastery Coffee House,145.43
-15,Ratnadeep Supermarket → Cafe Niloufer → Apollo Health City → Pista House → IKEA Hyderabad,241.7
-16,Karachi Bakery → Naturals Salon → Bata Shoe Store → Roastery Coffee House,145.43
-17,Karachi Bakery → Inorbit Mall Shoppers Stop → Lalitha Jewellery → Bajaj Electronics → Kalanikethan Kukatpally → Lakme Salon,171.93
-18,Reliance Smart Jubilee → Joyalukkas → Bajaj Electronics,68.49
-19,Karachi Bakery → Naturals Salon → Bata Shoe Store → Roastery Coffee House,145.43
-20,Ratnadeep Supermarket → Cafe Niloufer → Apollo Health City → Pista House → IKEA Hyderabad,241.7
-21,Vijetha Supermarket → IKEA Hyderabad → Himalaya Book World → MedPlus Madhapur → Apollo Health City → Forum Sujana Zara → Bawarchi RTC X Roads,252.06
-22,Vijetha Supermarket → IKEA Hyderabad → Himalaya Book World → MedPlus Madhapur → Apollo Health City → Forum Sujana Zara → Bawarchi RTC X Roads,252.06
-23,Karachi Bakery → Naturals Salon → Bata Shoe Store → Roastery Coffee House,145.43
-24,Karachi Bakery → Inorbit Mall Shoppers Stop → Lalitha Jewellery → Bajaj Electronics → Kalanikethan Kukatpally → Lakme Salon,171.93
-25,Karachi Bakery → Naturals Salon → Roastery Coffee House,132.25
-26,Karachi Bakery → Naturals Salon → Roastery Coffee House,132.25
-27,Roastery Coffee House → Hyderabad Central → Nature's Basket → Q-Mart Gachibowli → Alankrita Boutique → Heritage Fresh → Naturals Salon,276.55
-28,Karachi Bakery → Inorbit Mall Shoppers Stop → Lalitha Jewellery → Bajaj Electronics → Kalanikethan Kukatpally,130.78
-29,Vijetha Supermarket → Himalaya Book World → MedPlus Madhapur → Apollo Health City → Forum Sujana Zara → Bawarchi RTC X Roads,211.76
-30,Karachi Bakery → Naturals Salon → Roastery Coffee House,132.25
-31,Ratnadeep Supermarket → Cafe Niloufer → Apollo Health City → IKEA Hyderabad,206.45
-32,Karachi Bakery → Naturals Salon → Roastery Coffee House,132.25
-33,Vijetha Supermarket → Himalaya Book World → MedPlus Madhapur → Apollo Health City → Forum Sujana Zara → Bawarchi RTC X Roads,211.76
-34,Ratnadeep Supermarket → Cafe Niloufer → Apollo Health City → IKEA Hyderabad,206.45
-35,Vijetha Supermarket → Himalaya Book World → MedPlus Madhapur → Apollo Health City → Forum Sujana Zara → Bawarchi RTC X Roads,211.76
-36,Roastery Coffee House → Hyderabad Central → Nature's Basket → Q-Mart Gachibowli → Alankrita Boutique → Heritage Fresh → Naturals Salon,276.55
-37,Karachi Bakery → Lalitha Jewellery → Bajaj Electronics → Kalanikethan Kukatpally,130.78
-38,Vijetha Supermarket → Himalaya Book World → Forum Sujana Zara → Apollo Health City → Bawarchi RTC X Roads,199.71
-39,Karachi Bakery → Paradise Biryani Secunderabad → Himalaya Book World → Croma Jubilee Hills → Apollo Pharmacy → D-Mart Begumpet → Kalanikethan Kukatpally,216.0
-40,Karachi Bakery → Lalitha Jewellery → Bajaj Electronics → Kalanikethan Kukatpally,130.78
-41,Karachi Bakery → Lalitha Jewellery → Bajaj Electronics → Kalanikethan Kukatpally,130.78
-42,Karachi Bakery → Paradise Biryani Secunderabad → Himalaya Book World → Croma Jubilee Hills → Apollo Pharmacy → D-Mart Begumpet → Kalanikethan Kukatpally,216.0
-43,Ratnadeep Supermarket → IKEA Hyderabad → Apollo Health City,151.7
-44,Vijetha Supermarket → Himalaya Book World → Forum Sujana Zara → Apollo Health City → Bawarchi RTC X Roads,199.71
-45,Ratnadeep Supermarket → IKEA Hyderabad → Apollo Health City,151.7
-46,Vijetha Supermarket → Himalaya Book World → Forum Sujana Zara → Apollo Health City → Bawarchi RTC X Roads,199.71
-47,Karachi Bakery → Lalitha Jewellery → Bajaj Electronics → Kalanikethan Kukatpally,130.78
-48,Karachi Bakery → Paradise Biryani Secunderabad → Himalaya Book World → Croma Jubilee Hills → Apollo Pharmacy → D-Mart Begumpet → Kalanikethan Kukatpally,216.0
-49,Vijetha Supermarket → Himalaya Book World → Apollo Health City → Bawarchi RTC X Roads,171.71
-50,Karachi Bakery → Lalitha Jewellery → Bajaj Electronics,86.15
-51,Karachi Bakery → Paradise Biryani Secunderabad → Croma Jubilee Hills → Apollo Pharmacy → D-Mart Begumpet → Kalanikethan Kukatpally,190.89
-52,Apollo Pharmacy → Croma Jubilee Hills → Naturals Salon → Metro Cash & Carry → Chennai Shopping Mall → Page 3 Luxury Salon → Kimmee's Salon,10113.0
-53,Roastery Coffee House → Hyderabad Central → Nature's Basket → Q-Mart Gachibowli → Alankrita Boutique,177.1
-54,Karachi Bakery → Lalitha Jewellery → Bajaj Electronics,86.15
-55,Karachi Bakery → Paradise Biryani Secunderabad → Croma Jubilee Hills → Apollo Pharmacy → D-Mart Begumpet → Kalanikethan Kukatpally,190.89
-56,Karachi Bakery → Paradise Biryani Secunderabad → Croma Jubilee Hills → Apollo Pharmacy → D-Mart Begumpet → Kalanikethan Kukatpally,190.89
-57,Karachi Bakery → Lalitha Jewellery → Bajaj Electronics,86.15
-58,Apollo Pharmacy → Croma Jubilee Hills → Naturals Salon → Metro Cash & Carry → Chennai Shopping Mall → Page 3 Luxury Salon → Kimmee's Salon,10113.0
-59,Karachi Bakery → Paradise Biryani Secunderabad → Croma Jubilee Hills → Apollo Pharmacy → D-Mart Begumpet → Kalanikethan Kukatpally,190.89
-60,Apollo Pharmacy → Croma Jubilee Hills → Naturals Salon → Metro Cash & Carry → Chennai Shopping Mall → Page 3 Luxury Salon → Kimmee's Salon,10113.0
-61,GRT Jewellers → Chutneys Restaurant → Crossword Bookstore → Nature's Basket → Spencer's Retail → Malabar Gold & Diamonds → IKEA Hyderabad,246.97
-62,Apollo Pharmacy → Croma Jubilee Hills → Naturals Salon → Chennai Shopping Mall → Page 3 Luxury Salon → Kimmee's Salon,10093.29
-63,GRT Jewellers → Chutneys Restaurant → Crossword Bookstore → Nature's Basket → Spencer's Retail → Malabar Gold & Diamonds → IKEA Hyderabad,246.97
-64,Vijetha Supermarket → Himalaya Book World → Apollo Health City,117.44
-65,Vijetha Supermarket → Himalaya Book World → Apollo Health City,117.44
-66,Apollo Pharmacy → Croma Jubilee Hills → Naturals Salon → Chennai Shopping Mall → Page 3 Luxury Salon → Kimmee's Salon,10093.29
-67,Roastery Coffee House → Hyderabad Central → Nature's Basket → Q-Mart Gachibowli,126.85
-68,Apollo Pharmacy → Croma Jubilee Hills → Naturals Salon → Chennai Shopping Mall → Page 3 Luxury Salon → Kimmee's Salon,10093.29
-69,Karachi Bakery → Paradise Biryani Secunderabad → Croma Jubilee Hills → Apollo Pharmacy → D-Mart Begumpet,137.42
-70,Apollo Pharmacy → Croma Jubilee Hills → Naturals Salon → Chennai Shopping Mall → Page 3 Luxury Salon → Kimmee's Salon,10093.29
-71,Roastery Coffee House → Hyderabad Central → Nature's Basket → Q-Mart Gachibowli,126.85
-72,Karachi Bakery → Paradise Biryani Secunderabad → Croma Jubilee Hills → Apollo Pharmacy → D-Mart Begumpet,137.42
-73,Concu Jubilee Hills → Joyalukkas → Ratnadeep Supermarket → Hyderabad Central → Reliance Smart Jubilee → Karachi Bakery → Page 3 Luxury Salon,10242.48
-74,Karachi Bakery → Paradise Biryani Secunderabad → Apollo Pharmacy → D-Mart Begumpet,129.93
-75,Karachi Bakery → Paradise Biryani Secunderabad → Apollo Pharmacy → D-Mart Begumpet,129.93
-76,GRT Jewellers → Chutneys Restaurant → Crossword Bookstore → Nature's Basket → Spencer's Retail → Malabar Gold & Diamonds,222.94
-77,GRT Jewellers → Chutneys Restaurant → Crossword Bookstore → Nature's Basket → Spencer's Retail → Malabar Gold & Diamonds,222.94
-78,Concu Jubilee Hills → Joyalukkas → Ratnadeep Supermarket → Hyderabad Central → Reliance Smart Jubilee → Karachi Bakery → Page 3 Luxury Salon,10242.48
-79,GRT Jewellers → Chutneys Restaurant → Crossword Bookstore → Nature's Basket → Spencer's Retail → Malabar Gold & Diamonds,222.94
-80,Karachi Bakery → Paradise Biryani Secunderabad → Apollo Pharmacy → D-Mart Begumpet,129.93
-81,Apollo Pharmacy → Croma Jubilee Hills → Naturals Salon → Chennai Shopping Mall → Page 3 Luxury Salon,10085.22
-82,GRT Jewellers → Chutneys Restaurant → Crossword Bookstore → Nature's Basket → Spencer's Retail → Malabar Gold & Diamonds,222.94
-83,GRT Jewellers → Chutneys Restaurant → Crossword Bookstore → Nature's Basket → Spencer's Retail → Malabar Gold & Diamonds,222.94
-84,Roastery Coffee House → Hyderabad Central → Q-Mart Gachibowli,100.4
-85,GRT Jewellers → Chutneys Restaurant → Crossword Bookstore → Spencer's Retail → Malabar Gold & Diamonds,186.76
-86,Lakme Salon → Q-Mart Gachibowli → Himalaya Book World → Decathlon Madhapur → Adidas Originals → Shah Ghouse Gachibowli → Heritage Fresh,271.77
-87,Karachi Bakery → Apollo Pharmacy → D-Mart Begumpet,112.38
-88,GRT Jewellers → Chutneys Restaurant → Crossword Bookstore → Spencer's Retail → Malabar Gold & Diamonds,186.76
-89,Concu Jubilee Hills → Joyalukkas → Ratnadeep Supermarket → Hyderabad Central → Reliance Smart Jubilee → Karachi Bakery,243.48
-90,GRT Jewellers → Chutneys Restaurant → Crossword Bookstore → Spencer's Retail → Malabar Gold & Diamonds,186.76
-91,Concu Jubilee Hills → Joyalukkas → Ratnadeep Supermarket → Hyderabad Central → Reliance Smart Jubilee → Karachi Bakery,243.48
-92,GRT Jewellers → Chutneys Restaurant → Crossword Bookstore → Spencer's Retail → Malabar Gold & Diamonds,186.76
-93,Lakme Salon → Q-Mart Gachibowli → Himalaya Book World → Decathlon Madhapur → Adidas Originals → Shah Ghouse Gachibowli → Heritage Fresh,271.77
-94,Apollo Pharmacy → Croma Jubilee Hills → Naturals Salon → Page 3 Luxury Salon,10059.45
-95,Concu Jubilee Hills → Joyalukkas → Ratnadeep Supermarket → Hyderabad Central → Reliance Smart Jubilee → Karachi Bakery,243.48
-96,Lakme Salon → Q-Mart Gachibowli → Himalaya Book World → Decathlon Madhapur → Adidas Originals → Shah Ghouse Gachibowli → Heritage Fresh,271.77
-97,GRT Jewellers → Crossword Bookstore → Spencer's Retail → Malabar Gold & Diamonds,168.39
-98,Green Trends → Alankrita Boutique → Hyderabad Central → Bajaj Electronics → Reliance Digital → IKEA Hyderabad → Mebaz Banjara Hills,341.69
-99,GRT Jewellers → Crossword Bookstore → Spencer's Retail → Malabar Gold & Diamonds,168.39
-100,Apollo Pharmacy → Croma Jubilee Hills → Page 3 Luxury Salon,10026.15
-101,Concu Jubilee Hills → Joyalukkas → Ratnadeep Supermarket → Reliance Smart Jubilee → Karachi Bakery,181.0
-102,GRT Jewellers → Crossword Bookstore → Spencer's Retail → Malabar Gold & Diamonds,168.39
-103,Green Trends → Alankrita Boutique → Hyderabad Central → Bajaj Electronics → Reliance Digital → IKEA Hyderabad → Mebaz Banjara Hills,341.69
-104,Apollo Pharmacy → Croma Jubilee Hills → Page 3 Luxury Salon,10026.15
-105,Lakme Salon → Q-Mart Gachibowli → Himalaya Book World → Decathlon Madhapur → Adidas Originals → Heritage Fresh,253.39
-106,Concu Jubilee Hills → Joyalukkas → Ratnadeep Supermarket → Reliance Smart Jubilee → Karachi Bakery,181.0
-107,Apollo Pharmacy → Croma Jubilee Hills → Page 3 Luxury Salon,10026.15
-108,Concu Jubilee Hills → Joyalukkas → Ratnadeep Supermarket → Reliance Smart Jubilee → Karachi Bakery,181.0
-109,Green Trends → Hyderabad Central → Bajaj Electronics → Reliance Digital → IKEA Hyderabad → Mebaz Banjara Hills,296.73
-110,Naturals Salon → Heritage Fresh → Bata Shoe Store → Fabindia Gachibowli → MedPlus Madhapur → Apollo Pharmacy → Page 3 Luxury Salon,10181.98
-111,Naturals Salon → Heritage Fresh → Bata Shoe Store → Fabindia Gachibowli → MedPlus Madhapur → Apollo Pharmacy → Page 3 Luxury Salon,10181.98
-112,Naturals Salon → Heritage Fresh → Bata Shoe Store → Fabindia Gachibowli → MedPlus Madhapur → Apollo Pharmacy → Page 3 Luxury Salon,10181.98
-113,Green Trends → Hyderabad Central → Bajaj Electronics → Reliance Digital → IKEA Hyderabad → Mebaz Banjara Hills,296.73
-114,GRT Jewellers → Crossword Bookstore → Malabar Gold & Diamonds,141.12
-115,Naturals Salon → Heritage Fresh → Bata Shoe Store → Fabindia Gachibowli → MedPlus Madhapur → Apollo Pharmacy → Page 3 Luxury Salon,10181.98
-116,Lakme Salon → Q-Mart Gachibowli → Himalaya Book World → Adidas Originals → Heritage Fresh,236.37
-117,Concu Jubilee Hills → Joyalukkas → Reliance Smart Jubilee → Karachi Bakery,142.81
-118,GRT Jewellers → Crossword Bookstore → Malabar Gold & Diamonds,141.12
-119,Lakme Salon → Q-Mart Gachibowli → Himalaya Book World → Adidas Originals → Heritage Fresh,236.37
-120,Green Trends → Hyderabad Central → Bajaj Electronics → Reliance Digital → IKEA Hyderabad → Mebaz Banjara Hills,296.73
-121,Mebaz Banjara Hills → GRT Jewellers → Metro Cash & Carry → Croma Jubilee Hills → Khazana Jewellers → Puma Store → Kimmee's Salon,10218.62
-122,Naturals Salon → Heritage Fresh → Bata Shoe Store → Fabindia Gachibowli → Apollo Pharmacy → Page 3 Luxury Salon,10177.15
-123,Mebaz Banjara Hills → GRT Jewellers → Metro Cash & Carry → Croma Jubilee Hills → Khazana Jewellers → Puma Store → Kimmee's Salon,10218.62
-124,Lakme Salon → Q-Mart Gachibowli → Himalaya Book World → Heritage Fresh,169.79
-125,Green Trends → Hyderabad Central → Mebaz Banjara Hills → Reliance Digital → IKEA Hyderabad,228.69
-126,Mebaz Banjara Hills → GRT Jewellers → Metro Cash & Carry → Croma Jubilee Hills → Khazana Jewellers → Puma Store → Kimmee's Salon,10218.62
-127,Naturals Salon → Heritage Fresh → Bata Shoe Store → Fabindia Gachibowli → Apollo Pharmacy → Page 3 Luxury Salon,10177.15
-128,Green Trends → Hyderabad Central → Mebaz Banjara Hills → Reliance Digital → IKEA Hyderabad,228.69
-129,Mebaz Banjara Hills → GRT Jewellers → Metro Cash & Carry → Croma Jubilee Hills → Khazana Jewellers → Puma Store → Kimmee's Salon,10218.62
-130,Green Trends → Hyderabad Central → Mebaz Banjara Hills → Reliance Digital → IKEA Hyderabad,228.69
-131,Lakme Salon → Q-Mart Gachibowli → Himalaya Book World → Heritage Fresh,169.79
-132,Naturals Salon → Heritage Fresh → Bata Shoe Store → Fabindia Gachibowli → Apollo Pharmacy → Page 3 Luxury Salon,10177.15
-133,Mebaz Banjara Hills → GRT Jewellers → Metro Cash & Carry → Croma Jubilee Hills → Puma Store → Kimmee's Salon,10192.18
-134,Lakme Salon → Heritage Fresh → Himalaya Book World,148.64
-135,Green Trends → Mebaz Banjara Hills → Reliance Digital → IKEA Hyderabad,196.17
-136,Lakme Salon → Heritage Fresh → Himalaya Book World,148.64
-137,Green Trends → Mebaz Banjara Hills → Reliance Digital → IKEA Hyderabad,196.17
-138,Lakme Salon → Heritage Fresh → Himalaya Book World,148.64
-139,Naturals Salon → Heritage Fresh → Fabindia Gachibowli → Apollo Pharmacy → Page 3 Luxury Salon,10163.97
-140,Naturals Salon → Heritage Fresh → Fabindia Gachibowli → Apollo Pharmacy → Page 3 Luxury Salon,10163.97
-141,Lakme Salon → Heritage Fresh → Himalaya Book World,148.64
-142,Mebaz Banjara Hills → GRT Jewellers → Metro Cash & Carry → Croma Jubilee Hills → Puma Store → Kimmee's Salon,10192.18
-143,Naturals Salon → Heritage Fresh → Fabindia Gachibowli → Apollo Pharmacy → Page 3 Luxury Salon,10163.97
-144,Mebaz Banjara Hills → GRT Jewellers → Metro Cash & Carry → Croma Jubilee Hills → Puma Store → Kimmee's Salon,10192.18
-145,Kimmee's Salon → Crossword Bookstore → Forum Sujana Zara → Reliance Digital → Pista House → Nature's Basket,204.15
-146,South India Shopping Mall → Alankrita Boutique → Hyderabad Central → Q-Mart Gachibowli → Lalitha Jewellery → Pista House → IKEA Hyderabad,279.39
-147,Kimmee's Salon → Crossword Bookstore → Forum Sujana Zara → Reliance Digital → Pista House → Nature's Basket,204.15
-148,Green Trends → Mebaz Banjara Hills → Reliance Digital,135.8
-149,Kimmee's Salon → Crossword Bookstore → Forum Sujana Zara → Reliance Digital → Pista House → Nature's Basket,204.15
-150,Kimmee's Salon → Crossword Bookstore → Forum Sujana Zara → Reliance Digital → Pista House → Nature's Basket,204.15
-151,Mebaz Banjara Hills → GRT Jewellers → Croma Jubilee Hills → Puma Store → Kimmee's Salon,10149.84
-152,South India Shopping Mall → Alankrita Boutique → Hyderabad Central → Q-Mart Gachibowli → Lalitha Jewellery → Pista House → IKEA Hyderabad,279.39
-153,Green Trends → Mebaz Banjara Hills → Reliance Digital,135.8
-154,South India Shopping Mall → Alankrita Boutique → Hyderabad Central → Q-Mart Gachibowli → Lalitha Jewellery → Pista House → IKEA Hyderabad,279.39
-155,Green Trends → Mebaz Banjara Hills → Reliance Digital,135.8
-156,South India Shopping Mall → Alankrita Boutique → Hyderabad Central → Q-Mart Gachibowli → Lalitha Jewellery → Pista House → IKEA Hyderabad,279.39
-157,Kimmee's Salon → Crossword Bookstore → Nature's Basket → Reliance Digital → Pista House,164.72
-158,Mebaz Banjara Hills → GRT Jewellers → Puma Store → Kimmee's Salon,10106.76
-159,South India Shopping Mall → Alankrita Boutique → Hyderabad Central → Lalitha Jewellery → Pista House → IKEA Hyderabad,240.32
-160,South India Shopping Mall → Alankrita Boutique → Hyderabad Central → Lalitha Jewellery → Pista House → IKEA Hyderabad,240.32
-161,South India Shopping Mall → Alankrita Boutique → Hyderabad Central → Lalitha Jewellery → Pista House → IKEA Hyderabad,240.32
-162,South India Shopping Mall → Alankrita Boutique → Hyderabad Central → Lalitha Jewellery → Pista House → IKEA Hyderabad,240.32
-163,Naturals Salon → Heritage Fresh → Page 3 Luxury Salon,10042.35
-164,Kimmee's Salon → Crossword Bookstore → Nature's Basket → Reliance Digital → Pista House,164.72
-165,South India Shopping Mall → Alankrita Boutique → Hyderabad Central → Lalitha Jewellery → Pista House → IKEA Hyderabad,240.32
-166,Reliance Smart Jubilee → Jos Alukkas → Forum Sujana Zara → Apollo Health City → Kalanikethan Kukatpally → Metro Shoes → Darpan Furnishings,232.77
-167,Mebaz Banjara Hills → GRT Jewellers → Puma Store → Kimmee's Salon,10106.76
-168,Naturals Salon → Heritage Fresh → Page 3 Luxury Salon,10042.35
-169,Mebaz Banjara Hills → GRT Jewellers → Kimmee's Salon,10039.18
-170,Mebaz Banjara Hills → GRT Jewellers → Kimmee's Salon,10039.18
-171,Mebaz Banjara Hills → GRT Jewellers → Kimmee's Salon,10039.18
-172,Reliance Smart Jubilee → Jos Alukkas → Forum Sujana Zara → Apollo Health City → Kalanikethan Kukatpally → Darpan Furnishings,226.67
-173,Reliance Smart Jubilee → Jos Alukkas → Forum Sujana Zara → Apollo Health City → Kalanikethan Kukatpally → Darpan Furnishings,226.67
-174,Kimmee's Salon → Crossword Bookstore → Nature's Basket → Pista House,135.63
-175,Kimmee's Salon → Crossword Bookstore → Nature's Basket → Pista House,135.63
-176,Darpan Furnishings → Karachi Bakery → Reliance Digital → Chennai Shopping Mall → Heritage Fresh → Puma Store → Kalanikethan Kukatpally,248.04
-177,Mebaz Banjara Hills → GRT Jewellers → Kimmee's Salon,10039.18
-178,Reliance Smart Jubilee → Jos Alukkas → Forum Sujana Zara → Apollo Health City → Kalanikethan Kukatpally → Darpan Furnishings,226.67
-179,South India Shopping Mall → Alankrita Boutique → Hyderabad Central → Lalitha Jewellery → Pista House,198.89
-180,Darpan Furnishings → Karachi Bakery → Reliance Digital → Chennai Shopping Mall → Heritage Fresh → Puma Store → Kalanikethan Kukatpally,248.04
-181,South India Shopping Mall → Alankrita Boutique → Hyderabad Central → Lalitha Jewellery,155.86
-182,Reliance Smart Jubilee → Jos Alukkas → Apollo Health City → Kalanikethan Kukatpally → Darpan Furnishings,212.15
-183,Kimmee's Salon → Crossword Bookstore → Pista House,100.48
-184,South India Shopping Mall → Alankrita Boutique → Hyderabad Central → Lalitha Jewellery,155.86
-185,Cafe Niloufer → Adidas Originals → MedPlus Madhapur → Q-Mart Gachibowli → Jos Alukkas → Forum Sujana Zara → Kimmee's Salon,10214.1
-186,Reliance Smart Jubilee → Jos Alukkas → Apollo Health City → Kalanikethan Kukatpally → Darpan Furnishings,212.15
-187,Kimmee's Salon → Crossword Bookstore → Pista House,100.48
-188,Kimmee's Salon → Crossword Bookstore → Pista House,100.48
-189,Reliance Smart Jubilee → Jos Alukkas → Apollo Health City → Kalanikethan Kukatpally → Darpan Furnishings,212.15
-190,Cafe Niloufer → Adidas Originals → MedPlus Madhapur → Q-Mart Gachibowli → Jos Alukkas → Forum Sujana Zara → Kimmee's Salon,10214.1
-191,Cafe Niloufer → Adidas Originals → MedPlus Madhapur → Q-Mart Gachibowli → Jos Alukkas → Forum Sujana Zara → Kimmee's Salon,10214.1
-192,Kimmee's Salon → Crossword Bookstore → Pista House,100.48
-193,Darpan Furnishings → Reliance Digital → Heritage Fresh → Puma Store → Kalanikethan Kukatpally,204.27
-194,South India Shopping Mall → Alankrita Boutique → Lalitha Jewellery,111.13
-195,Cafe Niloufer → Adidas Originals → MedPlus Madhapur → Q-Mart Gachibowli → Jos Alukkas → Forum Sujana Zara,215.1
-196,Shah Ghouse Gachibowli → South India Shopping Mall → Spencer's Retail → Joyalukkas → Adidas Originals → IKEA Hyderabad → Bawarchi RTC X Roads,330.82
-197,Darpan Furnishings → Reliance Digital → Heritage Fresh → Puma Store → Kalanikethan Kukatpally,204.27
-198,Cafe Niloufer → Adidas Originals → MedPlus Madhapur → Q-Mart Gachibowli → Jos Alukkas → Forum Sujana Zara,215.1
-199,Reliance Smart Jubilee → Jos Alukkas → Darpan Furnishings → Kalanikethan Kukatpally,177.25
-200,Shah Ghouse Gachibowli → South India Shopping Mall → Spencer's Retail → Joyalukkas → Adidas Originals → IKEA Hyderabad → Bawarchi RTC X Roads,330.82
-201,South India Shopping Mall → Alankrita Boutique → Lalitha Jewellery,111.13
-202,Darpan Furnishings → Reliance Digital → Heritage Fresh → Puma Store → Kalanikethan Kukatpally,204.27
-203,Cafe Niloufer → Adidas Originals → MedPlus Madhapur → Q-Mart Gachibowli → Jos Alukkas → Forum Sujana Zara,215.1
-204,South India Shopping Mall → Alankrita Boutique → Lalitha Jewellery,111.13
-205,Himalaya Book World → Lalitha Jewellery → Sarath City Capital H&M → Chennai Shopping Mall → Chutneys Restaurant → Cafe Niloufer → Page 3 Luxury Salon,10226.47
-206,Darpan Furnishings → Reliance Digital → Kalanikethan Kukatpally → Puma Store,148.1
-207,Darpan Furnishings → Reliance Digital → Kalanikethan Kukatpally → Puma Store,148.1
-208,Reliance Smart Jubilee → Darpan Furnishings → Kalanikethan Kukatpally,142.28
-209,Himalaya Book World → Lalitha Jewellery → Sarath City Capital H&M → Chennai Shopping Mall → Chutneys Restaurant → Cafe Niloufer → Page 3 Luxury Salon,10226.47
-210,Darpan Furnishings → Reliance Digital → Kalanikethan Kukatpally → Puma Store,148.1
-211,Cafe Niloufer → MedPlus Madhapur → Q-Mart Gachibowli → Jos Alukkas → Forum Sujana Zara,197.88
-212,Himalaya Book World → Lalitha Jewellery → Sarath City Capital H&M → Chennai Shopping Mall → Chutneys Restaurant → Cafe Niloufer → Page 3 Luxury Salon,10226.47
-213,Cafe Niloufer → MedPlus Madhapur → Q-Mart Gachibowli → Jos Alukkas → Forum Sujana Zara,197.88
-214,Darpan Furnishings → Reliance Digital → Kalanikethan Kukatpally → Puma Store,148.1
-215,Darpan Furnishings → Reliance Digital → Kalanikethan Kukatpally → Puma Store,148.1
-216,Reliance Smart Jubilee → Darpan Furnishings → Kalanikethan Kukatpally,142.28
-217,Cafe Niloufer → MedPlus Madhapur → Jos Alukkas → Forum Sujana Zara,164.81
-218,Cafe Niloufer → MedPlus Madhapur → Jos Alukkas → Forum Sujana Zara,164.81
-219,Chennai Shopping Mall → Forum Sujana Zara → Shah Ghouse Gachibowli → Green Trends → Nature's Basket → Sarath City Capital H&M → Paradise Biryani Secunderabad,281.31
-220,Darpan Furnishings → Kalanikethan Kukatpally → Puma Store,96.08
-221,Himalaya Book World → Lalitha Jewellery → Sarath City Capital H&M → Chutneys Restaurant → Cafe Niloufer → Page 3 Luxury Salon,10197.32
-222,Chennai Shopping Mall → Forum Sujana Zara → Shah Ghouse Gachibowli → Green Trends → Nature's Basket → Sarath City Capital H&M → Paradise Biryani Secunderabad,281.31
-223,Darpan Furnishings → Kalanikethan Kukatpally → Puma Store,96.08
-224,Chennai Shopping Mall → Forum Sujana Zara → Shah Ghouse Gachibowli → Green Trends → Nature's Basket → Sarath City Capital H&M → Paradise Biryani Secunderabad,281.31
-225,Shah Ghouse Gachibowli → Spencer's Retail → Adidas Originals → IKEA Hyderabad → Bawarchi RTC X Roads,291.49
-226,Darpan Furnishings → Kalanikethan Kukatpally → Puma Store,96.08
-227,Chennai Shopping Mall → Forum Sujana Zara → Shah Ghouse Gachibowli → Green Trends → Nature's Basket → Sarath City Capital H&M → Paradise Biryani Secunderabad,281.31
-228,Cafe Niloufer → MedPlus Madhapur → Jos Alukkas → Forum Sujana Zara,164.81
-229,Cafe Niloufer → MedPlus Madhapur → Jos Alukkas,127.66
-230,Shah Ghouse Gachibowli → Spencer's Retail → Adidas Originals → IKEA Hyderabad,182.02
-231,Cafe Niloufer → MedPlus Madhapur → Jos Alukkas,127.66
-232,Himalaya Book World → Lalitha Jewellery → Sarath City Capital H&M → Chutneys Restaurant → Cafe Niloufer,198.32
-233,Chennai Shopping Mall → Forum Sujana Zara → Shah Ghouse Gachibowli → Green Trends → Nature's Basket → Sarath City Capital H&M,238.38
-234,Cafe Niloufer → MedPlus Madhapur → Jos Alukkas,127.66
-235,Chennai Shopping Mall → Forum Sujana Zara → Shah Ghouse Gachibowli → Green Trends → Nature's Basket → Sarath City Capital H&M,238.38
-236,Cafe Niloufer → MedPlus Madhapur → Jos Alukkas,127.66
-237,Shah Ghouse Gachibowli → Spencer's Retail → Adidas Originals → IKEA Hyderabad,182.02
-238,Inorbit Mall Shoppers Stop → Joyalukkas → Metro Cash & Carry → Ghanshyam Supermarket → GVK One Lifestyle → Heritage Fresh → Page 3 Luxury Salon,10224.23
-239,Inorbit Mall Shoppers Stop → Joyalukkas → Metro Cash & Carry → Ghanshyam Supermarket → GVK One Lifestyle → Heritage Fresh → Page 3 Luxury Salon,10224.23
-240,Shah Ghouse Gachibowli → Spencer's Retail → Adidas Originals → IKEA Hyderabad,182.02
-241,Himalaya Book World → Lalitha Jewellery → Sarath City Capital H&M → Cafe Niloufer,124.95
-242,Apollo Health City → Bata Shoe Store → Puma Store → Metro Shoes → Q-Mart Gachibowli → Bajaj Electronics → GVK One Lifestyle,255.45
-243,Himalaya Book World → Lalitha Jewellery → Sarath City Capital H&M → Cafe Niloufer,124.95
-244,Himalaya Book World → Lalitha Jewellery → Sarath City Capital H&M → Cafe Niloufer,124.95
-245,Chennai Shopping Mall → Forum Sujana Zara → Shah Ghouse Gachibowli → Nature's Basket → Sarath City Capital H&M,194.1
-246,Shah Ghouse Gachibowli → Adidas Originals → IKEA Hyderabad,133.39
-247,Shah Ghouse Gachibowli → Adidas Originals → IKEA Hyderabad,133.39
-248,Shah Ghouse Gachibowli → Adidas Originals → IKEA Hyderabad,133.39
-249,Inorbit Mall Shoppers Stop → Joyalukkas → Metro Cash & Carry → Ghanshyam Supermarket → GVK One Lifestyle → Page 3 Luxury Salon,10205.78
-250,Apollo Health City → Bata Shoe Store → Puma Store → Metro Shoes → Q-Mart Gachibowli → Bajaj Electronics → GVK One Lifestyle,255.45
-251,Inorbit Mall Shoppers Stop → Joyalukkas → Metro Cash & Carry → Ghanshyam Supermarket → GVK One Lifestyle → Page 3 Luxury Salon,10205.78
-252,Himalaya Book World → Lalitha Jewellery → Sarath City Capital H&M → Cafe Niloufer,124.95
-253,Chennai Shopping Mall → Forum Sujana Zara → Shah Ghouse Gachibowli → Sarath City Capital H&M,165.25
-254,Chennai Shopping Mall → Forum Sujana Zara → Shah Ghouse Gachibowli → Sarath City Capital H&M,165.25
-255,Bajaj Electronics → Joyalukkas → Himalaya Book World → Paradise Biryani Secunderabad → Chennai Shopping Mall → GVK One Lifestyle → Crossword Bookstore,252.5
-256,Inorbit Mall Shoppers Stop → Metro Cash & Carry → Ghanshyam Supermarket → GVK One Lifestyle → Page 3 Luxury Salon,10148.9
-257,Chennai Shopping Mall → Forum Sujana Zara → Shah Ghouse Gachibowli → Sarath City Capital H&M,165.25
-258,Himalaya Book World → Lalitha Jewellery → Cafe Niloufer,117.71
-259,Chennai Shopping Mall → Forum Sujana Zara → Shah Ghouse Gachibowli → Sarath City Capital H&M,165.25
-260,Himalaya Book World → Lalitha Jewellery → Cafe Niloufer,117.71
-261,Apollo Health City → Puma Store → Metro Shoes → Q-Mart Gachibowli → Bajaj Electronics → GVK One Lifestyle,246.33
-262,Apollo Health City → Puma Store → Metro Shoes → Q-Mart Gachibowli → Bajaj Electronics → GVK One Lifestyle,246.33
-263,Bajaj Electronics → Joyalukkas → Himalaya Book World → Paradise Biryani Secunderabad → Chennai Shopping Mall → GVK One Lifestyle → Crossword Bookstore,252.5
-264,Inorbit Mall Shoppers Stop → Metro Cash & Carry → Ghanshyam Supermarket → GVK One Lifestyle → Page 3 Luxury Salon,10148.9
-265,Inorbit Mall Shoppers Stop → Metro Cash & Carry → Ghanshyam Supermarket → Page 3 Luxury Salon,10125.65
-266,Inorbit Mall Shoppers Stop → Metro Cash & Carry → Ghanshyam Supermarket → Page 3 Luxury Salon,10125.65
-267,Page 3 Luxury Salon → Apollo Pharmacy → Himalaya Book World → Aroma Boutique → Nature's Basket → Kalanikethan Kukatpally → Metro Cash & Carry,10242.59
-268,Page 3 Luxury Salon → Apollo Pharmacy → Himalaya Book World → Aroma Boutique → Nature's Basket → Kalanikethan Kukatpally → Metro Cash & Carry,10242.59
-269,Inorbit Mall Shoppers Stop → Metro Cash & Carry → Ghanshyam Supermarket → Page 3 Luxury Salon,10125.65
-270,Apollo Health City → Puma Store → Metro Shoes → Q-Mart Gachibowli → GVK One Lifestyle,177.73
-271,Inorbit Mall Shoppers Stop → Metro Cash & Carry → Ghanshyam Supermarket → Page 3 Luxury Salon,10125.65
-272,Page 3 Luxury Salon → Apollo Pharmacy → Himalaya Book World → Aroma Boutique → Nature's Basket → Kalanikethan Kukatpally → Metro Cash & Carry,10242.59
-273,Page 3 Luxury Salon → Apollo Pharmacy → Himalaya Book World → Aroma Boutique → Nature's Basket → Kalanikethan Kukatpally → Metro Cash & Carry,10242.59
-274,Page 3 Luxury Salon → Apollo Pharmacy → Himalaya Book World → Aroma Boutique → Nature's Basket → Kalanikethan Kukatpally → Metro Cash & Carry,10242.59
-275,Chennai Shopping Mall → Forum Sujana Zara → Sarath City Capital H&M,99.07
-276,Apollo Health City → Puma Store → Metro Shoes → Q-Mart Gachibowli → GVK One Lifestyle,177.73
-277,Bajaj Electronics → Joyalukkas → Paradise Biryani Secunderabad → Chennai Shopping Mall → Crossword Bookstore,207.85
-278,Apollo Health City → Puma Store → Q-Mart Gachibowli → GVK One Lifestyle,172.29
-279,Page 3 Luxury Salon → Apollo Pharmacy → Aroma Boutique → Nature's Basket → Kalanikethan Kukatpally → Metro Cash & Carry,10198.74
-280,Apollo Health City → Puma Store → Q-Mart Gachibowli → GVK One Lifestyle,172.29
-281,Bajaj Electronics → Joyalukkas → Paradise Biryani Secunderabad → Chennai Shopping Mall → Crossword Bookstore,207.85
-282,Inorbit Mall Shoppers Stop → Metro Cash & Carry → Ghanshyam Supermarket,126.65
-283,Page 3 Luxury Salon → Apollo Pharmacy → Aroma Boutique → Nature's Basket → Kalanikethan Kukatpally → Metro Cash & Carry,10198.74
-284,Apollo Health City → Puma Store → Q-Mart Gachibowli → GVK One Lifestyle,172.29
-285,Apollo Health City → Puma Store → Q-Mart Gachibowli → GVK One Lifestyle,172.29
-286,Bajaj Electronics → Joyalukkas → Paradise Biryani Secunderabad → Chennai Shopping Mall → Crossword Bookstore,207.85
-287,Chennai Shopping Mall → Reliance Digital → Inorbit Mall Shoppers Stop → Malabar Gold & Diamonds → Bajaj Electronics → Nike Exclusive Store → Apollo Health City,256.05
-288,Bajaj Electronics → Joyalukkas → Paradise Biryani Secunderabad → Chennai Shopping Mall → Crossword Bookstore,207.85
-289,Chennai Shopping Mall → Reliance Digital → Inorbit Mall Shoppers Stop → Malabar Gold & Diamonds → Nike Exclusive Store → Apollo Health City,236.92
-290,Chennai Shopping Mall → Reliance Digital → Inorbit Mall Shoppers Stop → Malabar Gold & Diamonds → Nike Exclusive Store → Apollo Health City,236.92
-291,Apollo Health City → Puma Store → Q-Mart Gachibowli,102.61
-292,Chennai Shopping Mall → Reliance Digital → Inorbit Mall Shoppers Stop → Malabar Gold & Diamonds → Nike Exclusive Store → Apollo Health City,236.92
-293,Page 3 Luxury Salon → Apollo Pharmacy → Aroma Boutique → Nature's Basket → Kalanikethan Kukatpally,10102.37
-294,Reliance Smart Jubilee → Sarath City Capital H&M → Spencer's Retail → Alankrita Boutique → Ghanshyam Supermarket → Heritage Fresh → Cafe Niloufer,266.29
-295,Bajaj Electronics → Paradise Biryani Secunderabad → Chennai Shopping Mall → Crossword Bookstore,189.26
-296,Apollo Health City → Puma Store → Q-Mart Gachibowli,102.61
-297,Reliance Smart Jubilee → Sarath City Capital H&M → Spencer's Retail → Alankrita Boutique → Ghanshyam Supermarket → Heritage Fresh → Cafe Niloufer,266.29
-298,Page 3 Luxury Salon → Apollo Pharmacy → Aroma Boutique → Nature's Basket → Kalanikethan Kukatpally,10102.37
-299,Chennai Shopping Mall → Reliance Digital → Inorbit Mall Shoppers Stop → Malabar Gold & Diamonds → Nike Exclusive Store → Apollo Health City,236.92
-300,Page 3 Luxury Salon → Apollo Pharmacy → Aroma Boutique → Nature's Basket → Kalanikethan Kukatpally,10102.37
-301,Reliance Smart Jubilee → Sarath City Capital H&M → Heritage Fresh → Ghanshyam Supermarket → Alankrita Boutique → Cafe Niloufer,252.12
-302,Bajaj Electronics → Paradise Biryani Secunderabad → Chennai Shopping Mall,129.46
-303,Page 3 Luxury Salon → Apollo Pharmacy → Nature's Basket → Kalanikethan Kukatpally,10099.2
-304,Chennai Shopping Mall → Reliance Digital → Inorbit Mall Shoppers Stop → Malabar Gold & Diamonds → Nike Exclusive Store,178.69
-305,Chennai Shopping Mall → Reliance Digital → Inorbit Mall Shoppers Stop → Malabar Gold & Diamonds → Nike Exclusive Store,178.69
-306,Page 3 Luxury Salon → Apollo Pharmacy → Nature's Basket → Kalanikethan Kukatpally,10099.2
-307,Reliance Smart Jubilee → Sarath City Capital H&M → Heritage Fresh → Ghanshyam Supermarket → Alankrita Boutique → Cafe Niloufer,252.12
-308,Page 3 Luxury Salon → Apollo Pharmacy → Nature's Basket → Kalanikethan Kukatpally,10099.2
-309,Chennai Shopping Mall → Reliance Digital → Inorbit Mall Shoppers Stop → Malabar Gold & Diamonds → Nike Exclusive Store,178.69
-310,Bajaj Electronics → Paradise Biryani Secunderabad → Chennai Shopping Mall,129.46
-311,Chennai Shopping Mall → Reliance Digital → Inorbit Mall Shoppers Stop → Malabar Gold & Diamonds → Nike Exclusive Store,178.69
-312,Bajaj Electronics → Paradise Biryani Secunderabad → Chennai Shopping Mall,129.46
-313,Chennai Shopping Mall → Reliance Digital → Inorbit Mall Shoppers Stop → Nike Exclusive Store,171.87
-314,Page 3 Luxury Salon → Apollo Pharmacy → Kalanikethan Kukatpally,10058.18
-315,Reliance Smart Jubilee → Sarath City Capital H&M → Heritage Fresh → Ghanshyam Supermarket → Alankrita Boutique,174.04
-316,Reliance Smart Jubilee → Sarath City Capital H&M → Heritage Fresh → Ghanshyam Supermarket → Alankrita Boutique,174.04
-317,Page 3 Luxury Salon → Apollo Pharmacy → Kalanikethan Kukatpally,10058.18
-318,Chennai Shopping Mall → Reliance Digital → Inorbit Mall Shoppers Stop → Nike Exclusive Store,171.87
-319,Reliance Smart Jubilee → Sarath City Capital H&M → Heritage Fresh → Ghanshyam Supermarket → Alankrita Boutique,174.04
-320,Chennai Shopping Mall → Reliance Digital → Inorbit Mall Shoppers Stop → Nike Exclusive Store,171.87
-321,Crossword Bookstore → Bata Shoe Store → Forum Sujana Zara → Croma Jubilee Hills → Lalitha Jewellery → Metro Shoes,183.12
-322,Crossword Bookstore → Bata Shoe Store → Forum Sujana Zara → Croma Jubilee Hills → Lalitha Jewellery → Metro Shoes,183.12
-323,Joyalukkas → Q-Mart Gachibowli → Himalaya Book World → Pista House → Chutneys Restaurant → Bawarchi RTC X Roads → Ghanshyam Supermarket,242.49
-324,Crossword Bookstore → Bata Shoe Store → Forum Sujana Zara → Croma Jubilee Hills → Lalitha Jewellery → Metro Shoes,183.12
-325,Joyalukkas → Q-Mart Gachibowli → Himalaya Book World → Chutneys Restaurant → Bawarchi RTC X Roads → Ghanshyam Supermarket,223.18
-326,Bawarchi RTC X Roads → Wildcraft Store → Apollo Health City → D-Mart Begumpet → Himalaya Book World → Vijetha Supermarket → Karachi Bakery,252.89
-327,Bawarchi RTC X Roads → Wildcraft Store → Apollo Health City → D-Mart Begumpet → Himalaya Book World → Vijetha Supermarket → Karachi Bakery,252.89
-328,Chennai Shopping Mall → Inorbit Mall Shoppers Stop → Nike Exclusive Store,154.4
-329,Chennai Shopping Mall → Inorbit Mall Shoppers Stop → Nike Exclusive Store,154.4
-330,Joyalukkas → Q-Mart Gachibowli → Himalaya Book World → Chutneys Restaurant → Bawarchi RTC X Roads → Ghanshyam Supermarket,223.18
-331,Bawarchi RTC X Roads → Wildcraft Store → Apollo Health City → D-Mart Begumpet → Himalaya Book World → Vijetha Supermarket → Karachi Bakery,252.89
-332,Joyalukkas → Q-Mart Gachibowli → Himalaya Book World → Chutneys Restaurant → Bawarchi RTC X Roads → Ghanshyam Supermarket,223.18
-333,Reliance Smart Jubilee → Sarath City Capital H&M → Alankrita Boutique → Ghanshyam Supermarket,145.94
-334,Bawarchi RTC X Roads → Wildcraft Store → Apollo Health City → D-Mart Begumpet → Himalaya Book World → Vijetha Supermarket → Karachi Bakery,252.89
-335,Chennai Shopping Mall → Inorbit Mall Shoppers Stop → Nike Exclusive Store,154.4
-336,Chennai Shopping Mall → Inorbit Mall Shoppers Stop → Nike Exclusive Store,154.4
-337,Reliance Smart Jubilee → Ghanshyam Supermarket → Alankrita Boutique,97.42
-338,Alankrita Boutique → Apollo Pharmacy → Himalaya Book World → Aroma Boutique → Nike Exclusive Store → Adidas Originals → Chutneys Restaurant,311.37
-339,Bawarchi RTC X Roads → Wildcraft Store → D-Mart Begumpet → Himalaya Book World → Vijetha Supermarket → Karachi Bakery,241.39
-340,Reliance Smart Jubilee → Ghanshyam Supermarket → Alankrita Boutique,97.42
-341,Reliance Smart Jubilee → Ghanshyam Supermarket → Alankrita Boutique,97.42
-342,Reliance Smart Jubilee → Ghanshyam Supermarket → Alankrita Boutique,97.42
-343,Bawarchi RTC X Roads → Wildcraft Store → D-Mart Begumpet → Himalaya Book World → Vijetha Supermarket → Karachi Bakery,241.39
-344,Joyalukkas → Q-Mart Gachibowli → Ghanshyam Supermarket → Bawarchi RTC X Roads → Chutneys Restaurant,156.14
-345,Alankrita Boutique → Apollo Pharmacy → Himalaya Book World → Aroma Boutique → Nike Exclusive Store → Adidas Originals → Chutneys Restaurant,311.37
-346,Joyalukkas → Q-Mart Gachibowli → Ghanshyam Supermarket → Bawarchi RTC X Roads → Chutneys Restaurant,156.14
-347,Alankrita Boutique → Apollo Pharmacy → Himalaya Book World → Aroma Boutique → Nike Exclusive Store → Adidas Originals → Chutneys Restaurant,311.37
-348,Reliance Smart Jubilee → Ghanshyam Supermarket → Alankrita Boutique,97.42
-349,Lalitha Jewellery → Bajaj Electronics → Neeru's Emporio → Decathlon Madhapur → Green Trends → Bawarchi RTC X Roads → Malabar Gold & Diamonds,331.94
-350,Alankrita Boutique → Apollo Pharmacy → Himalaya Book World → Aroma Boutique → Adidas Originals → Chutneys Restaurant,277.62
-351,Lalitha Jewellery → Bajaj Electronics → Neeru's Emporio → Decathlon Madhapur → Green Trends → Bawarchi RTC X Roads → Malabar Gold & Diamonds,331.94
-352,Joyalukkas → Chutneys Restaurant → Bawarchi RTC X Roads → Ghanshyam Supermarket,134.2
-353,Joyalukkas → Chutneys Restaurant → Bawarchi RTC X Roads → Ghanshyam Supermarket,134.2
-354,Crossword Bookstore → Forum Sujana Zara → Lalitha Jewellery,96.65
-355,Joyalukkas → Chutneys Restaurant → Bawarchi RTC X Roads → Ghanshyam Supermarket,134.2
-356,Lalitha Jewellery → Bajaj Electronics → Neeru's Emporio → Decathlon Madhapur → Green Trends → Bawarchi RTC X Roads → Malabar Gold & Diamonds,331.94
-357,Alankrita Boutique → Apollo Pharmacy → Himalaya Book World → Aroma Boutique → Adidas Originals → Chutneys Restaurant,277.62
-358,Alankrita Boutique → Apollo Pharmacy → Himalaya Book World → Aroma Boutique → Adidas Originals → Chutneys Restaurant,277.62
-359,Crossword Bookstore → Forum Sujana Zara → Lalitha Jewellery,96.65
-360,Bawarchi RTC X Roads → Wildcraft Store → D-Mart Begumpet → Vijetha Supermarket → Karachi Bakery,211.83
-361,Metro Cash & Carry → Ghanshyam Supermarket → Sarath City Capital H&M → Paradise Biryani Secunderabad → Malabar Gold & Diamonds → Bajaj Electronics → Ratnadeep Supermarket,263.61
-362,Metro Cash & Carry → Ghanshyam Supermarket → Sarath City Capital H&M → Paradise Biryani Secunderabad → Malabar Gold & Diamonds → Bajaj Electronics → Ratnadeep Supermarket,263.61
-363,Alankrita Boutique → Apollo Pharmacy → Himalaya Book World → Aroma Boutique → Adidas Originals,189.32
-364,Lalitha Jewellery → Bajaj Electronics → Decathlon Madhapur → Green Trends → Bawarchi RTC X Roads → Malabar Gold & Diamonds,317.62
-365,Metro Cash & Carry → Ghanshyam Supermarket → Sarath City Capital H&M → Paradise Biryani Secunderabad → Malabar Gold & Diamonds → Bajaj Electronics → Ratnadeep Supermarket,263.61
-366,Joyalukkas → Chutneys Restaurant → Bawarchi RTC X Roads,117.52
-367,Lalitha Jewellery → Bajaj Electronics → Decathlon Madhapur → Green Trends → Bawarchi RTC X Roads → Malabar Gold & Diamonds,317.62
-368,Lalitha Jewellery → Bajaj Electronics → Decathlon Madhapur → Green Trends → Bawarchi RTC X Roads → Malabar Gold & Diamonds,317.62
-369,Metro Cash & Carry → Ghanshyam Supermarket → Sarath City Capital H&M → Paradise Biryani Secunderabad → Malabar Gold & Diamonds → Bajaj Electronics → Ratnadeep Supermarket,263.61
-370,Bawarchi RTC X Roads → Wildcraft Store → D-Mart Begumpet → Karachi Bakery,201.35
-371,Joyalukkas → Chutneys Restaurant → Bawarchi RTC X Roads,117.52
-372,Bawarchi RTC X Roads → Wildcraft Store → D-Mart Begumpet → Karachi Bakery,201.35
-373,Bawarchi RTC X Roads → Wildcraft Store → D-Mart Begumpet,129.83
-374,Alankrita Boutique → Aroma Boutique → Adidas Originals → Himalaya Book World,178.42
-375,Pista House → Spencer's Retail → Kalanikethan Kukatpally → Puma Store → Ratnadeep Supermarket → Khazana Jewellers → Mebaz Banjara Hills,300.98
-376,Alankrita Boutique → Aroma Boutique → Adidas Originals → Himalaya Book World,178.42
-377,Metro Cash & Carry → Sarath City Capital H&M → Paradise Biryani Secunderabad → Malabar Gold & Diamonds → Bajaj Electronics → Ratnadeep Supermarket,195.35
-378,Alankrita Boutique → Aroma Boutique → Adidas Originals → Himalaya Book World,178.42
-379,Metro Cash & Carry → Sarath City Capital H&M → Paradise Biryani Secunderabad → Malabar Gold & Diamonds → Bajaj Electronics → Ratnadeep Supermarket,195.35
-380,Pista House → Spencer's Retail → Kalanikethan Kukatpally → Puma Store → Ratnadeep Supermarket → Khazana Jewellers → Mebaz Banjara Hills,300.98
-381,Lalitha Jewellery → Bajaj Electronics → Decathlon Madhapur → Malabar Gold & Diamonds → Bawarchi RTC X Roads,267.53
-382,Pista House → Spencer's Retail → Kalanikethan Kukatpally → Puma Store → Ratnadeep Supermarket → Khazana Jewellers → Mebaz Banjara Hills,300.98
-383,Alankrita Boutique → Aroma Boutique → Adidas Originals → Himalaya Book World,178.42
-384,Lalitha Jewellery → Bajaj Electronics → Decathlon Madhapur → Malabar Gold & Diamonds → Bawarchi RTC X Roads,267.53
-385,Alankrita Boutique → Aroma Boutique → Himalaya Book World,128.47
-386,Metro Cash & Carry → Sarath City Capital H&M → Paradise Biryani Secunderabad → Malabar Gold & Diamonds → Ratnadeep Supermarket,177.45
-387,Lalitha Jewellery → Bajaj Electronics → Decathlon Madhapur → Malabar Gold & Diamonds,166.36
-388,Metro Cash & Carry → Sarath City Capital H&M → Paradise Biryani Secunderabad → Malabar Gold & Diamonds → Ratnadeep Supermarket,177.45
-389,Lalitha Jewellery → Bajaj Electronics → Decathlon Madhapur → Malabar Gold & Diamonds,166.36
-390,Lalitha Jewellery → Bajaj Electronics → Decathlon Madhapur → Malabar Gold & Diamonds,166.36
-391,Heritage Fresh → Mebaz Banjara Hills → Nature's Basket → Nike Exclusive Store → Adidas Originals → Reliance Digital → Page 3 Luxury Salon,10236.24
-392,Alankrita Boutique → Aroma Boutique → Himalaya Book World,128.47
-393,Lalitha Jewellery → Bajaj Electronics → Decathlon Madhapur → Malabar Gold & Diamonds,166.36
-394,Lalitha Jewellery → Bajaj Electronics → Decathlon Madhapur → Malabar Gold & Diamonds,166.36
-395,Lalitha Jewellery → Bajaj Electronics → Decathlon Madhapur → Malabar Gold & Diamonds,166.36
-396,Alankrita Boutique → Aroma Boutique → Himalaya Book World,128.47
-397,Fabindia Gachibowli → Nike Exclusive Store → Croma Jubilee Hills → Reliance Smart Jubilee → Lakme Salon → Alankrita Boutique → Chutneys Restaurant,260.72
-398,Pista House → Spencer's Retail → Kalanikethan Kukatpally → Puma Store → Ratnadeep Supermarket,157.18
-399,Lalitha Jewellery → Malabar Gold & Diamonds → Decathlon Madhapur,126.53
-400,Metro Cash & Carry → Sarath City Capital H&M → Paradise Biryani Secunderabad → Malabar Gold & Diamonds,122.08
-401,Heritage Fresh → Mebaz Banjara Hills → Nature's Basket → Adidas Originals → Reliance Digital → Page 3 Luxury Salon,10202.89
-402,Heritage Fresh → Mebaz Banjara Hills → Nature's Basket → Adidas Originals → Reliance Digital → Page 3 Luxury Salon,10202.89
-403,Metro Cash & Carry → Sarath City Capital H&M → Paradise Biryani Secunderabad → Malabar Gold & Diamonds,122.08
-404,Heritage Fresh → Mebaz Banjara Hills → Nature's Basket → Adidas Originals → Reliance Digital → Page 3 Luxury Salon,10202.89
-405,Lalitha Jewellery → Malabar Gold & Diamonds → Decathlon Madhapur,126.53
-406,Fabindia Gachibowli → Nike Exclusive Store → Croma Jubilee Hills → Reliance Smart Jubilee → Lakme Salon → Alankrita Boutique → Chutneys Restaurant,260.72
-407,Lalitha Jewellery → Malabar Gold & Diamonds → Decathlon Madhapur,126.53
-408,Pista House → Spencer's Retail → Kalanikethan Kukatpally → Puma Store → Ratnadeep Supermarket,157.18
-409,Adidas Originals → Neeru's Emporio → Lalitha Jewellery → Inorbit Mall Shoppers Stop → Metro Cash & Carry → Wildcraft Store → Bata Shoe Store,315.08
-410,Adidas Originals → Neeru's Emporio → Lalitha Jewellery → Inorbit Mall Shoppers Stop → Metro Cash & Carry → Wildcraft Store → Bata Shoe Store,315.08
-411,Pista House → Spencer's Retail → Kalanikethan Kukatpally → Puma Store,107.6
-412,Fabindia Gachibowli → Nike Exclusive Store → Croma Jubilee Hills → Reliance Smart Jubilee → Lakme Salon → Chutneys Restaurant,238.49
-413,Metro Cash & Carry → Sarath City Capital H&M → Malabar Gold & Diamonds,105.19
-414,Adidas Originals → Neeru's Emporio → Lalitha Jewellery → Inorbit Mall Shoppers Stop → Metro Cash & Carry → Wildcraft Store → Bata Shoe Store,315.08
-415,Heritage Fresh → Mebaz Banjara Hills → Adidas Originals → Reliance Digital → Page 3 Luxury Salon,10176.46
-416,Metro Cash & Carry → Sarath City Capital H&M → Malabar Gold & Diamonds,105.19
-417,Adidas Originals → Neeru's Emporio → Lalitha Jewellery → Inorbit Mall Shoppers Stop → Metro Cash & Carry → Wildcraft Store → Bata Shoe Store,315.08
-418,Metro Cash & Carry → Sarath City Capital H&M → Malabar Gold & Diamonds,105.19
-419,Adidas Originals → Neeru's Emporio → Lalitha Jewellery → Inorbit Mall Shoppers Stop → Metro Cash & Carry → Wildcraft Store → Bata Shoe Store,315.08
-420,Fabindia Gachibowli → Nike Exclusive Store → Croma Jubilee Hills → Reliance Smart Jubilee → Lakme Salon → Chutneys Restaurant,238.49
-421,Ratnadeep Supermarket → Concu Jubilee Hills → Ghanshyam Supermarket → Alankrita Boutique → Crossword Bookstore → Sarath City Capital H&M → Khazana Jewellers,20205.6
-422,Heritage Fresh → Mebaz Banjara Hills → Adidas Originals → Reliance Digital,177.46
-423,Heritage Fresh → Mebaz Banjara Hills → Adidas Originals → Reliance Digital,177.46
-424,Adidas Originals → Bata Shoe Store → Wildcraft Store → Metro Cash & Carry → Lalitha Jewellery → Inorbit Mall Shoppers Stop,268.8
-425,Pista House → Spencer's Retail → Kalanikethan Kukatpally,92.4
-426,Ratnadeep Supermarket → Concu Jubilee Hills → Ghanshyam Supermarket → Alankrita Boutique → Crossword Bookstore → Sarath City Capital H&M → Khazana Jewellers,20205.6
-427,Pista House → Spencer's Retail → Kalanikethan Kukatpally,92.4
-428,Pista House → Spencer's Retail → Kalanikethan Kukatpally,92.4
-429,Fabindia Gachibowli → Nike Exclusive Store → Croma Jubilee Hills → Reliance Smart Jubilee → Chutneys Restaurant,180.24
-430,Adidas Originals → Bata Shoe Store → Wildcraft Store → Metro Cash & Carry → Lalitha Jewellery → Inorbit Mall Shoppers Stop,268.8
-431,Heritage Fresh → Mebaz Banjara Hills → Adidas Originals → Reliance Digital,177.46
-432,Adidas Originals → Bata Shoe Store → Wildcraft Store → Metro Cash & Carry → Lalitha Jewellery → Inorbit Mall Shoppers Stop,268.8
-433,Adidas Originals → Bata Shoe Store → Metro Cash & Carry → Lalitha Jewellery → Inorbit Mall Shoppers Stop,243.43
-434,Heritage Fresh → Mebaz Banjara Hills → Adidas Originals,99.73
-435,Adidas Originals → Bata Shoe Store → Metro Cash & Carry → Lalitha Jewellery → Inorbit Mall Shoppers Stop,243.43
-436,Adidas Originals → Bata Shoe Store → Metro Cash & Carry → Lalitha Jewellery → Inorbit Mall Shoppers Stop,243.43
-437,Heritage Fresh → Mebaz Banjara Hills → Adidas Originals,99.73
-438,MedPlus Madhapur → South India Shopping Mall → Lakme Salon → Bawarchi RTC X Roads → Chennai Shopping Mall → Hyderabad Central → Page 3 Luxury Salon,10207.92
-439,Fabindia Gachibowli → Nike Exclusive Store → Croma Jubilee Hills → Reliance Smart Jubilee,125.44
-440,Adidas Originals → Bata Shoe Store → Metro Cash & Carry → Lalitha Jewellery → Inorbit Mall Shoppers Stop,243.43
-441,Adidas Originals → Bata Shoe Store → Metro Cash & Carry → Lalitha Jewellery → Inorbit Mall Shoppers Stop,243.43
-442,MedPlus Madhapur → South India Shopping Mall → Lakme Salon → Bawarchi RTC X Roads → Chennai Shopping Mall → Hyderabad Central → Page 3 Luxury Salon,10207.92
-443,Adidas Originals → Bata Shoe Store → Metro Cash & Carry → Lalitha Jewellery → Inorbit Mall Shoppers Stop,243.43
-444,Fabindia Gachibowli → Nike Exclusive Store → Croma Jubilee Hills → Reliance Smart Jubilee,125.44
-445,Joyalukkas → Ratnadeep Supermarket → Q-Mart Gachibowli → Reliance Smart Jubilee → Lakme Salon → Ghanshyam Supermarket → IKEA Hyderabad,295.61
-446,MedPlus Madhapur → South India Shopping Mall → Lakme Salon → Bawarchi RTC X Roads → Chennai Shopping Mall → Page 3 Luxury Salon,10120.94
-447,Joyalukkas → Ratnadeep Supermarket → Q-Mart Gachibowli → Reliance Smart Jubilee → Lakme Salon → Ghanshyam Supermarket → IKEA Hyderabad,295.61
-448,Fabindia Gachibowli → Nike Exclusive Store → Croma Jubilee Hills,101.42
-449,Joyalukkas → Ratnadeep Supermarket → Q-Mart Gachibowli → Reliance Smart Jubilee → Lakme Salon → Ghanshyam Supermarket → IKEA Hyderabad,295.61
-450,MedPlus Madhapur → South India Shopping Mall → Lakme Salon → Bawarchi RTC X Roads → Chennai Shopping Mall → Page 3 Luxury Salon,10120.94
-451,Fabindia Gachibowli → Nike Exclusive Store → Croma Jubilee Hills,101.42
-452,Fabindia Gachibowli → Nike Exclusive Store → Croma Jubilee Hills,101.42
-453,Ratnadeep Supermarket → Sarath City Capital H&M → Alankrita Boutique → Ghanshyam Supermarket → Crossword Bookstore,215.49
-454,Joyalukkas → Ratnadeep Supermarket → Q-Mart Gachibowli → Reliance Smart Jubilee → Lakme Salon → Ghanshyam Supermarket → IKEA Hyderabad,295.61
-455,Adidas Originals → Lalitha Jewellery → Inorbit Mall Shoppers Stop → Metro Cash & Carry,200.33
-456,Adidas Originals → Lalitha Jewellery → Inorbit Mall Shoppers Stop → Metro Cash & Carry,200.33
-457,Joyalukkas → Ratnadeep Supermarket → Q-Mart Gachibowli → Lakme Salon → Ghanshyam Supermarket → IKEA Hyderabad,254.66
-458,Ratnadeep Supermarket → Alankrita Boutique → Ghanshyam Supermarket → Crossword Bookstore,162.62
-459,Joyalukkas → Ratnadeep Supermarket → Q-Mart Gachibowli → Lakme Salon → Ghanshyam Supermarket → IKEA Hyderabad,254.66
-460,MedPlus Madhapur → Lakme Salon → Bawarchi RTC X Roads → Chennai Shopping Mall → Page 3 Luxury Salon,10104.36
-461,Ghanshyam Supermarket → Alankrita Boutique → Apollo Health City → Chutneys Restaurant → Naturals Salon → Jos Alukkas → Adidas Originals,249.25
-462,Joyalukkas → Ratnadeep Supermarket → Q-Mart Gachibowli → Lakme Salon → Ghanshyam Supermarket → IKEA Hyderabad,254.66
-463,MedPlus Madhapur → Lakme Salon → Bawarchi RTC X Roads → Chennai Shopping Mall → Page 3 Luxury Salon,10104.36
-464,Ghanshyam Supermarket → Alankrita Boutique → Apollo Health City → Chutneys Restaurant → Naturals Salon → Jos Alukkas → Adidas Originals,249.25
-465,Adidas Originals → Inorbit Mall Shoppers Stop → Metro Cash & Carry,164.08
-466,Ratnadeep Supermarket → Alankrita Boutique → Ghanshyam Supermarket → Crossword Bookstore,162.62
-467,Ratnadeep Supermarket → Alankrita Boutique → Ghanshyam Supermarket → Crossword Bookstore,162.62
-468,Ghanshyam Supermarket → Alankrita Boutique → Apollo Health City → Chutneys Restaurant → Naturals Salon → Jos Alukkas → Adidas Originals,249.25
-469,MedPlus Madhapur → Lakme Salon → Bawarchi RTC X Roads → Page 3 Luxury Salon,10074.18
-470,Ratnadeep Supermarket → Alankrita Boutique → Ghanshyam Supermarket,106.82
-471,Ghanshyam Supermarket → Alankrita Boutique → Apollo Health City → Chutneys Restaurant → Jos Alukkas → Adidas Originals,237.47
-472,Ratnadeep Supermarket → Alankrita Boutique → Ghanshyam Supermarket,106.82
-473,Ratnadeep Supermarket → Alankrita Boutique → Ghanshyam Supermarket,106.82
-474,Joyalukkas → Ratnadeep Supermarket → Q-Mart Gachibowli → Lakme Salon → Ghanshyam Supermarket,154.31
-475,MedPlus Madhapur → Lakme Salon → Bawarchi RTC X Roads → Page 3 Luxury Salon,10074.18
-476,Joyalukkas → Ratnadeep Supermarket → Q-Mart Gachibowli → Lakme Salon → Ghanshyam Supermarket,154.31
-477,Ghanshyam Supermarket → Alankrita Boutique → Apollo Health City → Chutneys Restaurant → Jos Alukkas → Adidas Originals,237.47
-478,MedPlus Madhapur → Lakme Salon → Bawarchi RTC X Roads → Page 3 Luxury Salon,10074.18
-479,Ghanshyam Supermarket → Alankrita Boutique → Apollo Health City → Chutneys Restaurant → Jos Alukkas → Adidas Originals,237.47
-480,MedPlus Madhapur → Lakme Salon → Bawarchi RTC X Roads → Page 3 Luxury Salon,10074.18
+trip_id,optimized_route,optimized_distance_km,optimized_duration_min
+1,Ratnadeep Supermarket → Cafe Niloufer → Apollo Health City → Apollo Pharmacy → Pista House → IKEA Hyderabad,157.19,281.05
+2,Decathlon Madhapur → Joyalukkas → South India Shopping Mall,46.09,77.51
+3,Karachi Bakery → Naturals Salon → Bata Shoe Store → Roastery Coffee House → Joyalukkas,178.97,206.78
+4,Karachi Bakery → Inorbit Mall Shoppers Stop → Lalitha Jewellery → Bajaj Electronics → Kalanikethan Kukatpally → Roastery Coffee House → Lakme Salon,131.75,211.56
+5,Reliance Smart Jubilee → Joyalukkas → Bajaj Electronics → IKEA Hyderabad,76.02,129.54
+6,Decathlon Madhapur → Joyalukkas → South India Shopping Mall,46.09,77.51
+7,Decathlon Madhapur → Joyalukkas → South India Shopping Mall,46.09,77.51
+8,Karachi Bakery → Inorbit Mall Shoppers Stop → Lalitha Jewellery → Bajaj Electronics → Kalanikethan Kukatpally → Roastery Coffee House → Lakme Salon,131.75,211.56
+9,Decathlon Madhapur → Joyalukkas → South India Shopping Mall,46.09,77.51
+10,Decathlon Madhapur → Joyalukkas → South India Shopping Mall,46.09,77.51
+11,Reliance Smart Jubilee → Joyalukkas → Bajaj Electronics → IKEA Hyderabad,76.02,129.54
+12,Reliance Smart Jubilee → Joyalukkas → Bajaj Electronics → IKEA Hyderabad,76.02,129.54
+13,Karachi Bakery → Naturals Salon → Bata Shoe Store → Roastery Coffee House,125.15,145.43
+14,Karachi Bakery → Naturals Salon → Bata Shoe Store → Roastery Coffee House,125.15,145.43
+15,Ratnadeep Supermarket → Cafe Niloufer → Apollo Health City → Pista House → IKEA Hyderabad,182.74,241.7
+16,Karachi Bakery → Naturals Salon → Bata Shoe Store → Roastery Coffee House,125.15,145.43
+17,Karachi Bakery → Inorbit Mall Shoppers Stop → Lalitha Jewellery → Bajaj Electronics → Kalanikethan Kukatpally → Lakme Salon,110.32,171.93
+18,Reliance Smart Jubilee → Joyalukkas → Bajaj Electronics,38.14,68.49
+19,Karachi Bakery → Naturals Salon → Bata Shoe Store → Roastery Coffee House,125.15,145.43
+20,Ratnadeep Supermarket → Cafe Niloufer → Apollo Health City → Pista House → IKEA Hyderabad,182.74,241.7
+21,Vijetha Supermarket → IKEA Hyderabad → Himalaya Book World → MedPlus Madhapur → Apollo Health City → Forum Sujana Zara → Bawarchi RTC X Roads,152.1,252.06
+22,Vijetha Supermarket → IKEA Hyderabad → Himalaya Book World → MedPlus Madhapur → Apollo Health City → Forum Sujana Zara → Bawarchi RTC X Roads,152.1,252.06
+23,Karachi Bakery → Naturals Salon → Bata Shoe Store → Roastery Coffee House,125.15,145.43
+24,Karachi Bakery → Inorbit Mall Shoppers Stop → Lalitha Jewellery → Bajaj Electronics → Kalanikethan Kukatpally → Lakme Salon,110.32,171.93
+25,Karachi Bakery → Naturals Salon → Roastery Coffee House,120.44,132.25
+26,Karachi Bakery → Naturals Salon → Roastery Coffee House,120.44,132.25
+27,Roastery Coffee House → Hyderabad Central → Nature's Basket → Q-Mart Gachibowli → Alankrita Boutique → Heritage Fresh → Naturals Salon,166.02,276.55
+28,Karachi Bakery → Inorbit Mall Shoppers Stop → Lalitha Jewellery → Bajaj Electronics → Kalanikethan Kukatpally,94.62,130.78
+29,Vijetha Supermarket → Himalaya Book World → MedPlus Madhapur → Apollo Health City → Forum Sujana Zara → Bawarchi RTC X Roads,135.63,211.76
+30,Karachi Bakery → Naturals Salon → Roastery Coffee House,120.44,132.25
+31,Ratnadeep Supermarket → Cafe Niloufer → Apollo Health City → IKEA Hyderabad,163.91,206.45
+32,Karachi Bakery → Naturals Salon → Roastery Coffee House,120.44,132.25
+33,Vijetha Supermarket → Himalaya Book World → MedPlus Madhapur → Apollo Health City → Forum Sujana Zara → Bawarchi RTC X Roads,135.63,211.76
+34,Ratnadeep Supermarket → Cafe Niloufer → Apollo Health City → IKEA Hyderabad,163.91,206.45
+35,Vijetha Supermarket → Himalaya Book World → MedPlus Madhapur → Apollo Health City → Forum Sujana Zara → Bawarchi RTC X Roads,135.63,211.76
+36,Roastery Coffee House → Hyderabad Central → Nature's Basket → Q-Mart Gachibowli → Alankrita Boutique → Heritage Fresh → Naturals Salon,166.02,276.55
+37,Karachi Bakery → Lalitha Jewellery → Bajaj Electronics → Kalanikethan Kukatpally,94.61,130.78
+38,Vijetha Supermarket → Himalaya Book World → Forum Sujana Zara → Apollo Health City → Bawarchi RTC X Roads,159.09,199.71
+39,Karachi Bakery → Paradise Biryani Secunderabad → Himalaya Book World → Croma Jubilee Hills → Apollo Pharmacy → D-Mart Begumpet → Kalanikethan Kukatpally,127.94,216.0
+40,Karachi Bakery → Lalitha Jewellery → Bajaj Electronics → Kalanikethan Kukatpally,94.61,130.78
+41,Karachi Bakery → Lalitha Jewellery → Bajaj Electronics → Kalanikethan Kukatpally,94.61,130.78
+42,Karachi Bakery → Paradise Biryani Secunderabad → Himalaya Book World → Croma Jubilee Hills → Apollo Pharmacy → D-Mart Begumpet → Kalanikethan Kukatpally,127.94,216.0
+43,Ratnadeep Supermarket → IKEA Hyderabad → Apollo Health City,123.47,151.7
+44,Vijetha Supermarket → Himalaya Book World → Forum Sujana Zara → Apollo Health City → Bawarchi RTC X Roads,159.09,199.71
+45,Ratnadeep Supermarket → IKEA Hyderabad → Apollo Health City,123.47,151.7
+46,Vijetha Supermarket → Himalaya Book World → Forum Sujana Zara → Apollo Health City → Bawarchi RTC X Roads,159.09,199.71
+47,Karachi Bakery → Lalitha Jewellery → Bajaj Electronics → Kalanikethan Kukatpally,94.61,130.78
+48,Karachi Bakery → Paradise Biryani Secunderabad → Himalaya Book World → Croma Jubilee Hills → Apollo Pharmacy → D-Mart Begumpet → Kalanikethan Kukatpally,127.94,216.0
+49,Vijetha Supermarket → Himalaya Book World → Apollo Health City → Bawarchi RTC X Roads,136.22,171.71
+50,Karachi Bakery → Lalitha Jewellery → Bajaj Electronics,60.49,86.15
+51,Karachi Bakery → Paradise Biryani Secunderabad → Croma Jubilee Hills → Apollo Pharmacy → D-Mart Begumpet → Kalanikethan Kukatpally,108.98,190.89
+52,Apollo Pharmacy → Croma Jubilee Hills → Naturals Salon → Metro Cash & Carry → Chennai Shopping Mall → Page 3 Luxury Salon → Kimmee's Salon,10070.93,10113.0
+53,Roastery Coffee House → Hyderabad Central → Nature's Basket → Q-Mart Gachibowli → Alankrita Boutique,105.19,177.1
+54,Karachi Bakery → Lalitha Jewellery → Bajaj Electronics,60.49,86.15
+55,Karachi Bakery → Paradise Biryani Secunderabad → Croma Jubilee Hills → Apollo Pharmacy → D-Mart Begumpet → Kalanikethan Kukatpally,108.98,190.89
+56,Karachi Bakery → Paradise Biryani Secunderabad → Croma Jubilee Hills → Apollo Pharmacy → D-Mart Begumpet → Kalanikethan Kukatpally,108.98,190.89
+57,Karachi Bakery → Lalitha Jewellery → Bajaj Electronics,60.49,86.15
+58,Apollo Pharmacy → Croma Jubilee Hills → Naturals Salon → Metro Cash & Carry → Chennai Shopping Mall → Page 3 Luxury Salon → Kimmee's Salon,10070.93,10113.0
+59,Karachi Bakery → Paradise Biryani Secunderabad → Croma Jubilee Hills → Apollo Pharmacy → D-Mart Begumpet → Kalanikethan Kukatpally,108.98,190.89
+60,Apollo Pharmacy → Croma Jubilee Hills → Naturals Salon → Metro Cash & Carry → Chennai Shopping Mall → Page 3 Luxury Salon → Kimmee's Salon,10070.93,10113.0
+61,GRT Jewellers → Chutneys Restaurant → Crossword Bookstore → Nature's Basket → Spencer's Retail → Malabar Gold & Diamonds → IKEA Hyderabad,170.61,246.97
+62,Apollo Pharmacy → Croma Jubilee Hills → Naturals Salon → Chennai Shopping Mall → Page 3 Luxury Salon → Kimmee's Salon,10065.02,10093.29
+63,GRT Jewellers → Chutneys Restaurant → Crossword Bookstore → Nature's Basket → Spencer's Retail → Malabar Gold & Diamonds → IKEA Hyderabad,170.61,246.97
+64,Vijetha Supermarket → Himalaya Book World → Apollo Health City,97.71,117.44
+65,Vijetha Supermarket → Himalaya Book World → Apollo Health City,97.71,117.44
+66,Apollo Pharmacy → Croma Jubilee Hills → Naturals Salon → Chennai Shopping Mall → Page 3 Luxury Salon → Kimmee's Salon,10065.02,10093.29
+67,Roastery Coffee House → Hyderabad Central → Nature's Basket → Q-Mart Gachibowli,85.84,126.85
+68,Apollo Pharmacy → Croma Jubilee Hills → Naturals Salon → Chennai Shopping Mall → Page 3 Luxury Salon → Kimmee's Salon,10065.02,10093.29
+69,Karachi Bakery → Paradise Biryani Secunderabad → Croma Jubilee Hills → Apollo Pharmacy → D-Mart Begumpet,72.5,137.42
+70,Apollo Pharmacy → Croma Jubilee Hills → Naturals Salon → Chennai Shopping Mall → Page 3 Luxury Salon → Kimmee's Salon,10065.02,10093.29
+71,Roastery Coffee House → Hyderabad Central → Nature's Basket → Q-Mart Gachibowli,85.84,126.85
+72,Karachi Bakery → Paradise Biryani Secunderabad → Croma Jubilee Hills → Apollo Pharmacy → D-Mart Begumpet,72.5,137.42
+73,Concu Jubilee Hills → Joyalukkas → Ratnadeep Supermarket → Hyderabad Central → Reliance Smart Jubilee → Karachi Bakery → Page 3 Luxury Salon,10171.73,10242.48
+74,Karachi Bakery → Paradise Biryani Secunderabad → Apollo Pharmacy → D-Mart Begumpet,70.87,129.93
+75,Karachi Bakery → Paradise Biryani Secunderabad → Apollo Pharmacy → D-Mart Begumpet,70.87,129.93
+76,GRT Jewellers → Chutneys Restaurant → Crossword Bookstore → Nature's Basket → Spencer's Retail → Malabar Gold & Diamonds,159.8,222.94
+77,GRT Jewellers → Chutneys Restaurant → Crossword Bookstore → Nature's Basket → Spencer's Retail → Malabar Gold & Diamonds,159.8,222.94
+78,Concu Jubilee Hills → Joyalukkas → Ratnadeep Supermarket → Hyderabad Central → Reliance Smart Jubilee → Karachi Bakery → Page 3 Luxury Salon,10171.73,10242.48
+79,GRT Jewellers → Chutneys Restaurant → Crossword Bookstore → Nature's Basket → Spencer's Retail → Malabar Gold & Diamonds,159.8,222.94
+80,Karachi Bakery → Paradise Biryani Secunderabad → Apollo Pharmacy → D-Mart Begumpet,70.87,129.93
+81,Apollo Pharmacy → Croma Jubilee Hills → Naturals Salon → Chennai Shopping Mall → Page 3 Luxury Salon,10061.68,10085.22
+82,GRT Jewellers → Chutneys Restaurant → Crossword Bookstore → Nature's Basket → Spencer's Retail → Malabar Gold & Diamonds,159.8,222.94
+83,GRT Jewellers → Chutneys Restaurant → Crossword Bookstore → Nature's Basket → Spencer's Retail → Malabar Gold & Diamonds,159.8,222.94
+84,Roastery Coffee House → Hyderabad Central → Q-Mart Gachibowli,44.53,100.4
+85,GRT Jewellers → Chutneys Restaurant → Crossword Bookstore → Spencer's Retail → Malabar Gold & Diamonds,126.77,186.76
+86,Lakme Salon → Q-Mart Gachibowli → Himalaya Book World → Decathlon Madhapur → Adidas Originals → Shah Ghouse Gachibowli → Heritage Fresh,164.71,271.77
+87,Karachi Bakery → Apollo Pharmacy → D-Mart Begumpet,65.76,112.38
+88,GRT Jewellers → Chutneys Restaurant → Crossword Bookstore → Spencer's Retail → Malabar Gold & Diamonds,126.77,186.76
+89,Concu Jubilee Hills → Joyalukkas → Ratnadeep Supermarket → Hyderabad Central → Reliance Smart Jubilee → Karachi Bakery,172.73,243.48
+90,GRT Jewellers → Chutneys Restaurant → Crossword Bookstore → Spencer's Retail → Malabar Gold & Diamonds,126.77,186.76
+91,Concu Jubilee Hills → Joyalukkas → Ratnadeep Supermarket → Hyderabad Central → Reliance Smart Jubilee → Karachi Bakery,172.73,243.48
+92,GRT Jewellers → Chutneys Restaurant → Crossword Bookstore → Spencer's Retail → Malabar Gold & Diamonds,126.77,186.76
+93,Lakme Salon → Q-Mart Gachibowli → Himalaya Book World → Decathlon Madhapur → Adidas Originals → Shah Ghouse Gachibowli → Heritage Fresh,164.71,271.77
+94,Apollo Pharmacy → Croma Jubilee Hills → Naturals Salon → Page 3 Luxury Salon,10048.5,10059.45
+95,Concu Jubilee Hills → Joyalukkas → Ratnadeep Supermarket → Hyderabad Central → Reliance Smart Jubilee → Karachi Bakery,172.73,243.48
+96,Lakme Salon → Q-Mart Gachibowli → Himalaya Book World → Decathlon Madhapur → Adidas Originals → Shah Ghouse Gachibowli → Heritage Fresh,164.71,271.77
+97,GRT Jewellers → Crossword Bookstore → Spencer's Retail → Malabar Gold & Diamonds,119.07,168.39
+98,Green Trends → Alankrita Boutique → Hyderabad Central → Bajaj Electronics → Reliance Digital → IKEA Hyderabad → Mebaz Banjara Hills,237.49,341.69
+99,GRT Jewellers → Crossword Bookstore → Spencer's Retail → Malabar Gold & Diamonds,119.07,168.39
+100,Apollo Pharmacy → Croma Jubilee Hills → Page 3 Luxury Salon,10015.96,10026.15
+101,Concu Jubilee Hills → Joyalukkas → Ratnadeep Supermarket → Reliance Smart Jubilee → Karachi Bakery,118.57,181.0
+102,GRT Jewellers → Crossword Bookstore → Spencer's Retail → Malabar Gold & Diamonds,119.07,168.39
+103,Green Trends → Alankrita Boutique → Hyderabad Central → Bajaj Electronics → Reliance Digital → IKEA Hyderabad → Mebaz Banjara Hills,237.49,341.69
+104,Apollo Pharmacy → Croma Jubilee Hills → Page 3 Luxury Salon,10015.96,10026.15
+105,Lakme Salon → Q-Mart Gachibowli → Himalaya Book World → Decathlon Madhapur → Adidas Originals → Heritage Fresh,156.93,253.39
+106,Concu Jubilee Hills → Joyalukkas → Ratnadeep Supermarket → Reliance Smart Jubilee → Karachi Bakery,118.57,181.0
+107,Apollo Pharmacy → Croma Jubilee Hills → Page 3 Luxury Salon,10015.96,10026.15
+108,Concu Jubilee Hills → Joyalukkas → Ratnadeep Supermarket → Reliance Smart Jubilee → Karachi Bakery,118.57,181.0
+109,Green Trends → Hyderabad Central → Bajaj Electronics → Reliance Digital → IKEA Hyderabad → Mebaz Banjara Hills,219.54,296.73
+110,Naturals Salon → Heritage Fresh → Bata Shoe Store → Fabindia Gachibowli → MedPlus Madhapur → Apollo Pharmacy → Page 3 Luxury Salon,10119.81,10181.98
+111,Naturals Salon → Heritage Fresh → Bata Shoe Store → Fabindia Gachibowli → MedPlus Madhapur → Apollo Pharmacy → Page 3 Luxury Salon,10119.81,10181.98
+112,Naturals Salon → Heritage Fresh → Bata Shoe Store → Fabindia Gachibowli → MedPlus Madhapur → Apollo Pharmacy → Page 3 Luxury Salon,10119.81,10181.98
+113,Green Trends → Hyderabad Central → Bajaj Electronics → Reliance Digital → IKEA Hyderabad → Mebaz Banjara Hills,219.54,296.73
+114,GRT Jewellers → Crossword Bookstore → Malabar Gold & Diamonds,136.91,141.12
+115,Naturals Salon → Heritage Fresh → Bata Shoe Store → Fabindia Gachibowli → MedPlus Madhapur → Apollo Pharmacy → Page 3 Luxury Salon,10119.81,10181.98
+116,Lakme Salon → Q-Mart Gachibowli → Himalaya Book World → Adidas Originals → Heritage Fresh,149.34,236.37
+117,Concu Jubilee Hills → Joyalukkas → Reliance Smart Jubilee → Karachi Bakery,87.32,142.81
+118,GRT Jewellers → Crossword Bookstore → Malabar Gold & Diamonds,136.91,141.12
+119,Lakme Salon → Q-Mart Gachibowli → Himalaya Book World → Adidas Originals → Heritage Fresh,149.34,236.37
+120,Green Trends → Hyderabad Central → Bajaj Electronics → Reliance Digital → IKEA Hyderabad → Mebaz Banjara Hills,219.54,296.73
+121,Mebaz Banjara Hills → GRT Jewellers → Metro Cash & Carry → Croma Jubilee Hills → Khazana Jewellers → Puma Store → Kimmee's Salon,10134.21,10218.62
+122,Naturals Salon → Heritage Fresh → Bata Shoe Store → Fabindia Gachibowli → Apollo Pharmacy → Page 3 Luxury Salon,10147.46,10177.15
+123,Mebaz Banjara Hills → GRT Jewellers → Metro Cash & Carry → Croma Jubilee Hills → Khazana Jewellers → Puma Store → Kimmee's Salon,10134.21,10218.62
+124,Lakme Salon → Q-Mart Gachibowli → Himalaya Book World → Heritage Fresh,120.37,169.79
+125,Green Trends → Hyderabad Central → Mebaz Banjara Hills → Reliance Digital → IKEA Hyderabad,172.79,228.69
+126,Mebaz Banjara Hills → GRT Jewellers → Metro Cash & Carry → Croma Jubilee Hills → Khazana Jewellers → Puma Store → Kimmee's Salon,10134.21,10218.62
+127,Naturals Salon → Heritage Fresh → Bata Shoe Store → Fabindia Gachibowli → Apollo Pharmacy → Page 3 Luxury Salon,10147.46,10177.15
+128,Green Trends → Hyderabad Central → Mebaz Banjara Hills → Reliance Digital → IKEA Hyderabad,172.79,228.69
+129,Mebaz Banjara Hills → GRT Jewellers → Metro Cash & Carry → Croma Jubilee Hills → Khazana Jewellers → Puma Store → Kimmee's Salon,10134.21,10218.62
+130,Green Trends → Hyderabad Central → Mebaz Banjara Hills → Reliance Digital → IKEA Hyderabad,172.79,228.69
+131,Lakme Salon → Q-Mart Gachibowli → Himalaya Book World → Heritage Fresh,120.37,169.79
+132,Naturals Salon → Heritage Fresh → Bata Shoe Store → Fabindia Gachibowli → Apollo Pharmacy → Page 3 Luxury Salon,10147.46,10177.15
+133,Mebaz Banjara Hills → GRT Jewellers → Metro Cash & Carry → Croma Jubilee Hills → Puma Store → Kimmee's Salon,10155.58,10192.18
+134,Lakme Salon → Heritage Fresh → Himalaya Book World,112.51,148.64
+135,Green Trends → Mebaz Banjara Hills → Reliance Digital → IKEA Hyderabad,152.31,196.17
+136,Lakme Salon → Heritage Fresh → Himalaya Book World,112.51,148.64
+137,Green Trends → Mebaz Banjara Hills → Reliance Digital → IKEA Hyderabad,152.31,196.17
+138,Lakme Salon → Heritage Fresh → Himalaya Book World,112.51,148.64
+139,Naturals Salon → Heritage Fresh → Fabindia Gachibowli → Apollo Pharmacy → Page 3 Luxury Salon,10142.75,10163.97
+140,Naturals Salon → Heritage Fresh → Fabindia Gachibowli → Apollo Pharmacy → Page 3 Luxury Salon,10142.75,10163.97
+141,Lakme Salon → Heritage Fresh → Himalaya Book World,112.51,148.64
+142,Mebaz Banjara Hills → GRT Jewellers → Metro Cash & Carry → Croma Jubilee Hills → Puma Store → Kimmee's Salon,10155.58,10192.18
+143,Naturals Salon → Heritage Fresh → Fabindia Gachibowli → Apollo Pharmacy → Page 3 Luxury Salon,10142.75,10163.97
+144,Mebaz Banjara Hills → GRT Jewellers → Metro Cash & Carry → Croma Jubilee Hills → Puma Store → Kimmee's Salon,10155.58,10192.18
+145,Kimmee's Salon → Crossword Bookstore → Forum Sujana Zara → Reliance Digital → Pista House → Nature's Basket,149.14,204.15
+146,South India Shopping Mall → Alankrita Boutique → Hyderabad Central → Q-Mart Gachibowli → Lalitha Jewellery → Pista House → IKEA Hyderabad,133.47,279.39
+147,Kimmee's Salon → Crossword Bookstore → Forum Sujana Zara → Reliance Digital → Pista House → Nature's Basket,149.14,204.15
+148,Green Trends → Mebaz Banjara Hills → Reliance Digital,115.71,135.8
+149,Kimmee's Salon → Crossword Bookstore → Forum Sujana Zara → Reliance Digital → Pista House → Nature's Basket,149.14,204.15
+150,Kimmee's Salon → Crossword Bookstore → Forum Sujana Zara → Reliance Digital → Pista House → Nature's Basket,149.14,204.15
+151,Mebaz Banjara Hills → GRT Jewellers → Croma Jubilee Hills → Puma Store → Kimmee's Salon,10139.09,10149.84
+152,South India Shopping Mall → Alankrita Boutique → Hyderabad Central → Q-Mart Gachibowli → Lalitha Jewellery → Pista House → IKEA Hyderabad,133.47,279.39
+153,Green Trends → Mebaz Banjara Hills → Reliance Digital,115.71,135.8
+154,South India Shopping Mall → Alankrita Boutique → Hyderabad Central → Q-Mart Gachibowli → Lalitha Jewellery → Pista House → IKEA Hyderabad,133.47,279.39
+155,Green Trends → Mebaz Banjara Hills → Reliance Digital,115.71,135.8
+156,South India Shopping Mall → Alankrita Boutique → Hyderabad Central → Q-Mart Gachibowli → Lalitha Jewellery → Pista House → IKEA Hyderabad,133.47,279.39
+157,Kimmee's Salon → Crossword Bookstore → Nature's Basket → Reliance Digital → Pista House,122.86,164.72
+158,Mebaz Banjara Hills → GRT Jewellers → Puma Store → Kimmee's Salon,10099.37,10106.76
+159,South India Shopping Mall → Alankrita Boutique → Hyderabad Central → Lalitha Jewellery → Pista House → IKEA Hyderabad,144.75,240.32
+160,South India Shopping Mall → Alankrita Boutique → Hyderabad Central → Lalitha Jewellery → Pista House → IKEA Hyderabad,144.75,240.32
+161,South India Shopping Mall → Alankrita Boutique → Hyderabad Central → Lalitha Jewellery → Pista House → IKEA Hyderabad,144.75,240.32
+162,South India Shopping Mall → Alankrita Boutique → Hyderabad Central → Lalitha Jewellery → Pista House → IKEA Hyderabad,144.75,240.32
+163,Naturals Salon → Heritage Fresh → Page 3 Luxury Salon,10037.09,10042.35
+164,Kimmee's Salon → Crossword Bookstore → Nature's Basket → Reliance Digital → Pista House,122.86,164.72
+165,South India Shopping Mall → Alankrita Boutique → Hyderabad Central → Lalitha Jewellery → Pista House → IKEA Hyderabad,144.75,240.32
+166,Reliance Smart Jubilee → Jos Alukkas → Forum Sujana Zara → Apollo Health City → Kalanikethan Kukatpally → Metro Shoes → Darpan Furnishings,166.32,232.77
+167,Mebaz Banjara Hills → GRT Jewellers → Puma Store → Kimmee's Salon,10099.37,10106.76
+168,Naturals Salon → Heritage Fresh → Page 3 Luxury Salon,10037.09,10042.35
+169,Mebaz Banjara Hills → GRT Jewellers → Kimmee's Salon,10033.39,10039.18
+170,Mebaz Banjara Hills → GRT Jewellers → Kimmee's Salon,10033.39,10039.18
+171,Mebaz Banjara Hills → GRT Jewellers → Kimmee's Salon,10033.39,10039.18
+172,Reliance Smart Jubilee → Jos Alukkas → Forum Sujana Zara → Apollo Health City → Kalanikethan Kukatpally → Darpan Furnishings,185.89,226.67
+173,Reliance Smart Jubilee → Jos Alukkas → Forum Sujana Zara → Apollo Health City → Kalanikethan Kukatpally → Darpan Furnishings,185.89,226.67
+174,Kimmee's Salon → Crossword Bookstore → Nature's Basket → Pista House,107.82,135.63
+175,Kimmee's Salon → Crossword Bookstore → Nature's Basket → Pista House,107.82,135.63
+176,Darpan Furnishings → Karachi Bakery → Reliance Digital → Chennai Shopping Mall → Heritage Fresh → Puma Store → Kalanikethan Kukatpally,152.28,248.04
+177,Mebaz Banjara Hills → GRT Jewellers → Kimmee's Salon,10033.39,10039.18
+178,Reliance Smart Jubilee → Jos Alukkas → Forum Sujana Zara → Apollo Health City → Kalanikethan Kukatpally → Darpan Furnishings,185.89,226.67
+179,South India Shopping Mall → Alankrita Boutique → Hyderabad Central → Lalitha Jewellery → Pista House,124.42,198.89
+180,Darpan Furnishings → Karachi Bakery → Reliance Digital → Chennai Shopping Mall → Heritage Fresh → Puma Store → Kalanikethan Kukatpally,152.28,248.04
+181,South India Shopping Mall → Alankrita Boutique → Hyderabad Central → Lalitha Jewellery,102.1,155.86
+182,Reliance Smart Jubilee → Jos Alukkas → Apollo Health City → Kalanikethan Kukatpally → Darpan Furnishings,183.12,212.15
+183,Kimmee's Salon → Crossword Bookstore → Pista House,87.29,100.48
+184,South India Shopping Mall → Alankrita Boutique → Hyderabad Central → Lalitha Jewellery,102.1,155.86
+185,Cafe Niloufer → Adidas Originals → MedPlus Madhapur → Q-Mart Gachibowli → Jos Alukkas → Forum Sujana Zara → Kimmee's Salon,10132.45,10214.1
+186,Reliance Smart Jubilee → Jos Alukkas → Apollo Health City → Kalanikethan Kukatpally → Darpan Furnishings,183.12,212.15
+187,Kimmee's Salon → Crossword Bookstore → Pista House,87.29,100.48
+188,Kimmee's Salon → Crossword Bookstore → Pista House,87.29,100.48
+189,Reliance Smart Jubilee → Jos Alukkas → Apollo Health City → Kalanikethan Kukatpally → Darpan Furnishings,183.12,212.15
+190,Cafe Niloufer → Adidas Originals → MedPlus Madhapur → Q-Mart Gachibowli → Jos Alukkas → Forum Sujana Zara → Kimmee's Salon,10132.45,10214.1
+191,Cafe Niloufer → Adidas Originals → MedPlus Madhapur → Q-Mart Gachibowli → Jos Alukkas → Forum Sujana Zara → Kimmee's Salon,10132.45,10214.1
+192,Kimmee's Salon → Crossword Bookstore → Pista House,87.29,100.48
+193,Darpan Furnishings → Reliance Digital → Heritage Fresh → Puma Store → Kalanikethan Kukatpally,157.17,204.27
+194,South India Shopping Mall → Alankrita Boutique → Lalitha Jewellery,60.55,111.13
+195,Cafe Niloufer → Adidas Originals → MedPlus Madhapur → Q-Mart Gachibowli → Jos Alukkas → Forum Sujana Zara,133.45,215.1
+196,Shah Ghouse Gachibowli → South India Shopping Mall → Spencer's Retail → Joyalukkas → Adidas Originals → IKEA Hyderabad → Bawarchi RTC X Roads,166.39,330.82
+197,Darpan Furnishings → Reliance Digital → Heritage Fresh → Puma Store → Kalanikethan Kukatpally,157.17,204.27
+198,Cafe Niloufer → Adidas Originals → MedPlus Madhapur → Q-Mart Gachibowli → Jos Alukkas → Forum Sujana Zara,133.45,215.1
+199,Reliance Smart Jubilee → Jos Alukkas → Darpan Furnishings → Kalanikethan Kukatpally,143.0,177.25
+200,Shah Ghouse Gachibowli → South India Shopping Mall → Spencer's Retail → Joyalukkas → Adidas Originals → IKEA Hyderabad → Bawarchi RTC X Roads,166.39,330.82
+201,South India Shopping Mall → Alankrita Boutique → Lalitha Jewellery,60.55,111.13
+202,Darpan Furnishings → Reliance Digital → Heritage Fresh → Puma Store → Kalanikethan Kukatpally,157.17,204.27
+203,Cafe Niloufer → Adidas Originals → MedPlus Madhapur → Q-Mart Gachibowli → Jos Alukkas → Forum Sujana Zara,133.45,215.1
+204,South India Shopping Mall → Alankrita Boutique → Lalitha Jewellery,60.55,111.13
+205,Himalaya Book World → Lalitha Jewellery → Sarath City Capital H&M → Chennai Shopping Mall → Chutneys Restaurant → Cafe Niloufer → Page 3 Luxury Salon,10142.97,10226.47
+206,Darpan Furnishings → Reliance Digital → Kalanikethan Kukatpally → Puma Store,109.9,148.1
+207,Darpan Furnishings → Reliance Digital → Kalanikethan Kukatpally → Puma Store,109.9,148.1
+208,Reliance Smart Jubilee → Darpan Furnishings → Kalanikethan Kukatpally,103.62,142.28
+209,Himalaya Book World → Lalitha Jewellery → Sarath City Capital H&M → Chennai Shopping Mall → Chutneys Restaurant → Cafe Niloufer → Page 3 Luxury Salon,10142.97,10226.47
+210,Darpan Furnishings → Reliance Digital → Kalanikethan Kukatpally → Puma Store,109.9,148.1
+211,Cafe Niloufer → MedPlus Madhapur → Q-Mart Gachibowli → Jos Alukkas → Forum Sujana Zara,128.43,197.88
+212,Himalaya Book World → Lalitha Jewellery → Sarath City Capital H&M → Chennai Shopping Mall → Chutneys Restaurant → Cafe Niloufer → Page 3 Luxury Salon,10142.97,10226.47
+213,Cafe Niloufer → MedPlus Madhapur → Q-Mart Gachibowli → Jos Alukkas → Forum Sujana Zara,128.43,197.88
+214,Darpan Furnishings → Reliance Digital → Kalanikethan Kukatpally → Puma Store,109.9,148.1
+215,Darpan Furnishings → Reliance Digital → Kalanikethan Kukatpally → Puma Store,109.9,148.1
+216,Reliance Smart Jubilee → Darpan Furnishings → Kalanikethan Kukatpally,103.62,142.28
+217,Cafe Niloufer → MedPlus Madhapur → Jos Alukkas → Forum Sujana Zara,118.38,164.81
+218,Cafe Niloufer → MedPlus Madhapur → Jos Alukkas → Forum Sujana Zara,118.38,164.81
+219,Chennai Shopping Mall → Forum Sujana Zara → Shah Ghouse Gachibowli → Green Trends → Nature's Basket → Sarath City Capital H&M → Paradise Biryani Secunderabad,198.32,281.31
+220,Darpan Furnishings → Kalanikethan Kukatpally → Puma Store,74.01,96.08
+221,Himalaya Book World → Lalitha Jewellery → Sarath City Capital H&M → Chutneys Restaurant → Cafe Niloufer → Page 3 Luxury Salon,10154.74,10197.32
+222,Chennai Shopping Mall → Forum Sujana Zara → Shah Ghouse Gachibowli → Green Trends → Nature's Basket → Sarath City Capital H&M → Paradise Biryani Secunderabad,198.32,281.31
+223,Darpan Furnishings → Kalanikethan Kukatpally → Puma Store,74.01,96.08
+224,Chennai Shopping Mall → Forum Sujana Zara → Shah Ghouse Gachibowli → Green Trends → Nature's Basket → Sarath City Capital H&M → Paradise Biryani Secunderabad,198.32,281.31
+225,Shah Ghouse Gachibowli → Spencer's Retail → Adidas Originals → IKEA Hyderabad → Bawarchi RTC X Roads,141.55,291.49
+226,Darpan Furnishings → Kalanikethan Kukatpally → Puma Store,74.01,96.08
+227,Chennai Shopping Mall → Forum Sujana Zara → Shah Ghouse Gachibowli → Green Trends → Nature's Basket → Sarath City Capital H&M → Paradise Biryani Secunderabad,198.32,281.31
+228,Cafe Niloufer → MedPlus Madhapur → Jos Alukkas → Forum Sujana Zara,118.38,164.81
+229,Cafe Niloufer → MedPlus Madhapur → Jos Alukkas,82.87,127.66
+230,Shah Ghouse Gachibowli → Spencer's Retail → Adidas Originals → IKEA Hyderabad,89.61,182.02
+231,Cafe Niloufer → MedPlus Madhapur → Jos Alukkas,82.87,127.66
+232,Himalaya Book World → Lalitha Jewellery → Sarath City Capital H&M → Chutneys Restaurant → Cafe Niloufer,155.74,198.32
+233,Chennai Shopping Mall → Forum Sujana Zara → Shah Ghouse Gachibowli → Green Trends → Nature's Basket → Sarath City Capital H&M,177.07,238.38
+234,Cafe Niloufer → MedPlus Madhapur → Jos Alukkas,82.87,127.66
+235,Chennai Shopping Mall → Forum Sujana Zara → Shah Ghouse Gachibowli → Green Trends → Nature's Basket → Sarath City Capital H&M,177.07,238.38
+236,Cafe Niloufer → MedPlus Madhapur → Jos Alukkas,82.87,127.66
+237,Shah Ghouse Gachibowli → Spencer's Retail → Adidas Originals → IKEA Hyderabad,89.61,182.02
+238,Inorbit Mall Shoppers Stop → Joyalukkas → Metro Cash & Carry → Ghanshyam Supermarket → GVK One Lifestyle → Heritage Fresh → Page 3 Luxury Salon,10142.61,10224.23
+239,Inorbit Mall Shoppers Stop → Joyalukkas → Metro Cash & Carry → Ghanshyam Supermarket → GVK One Lifestyle → Heritage Fresh → Page 3 Luxury Salon,10142.61,10224.23
+240,Shah Ghouse Gachibowli → Spencer's Retail → Adidas Originals → IKEA Hyderabad,89.61,182.02
+241,Himalaya Book World → Lalitha Jewellery → Sarath City Capital H&M → Cafe Niloufer,80.68,124.95
+242,Apollo Health City → Bata Shoe Store → Puma Store → Metro Shoes → Q-Mart Gachibowli → Bajaj Electronics → GVK One Lifestyle,166.66,255.45
+243,Himalaya Book World → Lalitha Jewellery → Sarath City Capital H&M → Cafe Niloufer,80.68,124.95
+244,Himalaya Book World → Lalitha Jewellery → Sarath City Capital H&M → Cafe Niloufer,80.68,124.95
+245,Chennai Shopping Mall → Forum Sujana Zara → Shah Ghouse Gachibowli → Nature's Basket → Sarath City Capital H&M,158.58,194.1
+246,Shah Ghouse Gachibowli → Adidas Originals → IKEA Hyderabad,75.03,133.39
+247,Shah Ghouse Gachibowli → Adidas Originals → IKEA Hyderabad,75.03,133.39
+248,Shah Ghouse Gachibowli → Adidas Originals → IKEA Hyderabad,75.03,133.39
+249,Inorbit Mall Shoppers Stop → Joyalukkas → Metro Cash & Carry → Ghanshyam Supermarket → GVK One Lifestyle → Page 3 Luxury Salon,10135.15,10205.78
+250,Apollo Health City → Bata Shoe Store → Puma Store → Metro Shoes → Q-Mart Gachibowli → Bajaj Electronics → GVK One Lifestyle,166.66,255.45
+251,Inorbit Mall Shoppers Stop → Joyalukkas → Metro Cash & Carry → Ghanshyam Supermarket → GVK One Lifestyle → Page 3 Luxury Salon,10135.15,10205.78
+252,Himalaya Book World → Lalitha Jewellery → Sarath City Capital H&M → Cafe Niloufer,80.68,124.95
+253,Chennai Shopping Mall → Forum Sujana Zara → Shah Ghouse Gachibowli → Sarath City Capital H&M,146.8,165.25
+254,Chennai Shopping Mall → Forum Sujana Zara → Shah Ghouse Gachibowli → Sarath City Capital H&M,146.8,165.25
+255,Bajaj Electronics → Joyalukkas → Himalaya Book World → Paradise Biryani Secunderabad → Chennai Shopping Mall → GVK One Lifestyle → Crossword Bookstore,122.57,252.5
+256,Inorbit Mall Shoppers Stop → Metro Cash & Carry → Ghanshyam Supermarket → GVK One Lifestyle → Page 3 Luxury Salon,10086.22,10148.9
+257,Chennai Shopping Mall → Forum Sujana Zara → Shah Ghouse Gachibowli → Sarath City Capital H&M,146.8,165.25
+258,Himalaya Book World → Lalitha Jewellery → Cafe Niloufer,78.47,117.71
+259,Chennai Shopping Mall → Forum Sujana Zara → Shah Ghouse Gachibowli → Sarath City Capital H&M,146.8,165.25
+260,Himalaya Book World → Lalitha Jewellery → Cafe Niloufer,78.47,117.71
+261,Apollo Health City → Puma Store → Metro Shoes → Q-Mart Gachibowli → Bajaj Electronics → GVK One Lifestyle,163.21,246.33
+262,Apollo Health City → Puma Store → Metro Shoes → Q-Mart Gachibowli → Bajaj Electronics → GVK One Lifestyle,163.21,246.33
+263,Bajaj Electronics → Joyalukkas → Himalaya Book World → Paradise Biryani Secunderabad → Chennai Shopping Mall → GVK One Lifestyle → Crossword Bookstore,122.57,252.5
+264,Inorbit Mall Shoppers Stop → Metro Cash & Carry → Ghanshyam Supermarket → GVK One Lifestyle → Page 3 Luxury Salon,10086.22,10148.9
+265,Inorbit Mall Shoppers Stop → Metro Cash & Carry → Ghanshyam Supermarket → Page 3 Luxury Salon,10077.73,10125.65
+266,Inorbit Mall Shoppers Stop → Metro Cash & Carry → Ghanshyam Supermarket → Page 3 Luxury Salon,10077.73,10125.65
+267,Page 3 Luxury Salon → Apollo Pharmacy → Himalaya Book World → Aroma Boutique → Nature's Basket → Kalanikethan Kukatpally → Metro Cash & Carry,10186.02,10242.59
+268,Page 3 Luxury Salon → Apollo Pharmacy → Himalaya Book World → Aroma Boutique → Nature's Basket → Kalanikethan Kukatpally → Metro Cash & Carry,10186.02,10242.59
+269,Inorbit Mall Shoppers Stop → Metro Cash & Carry → Ghanshyam Supermarket → Page 3 Luxury Salon,10077.73,10125.65
+270,Apollo Health City → Puma Store → Metro Shoes → Q-Mart Gachibowli → GVK One Lifestyle,91.88,177.73
+271,Inorbit Mall Shoppers Stop → Metro Cash & Carry → Ghanshyam Supermarket → Page 3 Luxury Salon,10077.73,10125.65
+272,Page 3 Luxury Salon → Apollo Pharmacy → Himalaya Book World → Aroma Boutique → Nature's Basket → Kalanikethan Kukatpally → Metro Cash & Carry,10186.02,10242.59
+273,Page 3 Luxury Salon → Apollo Pharmacy → Himalaya Book World → Aroma Boutique → Nature's Basket → Kalanikethan Kukatpally → Metro Cash & Carry,10186.02,10242.59
+274,Page 3 Luxury Salon → Apollo Pharmacy → Himalaya Book World → Aroma Boutique → Nature's Basket → Kalanikethan Kukatpally → Metro Cash & Carry,10186.02,10242.59
+275,Chennai Shopping Mall → Forum Sujana Zara → Sarath City Capital H&M,84.82,99.07
+276,Apollo Health City → Puma Store → Metro Shoes → Q-Mart Gachibowli → GVK One Lifestyle,91.88,177.73
+277,Bajaj Electronics → Joyalukkas → Paradise Biryani Secunderabad → Chennai Shopping Mall → Crossword Bookstore,125.13,207.85
+278,Apollo Health City → Puma Store → Q-Mart Gachibowli → GVK One Lifestyle,90.11,172.29
+279,Page 3 Luxury Salon → Apollo Pharmacy → Aroma Boutique → Nature's Basket → Kalanikethan Kukatpally → Metro Cash & Carry,10159.51,10198.74
+280,Apollo Health City → Puma Store → Q-Mart Gachibowli → GVK One Lifestyle,90.11,172.29
+281,Bajaj Electronics → Joyalukkas → Paradise Biryani Secunderabad → Chennai Shopping Mall → Crossword Bookstore,125.13,207.85
+282,Inorbit Mall Shoppers Stop → Metro Cash & Carry → Ghanshyam Supermarket,78.73,126.65
+283,Page 3 Luxury Salon → Apollo Pharmacy → Aroma Boutique → Nature's Basket → Kalanikethan Kukatpally → Metro Cash & Carry,10159.51,10198.74
+284,Apollo Health City → Puma Store → Q-Mart Gachibowli → GVK One Lifestyle,90.11,172.29
+285,Apollo Health City → Puma Store → Q-Mart Gachibowli → GVK One Lifestyle,90.11,172.29
+286,Bajaj Electronics → Joyalukkas → Paradise Biryani Secunderabad → Chennai Shopping Mall → Crossword Bookstore,125.13,207.85
+287,Chennai Shopping Mall → Reliance Digital → Inorbit Mall Shoppers Stop → Malabar Gold & Diamonds → Bajaj Electronics → Nike Exclusive Store → Apollo Health City,156.65,256.05
+288,Bajaj Electronics → Joyalukkas → Paradise Biryani Secunderabad → Chennai Shopping Mall → Crossword Bookstore,125.13,207.85
+289,Chennai Shopping Mall → Reliance Digital → Inorbit Mall Shoppers Stop → Malabar Gold & Diamonds → Nike Exclusive Store → Apollo Health City,158.57,236.92
+290,Chennai Shopping Mall → Reliance Digital → Inorbit Mall Shoppers Stop → Malabar Gold & Diamonds → Nike Exclusive Store → Apollo Health City,158.57,236.92
+291,Apollo Health City → Puma Store → Q-Mart Gachibowli,58.86,102.61
+292,Chennai Shopping Mall → Reliance Digital → Inorbit Mall Shoppers Stop → Malabar Gold & Diamonds → Nike Exclusive Store → Apollo Health City,158.57,236.92
+293,Page 3 Luxury Salon → Apollo Pharmacy → Aroma Boutique → Nature's Basket → Kalanikethan Kukatpally,10069.12,10102.37
+294,Reliance Smart Jubilee → Sarath City Capital H&M → Spencer's Retail → Alankrita Boutique → Ghanshyam Supermarket → Heritage Fresh → Cafe Niloufer,163.96,266.29
+295,Bajaj Electronics → Paradise Biryani Secunderabad → Chennai Shopping Mall → Crossword Bookstore,119.79,189.26
+296,Apollo Health City → Puma Store → Q-Mart Gachibowli,58.86,102.61
+297,Reliance Smart Jubilee → Sarath City Capital H&M → Spencer's Retail → Alankrita Boutique → Ghanshyam Supermarket → Heritage Fresh → Cafe Niloufer,163.96,266.29
+298,Page 3 Luxury Salon → Apollo Pharmacy → Aroma Boutique → Nature's Basket → Kalanikethan Kukatpally,10069.12,10102.37
+299,Chennai Shopping Mall → Reliance Digital → Inorbit Mall Shoppers Stop → Malabar Gold & Diamonds → Nike Exclusive Store → Apollo Health City,158.57,236.92
+300,Page 3 Luxury Salon → Apollo Pharmacy → Aroma Boutique → Nature's Basket → Kalanikethan Kukatpally,10069.12,10102.37
+301,Reliance Smart Jubilee → Sarath City Capital H&M → Heritage Fresh → Ghanshyam Supermarket → Alankrita Boutique → Cafe Niloufer,168.21,252.12
+302,Bajaj Electronics → Paradise Biryani Secunderabad → Chennai Shopping Mall,73.84,129.46
+303,Page 3 Luxury Salon → Apollo Pharmacy → Nature's Basket → Kalanikethan Kukatpally,10065.44,10099.2
+304,Chennai Shopping Mall → Reliance Digital → Inorbit Mall Shoppers Stop → Malabar Gold & Diamonds → Nike Exclusive Store,107.92,178.69
+305,Chennai Shopping Mall → Reliance Digital → Inorbit Mall Shoppers Stop → Malabar Gold & Diamonds → Nike Exclusive Store,107.92,178.69
+306,Page 3 Luxury Salon → Apollo Pharmacy → Nature's Basket → Kalanikethan Kukatpally,10065.44,10099.2
+307,Reliance Smart Jubilee → Sarath City Capital H&M → Heritage Fresh → Ghanshyam Supermarket → Alankrita Boutique → Cafe Niloufer,168.21,252.12
+308,Page 3 Luxury Salon → Apollo Pharmacy → Nature's Basket → Kalanikethan Kukatpally,10065.44,10099.2
+309,Chennai Shopping Mall → Reliance Digital → Inorbit Mall Shoppers Stop → Malabar Gold & Diamonds → Nike Exclusive Store,107.92,178.69
+310,Bajaj Electronics → Paradise Biryani Secunderabad → Chennai Shopping Mall,73.84,129.46
+311,Chennai Shopping Mall → Reliance Digital → Inorbit Mall Shoppers Stop → Malabar Gold & Diamonds → Nike Exclusive Store,107.92,178.69
+312,Bajaj Electronics → Paradise Biryani Secunderabad → Chennai Shopping Mall,73.84,129.46
+313,Chennai Shopping Mall → Reliance Digital → Inorbit Mall Shoppers Stop → Nike Exclusive Store,110.03,171.87
+314,Page 3 Luxury Salon → Apollo Pharmacy → Kalanikethan Kukatpally,10025.9,10058.18
+315,Reliance Smart Jubilee → Sarath City Capital H&M → Heritage Fresh → Ghanshyam Supermarket → Alankrita Boutique,117.71,174.04
+316,Reliance Smart Jubilee → Sarath City Capital H&M → Heritage Fresh → Ghanshyam Supermarket → Alankrita Boutique,117.71,174.04
+317,Page 3 Luxury Salon → Apollo Pharmacy → Kalanikethan Kukatpally,10025.9,10058.18
+318,Chennai Shopping Mall → Reliance Digital → Inorbit Mall Shoppers Stop → Nike Exclusive Store,110.03,171.87
+319,Reliance Smart Jubilee → Sarath City Capital H&M → Heritage Fresh → Ghanshyam Supermarket → Alankrita Boutique,117.71,174.04
+320,Chennai Shopping Mall → Reliance Digital → Inorbit Mall Shoppers Stop → Nike Exclusive Store,110.03,171.87
+321,Crossword Bookstore → Bata Shoe Store → Forum Sujana Zara → Croma Jubilee Hills → Lalitha Jewellery → Metro Shoes,144.31,183.12
+322,Crossword Bookstore → Bata Shoe Store → Forum Sujana Zara → Croma Jubilee Hills → Lalitha Jewellery → Metro Shoes,144.31,183.12
+323,Joyalukkas → Q-Mart Gachibowli → Himalaya Book World → Pista House → Chutneys Restaurant → Bawarchi RTC X Roads → Ghanshyam Supermarket,144.16,242.49
+324,Crossword Bookstore → Bata Shoe Store → Forum Sujana Zara → Croma Jubilee Hills → Lalitha Jewellery → Metro Shoes,144.31,183.12
+325,Joyalukkas → Q-Mart Gachibowli → Himalaya Book World → Chutneys Restaurant → Bawarchi RTC X Roads → Ghanshyam Supermarket,144.93,223.18
+326,Bawarchi RTC X Roads → Wildcraft Store → Apollo Health City → D-Mart Begumpet → Himalaya Book World → Vijetha Supermarket → Karachi Bakery,167.87,252.89
+327,Bawarchi RTC X Roads → Wildcraft Store → Apollo Health City → D-Mart Begumpet → Himalaya Book World → Vijetha Supermarket → Karachi Bakery,167.87,252.89
+328,Chennai Shopping Mall → Inorbit Mall Shoppers Stop → Nike Exclusive Store,104.18,154.4
+329,Chennai Shopping Mall → Inorbit Mall Shoppers Stop → Nike Exclusive Store,104.18,154.4
+330,Joyalukkas → Q-Mart Gachibowli → Himalaya Book World → Chutneys Restaurant → Bawarchi RTC X Roads → Ghanshyam Supermarket,144.93,223.18
+331,Bawarchi RTC X Roads → Wildcraft Store → Apollo Health City → D-Mart Begumpet → Himalaya Book World → Vijetha Supermarket → Karachi Bakery,167.87,252.89
+332,Joyalukkas → Q-Mart Gachibowli → Himalaya Book World → Chutneys Restaurant → Bawarchi RTC X Roads → Ghanshyam Supermarket,144.93,223.18
+333,Reliance Smart Jubilee → Sarath City Capital H&M → Alankrita Boutique → Ghanshyam Supermarket,76.89,145.94
+334,Bawarchi RTC X Roads → Wildcraft Store → Apollo Health City → D-Mart Begumpet → Himalaya Book World → Vijetha Supermarket → Karachi Bakery,167.87,252.89
+335,Chennai Shopping Mall → Inorbit Mall Shoppers Stop → Nike Exclusive Store,104.18,154.4
+336,Chennai Shopping Mall → Inorbit Mall Shoppers Stop → Nike Exclusive Store,104.18,154.4
+337,Reliance Smart Jubilee → Ghanshyam Supermarket → Alankrita Boutique,44.29,97.42
+338,Alankrita Boutique → Apollo Pharmacy → Himalaya Book World → Aroma Boutique → Nike Exclusive Store → Adidas Originals → Chutneys Restaurant,191.65,311.37
+339,Bawarchi RTC X Roads → Wildcraft Store → D-Mart Begumpet → Himalaya Book World → Vijetha Supermarket → Karachi Bakery,162.07,241.39
+340,Reliance Smart Jubilee → Ghanshyam Supermarket → Alankrita Boutique,44.29,97.42
+341,Reliance Smart Jubilee → Ghanshyam Supermarket → Alankrita Boutique,44.29,97.42
+342,Reliance Smart Jubilee → Ghanshyam Supermarket → Alankrita Boutique,44.29,97.42
+343,Bawarchi RTC X Roads → Wildcraft Store → D-Mart Begumpet → Himalaya Book World → Vijetha Supermarket → Karachi Bakery,162.07,241.39
+344,Joyalukkas → Q-Mart Gachibowli → Ghanshyam Supermarket → Bawarchi RTC X Roads → Chutneys Restaurant,72.88,156.14
+345,Alankrita Boutique → Apollo Pharmacy → Himalaya Book World → Aroma Boutique → Nike Exclusive Store → Adidas Originals → Chutneys Restaurant,191.65,311.37
+346,Joyalukkas → Q-Mart Gachibowli → Ghanshyam Supermarket → Bawarchi RTC X Roads → Chutneys Restaurant,72.88,156.14
+347,Alankrita Boutique → Apollo Pharmacy → Himalaya Book World → Aroma Boutique → Nike Exclusive Store → Adidas Originals → Chutneys Restaurant,191.65,311.37
+348,Reliance Smart Jubilee → Ghanshyam Supermarket → Alankrita Boutique,44.29,97.42
+349,Lalitha Jewellery → Bajaj Electronics → Neeru's Emporio → Decathlon Madhapur → Green Trends → Bawarchi RTC X Roads → Malabar Gold & Diamonds,178.36,331.94
+350,Alankrita Boutique → Apollo Pharmacy → Himalaya Book World → Aroma Boutique → Adidas Originals → Chutneys Restaurant,177.64,277.62
+351,Lalitha Jewellery → Bajaj Electronics → Neeru's Emporio → Decathlon Madhapur → Green Trends → Bawarchi RTC X Roads → Malabar Gold & Diamonds,178.36,331.94
+352,Joyalukkas → Chutneys Restaurant → Bawarchi RTC X Roads → Ghanshyam Supermarket,99.72,134.2
+353,Joyalukkas → Chutneys Restaurant → Bawarchi RTC X Roads → Ghanshyam Supermarket,99.72,134.2
+354,Crossword Bookstore → Forum Sujana Zara → Lalitha Jewellery,82.83,96.65
+355,Joyalukkas → Chutneys Restaurant → Bawarchi RTC X Roads → Ghanshyam Supermarket,99.72,134.2
+356,Lalitha Jewellery → Bajaj Electronics → Neeru's Emporio → Decathlon Madhapur → Green Trends → Bawarchi RTC X Roads → Malabar Gold & Diamonds,178.36,331.94
+357,Alankrita Boutique → Apollo Pharmacy → Himalaya Book World → Aroma Boutique → Adidas Originals → Chutneys Restaurant,177.64,277.62
+358,Alankrita Boutique → Apollo Pharmacy → Himalaya Book World → Aroma Boutique → Adidas Originals → Chutneys Restaurant,177.64,277.62
+359,Crossword Bookstore → Forum Sujana Zara → Lalitha Jewellery,82.83,96.65
+360,Bawarchi RTC X Roads → Wildcraft Store → D-Mart Begumpet → Vijetha Supermarket → Karachi Bakery,148.59,211.83
+361,Metro Cash & Carry → Ghanshyam Supermarket → Sarath City Capital H&M → Paradise Biryani Secunderabad → Malabar Gold & Diamonds → Bajaj Electronics → Ratnadeep Supermarket,145.64,263.61
+362,Metro Cash & Carry → Ghanshyam Supermarket → Sarath City Capital H&M → Paradise Biryani Secunderabad → Malabar Gold & Diamonds → Bajaj Electronics → Ratnadeep Supermarket,145.64,263.61
+363,Alankrita Boutique → Apollo Pharmacy → Himalaya Book World → Aroma Boutique → Adidas Originals,100.82,189.32
+364,Lalitha Jewellery → Bajaj Electronics → Decathlon Madhapur → Green Trends → Bawarchi RTC X Roads → Malabar Gold & Diamonds,175.32,317.62
+365,Metro Cash & Carry → Ghanshyam Supermarket → Sarath City Capital H&M → Paradise Biryani Secunderabad → Malabar Gold & Diamonds → Bajaj Electronics → Ratnadeep Supermarket,145.64,263.61
+366,Joyalukkas → Chutneys Restaurant → Bawarchi RTC X Roads,94.47,117.52
+367,Lalitha Jewellery → Bajaj Electronics → Decathlon Madhapur → Green Trends → Bawarchi RTC X Roads → Malabar Gold & Diamonds,175.32,317.62
+368,Lalitha Jewellery → Bajaj Electronics → Decathlon Madhapur → Green Trends → Bawarchi RTC X Roads → Malabar Gold & Diamonds,175.32,317.62
+369,Metro Cash & Carry → Ghanshyam Supermarket → Sarath City Capital H&M → Paradise Biryani Secunderabad → Malabar Gold & Diamonds → Bajaj Electronics → Ratnadeep Supermarket,145.64,263.61
+370,Bawarchi RTC X Roads → Wildcraft Store → D-Mart Begumpet → Karachi Bakery,147.74,201.35
+371,Joyalukkas → Chutneys Restaurant → Bawarchi RTC X Roads,94.47,117.52
+372,Bawarchi RTC X Roads → Wildcraft Store → D-Mart Begumpet → Karachi Bakery,147.74,201.35
+373,Bawarchi RTC X Roads → Wildcraft Store → D-Mart Begumpet,101.42,129.83
+374,Alankrita Boutique → Aroma Boutique → Adidas Originals → Himalaya Book World,117.38,178.42
+375,Pista House → Spencer's Retail → Kalanikethan Kukatpally → Puma Store → Ratnadeep Supermarket → Khazana Jewellers → Mebaz Banjara Hills,180.3,300.98
+376,Alankrita Boutique → Aroma Boutique → Adidas Originals → Himalaya Book World,117.38,178.42
+377,Metro Cash & Carry → Sarath City Capital H&M → Paradise Biryani Secunderabad → Malabar Gold & Diamonds → Bajaj Electronics → Ratnadeep Supermarket,125.95,195.35
+378,Alankrita Boutique → Aroma Boutique → Adidas Originals → Himalaya Book World,117.38,178.42
+379,Metro Cash & Carry → Sarath City Capital H&M → Paradise Biryani Secunderabad → Malabar Gold & Diamonds → Bajaj Electronics → Ratnadeep Supermarket,125.95,195.35
+380,Pista House → Spencer's Retail → Kalanikethan Kukatpally → Puma Store → Ratnadeep Supermarket → Khazana Jewellers → Mebaz Banjara Hills,180.3,300.98
+381,Lalitha Jewellery → Bajaj Electronics → Decathlon Madhapur → Malabar Gold & Diamonds → Bawarchi RTC X Roads,171.77,267.53
+382,Pista House → Spencer's Retail → Kalanikethan Kukatpally → Puma Store → Ratnadeep Supermarket → Khazana Jewellers → Mebaz Banjara Hills,180.3,300.98
+383,Alankrita Boutique → Aroma Boutique → Adidas Originals → Himalaya Book World,117.38,178.42
+384,Lalitha Jewellery → Bajaj Electronics → Decathlon Madhapur → Malabar Gold & Diamonds → Bawarchi RTC X Roads,171.77,267.53
+385,Alankrita Boutique → Aroma Boutique → Himalaya Book World,94.0,128.47
+386,Metro Cash & Carry → Sarath City Capital H&M → Paradise Biryani Secunderabad → Malabar Gold & Diamonds → Ratnadeep Supermarket,121.89,177.45
+387,Lalitha Jewellery → Bajaj Electronics → Decathlon Madhapur → Malabar Gold & Diamonds,120.41,166.36
+388,Metro Cash & Carry → Sarath City Capital H&M → Paradise Biryani Secunderabad → Malabar Gold & Diamonds → Ratnadeep Supermarket,121.89,177.45
+389,Lalitha Jewellery → Bajaj Electronics → Decathlon Madhapur → Malabar Gold & Diamonds,120.41,166.36
+390,Lalitha Jewellery → Bajaj Electronics → Decathlon Madhapur → Malabar Gold & Diamonds,120.41,166.36
+391,Heritage Fresh → Mebaz Banjara Hills → Nature's Basket → Nike Exclusive Store → Adidas Originals → Reliance Digital → Page 3 Luxury Salon,10159.9,10236.24
+392,Alankrita Boutique → Aroma Boutique → Himalaya Book World,94.0,128.47
+393,Lalitha Jewellery → Bajaj Electronics → Decathlon Madhapur → Malabar Gold & Diamonds,120.41,166.36
+394,Lalitha Jewellery → Bajaj Electronics → Decathlon Madhapur → Malabar Gold & Diamonds,120.41,166.36
+395,Lalitha Jewellery → Bajaj Electronics → Decathlon Madhapur → Malabar Gold & Diamonds,120.41,166.36
+396,Alankrita Boutique → Aroma Boutique → Himalaya Book World,94.0,128.47
+397,Fabindia Gachibowli → Nike Exclusive Store → Croma Jubilee Hills → Reliance Smart Jubilee → Lakme Salon → Alankrita Boutique → Chutneys Restaurant,151.2,260.72
+398,Pista House → Spencer's Retail → Kalanikethan Kukatpally → Puma Store → Ratnadeep Supermarket,95.63,157.18
+399,Lalitha Jewellery → Malabar Gold & Diamonds → Decathlon Madhapur,95.81,126.53
+400,Metro Cash & Carry → Sarath City Capital H&M → Paradise Biryani Secunderabad → Malabar Gold & Diamonds,77.16,122.08
+401,Heritage Fresh → Mebaz Banjara Hills → Nature's Basket → Adidas Originals → Reliance Digital → Page 3 Luxury Salon,10147.86,10202.89
+402,Heritage Fresh → Mebaz Banjara Hills → Nature's Basket → Adidas Originals → Reliance Digital → Page 3 Luxury Salon,10147.86,10202.89
+403,Metro Cash & Carry → Sarath City Capital H&M → Paradise Biryani Secunderabad → Malabar Gold & Diamonds,77.16,122.08
+404,Heritage Fresh → Mebaz Banjara Hills → Nature's Basket → Adidas Originals → Reliance Digital → Page 3 Luxury Salon,10147.86,10202.89
+405,Lalitha Jewellery → Malabar Gold & Diamonds → Decathlon Madhapur,95.81,126.53
+406,Fabindia Gachibowli → Nike Exclusive Store → Croma Jubilee Hills → Reliance Smart Jubilee → Lakme Salon → Alankrita Boutique → Chutneys Restaurant,151.2,260.72
+407,Lalitha Jewellery → Malabar Gold & Diamonds → Decathlon Madhapur,95.81,126.53
+408,Pista House → Spencer's Retail → Kalanikethan Kukatpally → Puma Store → Ratnadeep Supermarket,95.63,157.18
+409,Adidas Originals → Neeru's Emporio → Lalitha Jewellery → Inorbit Mall Shoppers Stop → Metro Cash & Carry → Wildcraft Store → Bata Shoe Store,218.96,315.08
+410,Adidas Originals → Neeru's Emporio → Lalitha Jewellery → Inorbit Mall Shoppers Stop → Metro Cash & Carry → Wildcraft Store → Bata Shoe Store,218.96,315.08
+411,Pista House → Spencer's Retail → Kalanikethan Kukatpally → Puma Store,57.92,107.6
+412,Fabindia Gachibowli → Nike Exclusive Store → Croma Jubilee Hills → Reliance Smart Jubilee → Lakme Salon → Chutneys Restaurant,144.9,238.49
+413,Metro Cash & Carry → Sarath City Capital H&M → Malabar Gold & Diamonds,82.19,105.19
+414,Adidas Originals → Neeru's Emporio → Lalitha Jewellery → Inorbit Mall Shoppers Stop → Metro Cash & Carry → Wildcraft Store → Bata Shoe Store,218.96,315.08
+415,Heritage Fresh → Mebaz Banjara Hills → Adidas Originals → Reliance Digital → Page 3 Luxury Salon,10127.93,10176.46
+416,Metro Cash & Carry → Sarath City Capital H&M → Malabar Gold & Diamonds,82.19,105.19
+417,Adidas Originals → Neeru's Emporio → Lalitha Jewellery → Inorbit Mall Shoppers Stop → Metro Cash & Carry → Wildcraft Store → Bata Shoe Store,218.96,315.08
+418,Metro Cash & Carry → Sarath City Capital H&M → Malabar Gold & Diamonds,82.19,105.19
+419,Adidas Originals → Neeru's Emporio → Lalitha Jewellery → Inorbit Mall Shoppers Stop → Metro Cash & Carry → Wildcraft Store → Bata Shoe Store,218.96,315.08
+420,Fabindia Gachibowli → Nike Exclusive Store → Croma Jubilee Hills → Reliance Smart Jubilee → Lakme Salon → Chutneys Restaurant,144.9,238.49
+421,Ratnadeep Supermarket → Concu Jubilee Hills → Ghanshyam Supermarket → Alankrita Boutique → Crossword Bookstore → Sarath City Capital H&M → Khazana Jewellers,20150.8,20205.6
+422,Heritage Fresh → Mebaz Banjara Hills → Adidas Originals → Reliance Digital,128.93,177.46
+423,Heritage Fresh → Mebaz Banjara Hills → Adidas Originals → Reliance Digital,128.93,177.46
+424,Adidas Originals → Bata Shoe Store → Wildcraft Store → Metro Cash & Carry → Lalitha Jewellery → Inorbit Mall Shoppers Stop,192.25,268.8
+425,Pista House → Spencer's Retail → Kalanikethan Kukatpally,51.94,92.4
+426,Ratnadeep Supermarket → Concu Jubilee Hills → Ghanshyam Supermarket → Alankrita Boutique → Crossword Bookstore → Sarath City Capital H&M → Khazana Jewellers,20150.8,20205.6
+427,Pista House → Spencer's Retail → Kalanikethan Kukatpally,51.94,92.4
+428,Pista House → Spencer's Retail → Kalanikethan Kukatpally,51.94,92.4
+429,Fabindia Gachibowli → Nike Exclusive Store → Croma Jubilee Hills → Reliance Smart Jubilee → Chutneys Restaurant,138.06,180.24
+430,Adidas Originals → Bata Shoe Store → Wildcraft Store → Metro Cash & Carry → Lalitha Jewellery → Inorbit Mall Shoppers Stop,192.25,268.8
+431,Heritage Fresh → Mebaz Banjara Hills → Adidas Originals → Reliance Digital,128.93,177.46
+432,Adidas Originals → Bata Shoe Store → Wildcraft Store → Metro Cash & Carry → Lalitha Jewellery → Inorbit Mall Shoppers Stop,192.25,268.8
+433,Adidas Originals → Bata Shoe Store → Metro Cash & Carry → Lalitha Jewellery → Inorbit Mall Shoppers Stop,183.97,243.43
+434,Heritage Fresh → Mebaz Banjara Hills → Adidas Originals,71.0,99.73
+435,Adidas Originals → Bata Shoe Store → Metro Cash & Carry → Lalitha Jewellery → Inorbit Mall Shoppers Stop,183.97,243.43
+436,Adidas Originals → Bata Shoe Store → Metro Cash & Carry → Lalitha Jewellery → Inorbit Mall Shoppers Stop,183.97,243.43
+437,Heritage Fresh → Mebaz Banjara Hills → Adidas Originals,71.0,99.73
+438,MedPlus Madhapur → South India Shopping Mall → Lakme Salon → Bawarchi RTC X Roads → Chennai Shopping Mall → Hyderabad Central → Page 3 Luxury Salon,10130.59,10207.92
+439,Fabindia Gachibowli → Nike Exclusive Store → Croma Jubilee Hills → Reliance Smart Jubilee,89.18,125.44
+440,Adidas Originals → Bata Shoe Store → Metro Cash & Carry → Lalitha Jewellery → Inorbit Mall Shoppers Stop,183.97,243.43
+441,Adidas Originals → Bata Shoe Store → Metro Cash & Carry → Lalitha Jewellery → Inorbit Mall Shoppers Stop,183.97,243.43
+442,MedPlus Madhapur → South India Shopping Mall → Lakme Salon → Bawarchi RTC X Roads → Chennai Shopping Mall → Hyderabad Central → Page 3 Luxury Salon,10130.59,10207.92
+443,Adidas Originals → Bata Shoe Store → Metro Cash & Carry → Lalitha Jewellery → Inorbit Mall Shoppers Stop,183.97,243.43
+444,Fabindia Gachibowli → Nike Exclusive Store → Croma Jubilee Hills → Reliance Smart Jubilee,89.18,125.44
+445,Joyalukkas → Ratnadeep Supermarket → Q-Mart Gachibowli → Reliance Smart Jubilee → Lakme Salon → Ghanshyam Supermarket → IKEA Hyderabad,159.86,295.61
+446,MedPlus Madhapur → South India Shopping Mall → Lakme Salon → Bawarchi RTC X Roads → Chennai Shopping Mall → Page 3 Luxury Salon,10052.21,10120.94
+447,Joyalukkas → Ratnadeep Supermarket → Q-Mart Gachibowli → Reliance Smart Jubilee → Lakme Salon → Ghanshyam Supermarket → IKEA Hyderabad,159.86,295.61
+448,Fabindia Gachibowli → Nike Exclusive Store → Croma Jubilee Hills,77.95,101.42
+449,Joyalukkas → Ratnadeep Supermarket → Q-Mart Gachibowli → Reliance Smart Jubilee → Lakme Salon → Ghanshyam Supermarket → IKEA Hyderabad,159.86,295.61
+450,MedPlus Madhapur → South India Shopping Mall → Lakme Salon → Bawarchi RTC X Roads → Chennai Shopping Mall → Page 3 Luxury Salon,10052.21,10120.94
+451,Fabindia Gachibowli → Nike Exclusive Store → Croma Jubilee Hills,77.95,101.42
+452,Fabindia Gachibowli → Nike Exclusive Store → Croma Jubilee Hills,77.95,101.42
+453,Ratnadeep Supermarket → Sarath City Capital H&M → Alankrita Boutique → Ghanshyam Supermarket → Crossword Bookstore,126.73,215.49
+454,Joyalukkas → Ratnadeep Supermarket → Q-Mart Gachibowli → Reliance Smart Jubilee → Lakme Salon → Ghanshyam Supermarket → IKEA Hyderabad,159.86,295.61
+455,Adidas Originals → Lalitha Jewellery → Inorbit Mall Shoppers Stop → Metro Cash & Carry,142.84,200.33
+456,Adidas Originals → Lalitha Jewellery → Inorbit Mall Shoppers Stop → Metro Cash & Carry,142.84,200.33
+457,Joyalukkas → Ratnadeep Supermarket → Q-Mart Gachibowli → Lakme Salon → Ghanshyam Supermarket → IKEA Hyderabad,133.3,254.66
+458,Ratnadeep Supermarket → Alankrita Boutique → Ghanshyam Supermarket → Crossword Bookstore,85.26,162.62
+459,Joyalukkas → Ratnadeep Supermarket → Q-Mart Gachibowli → Lakme Salon → Ghanshyam Supermarket → IKEA Hyderabad,133.3,254.66
+460,MedPlus Madhapur → Lakme Salon → Bawarchi RTC X Roads → Chennai Shopping Mall → Page 3 Luxury Salon,10043.23,10104.36
+461,Ghanshyam Supermarket → Alankrita Boutique → Apollo Health City → Chutneys Restaurant → Naturals Salon → Jos Alukkas → Adidas Originals,186.4,249.25
+462,Joyalukkas → Ratnadeep Supermarket → Q-Mart Gachibowli → Lakme Salon → Ghanshyam Supermarket → IKEA Hyderabad,133.3,254.66
+463,MedPlus Madhapur → Lakme Salon → Bawarchi RTC X Roads → Chennai Shopping Mall → Page 3 Luxury Salon,10043.23,10104.36
+464,Ghanshyam Supermarket → Alankrita Boutique → Apollo Health City → Chutneys Restaurant → Naturals Salon → Jos Alukkas → Adidas Originals,186.4,249.25
+465,Adidas Originals → Inorbit Mall Shoppers Stop → Metro Cash & Carry,119.91,164.08
+466,Ratnadeep Supermarket → Alankrita Boutique → Ghanshyam Supermarket → Crossword Bookstore,85.26,162.62
+467,Ratnadeep Supermarket → Alankrita Boutique → Ghanshyam Supermarket → Crossword Bookstore,85.26,162.62
+468,Ghanshyam Supermarket → Alankrita Boutique → Apollo Health City → Chutneys Restaurant → Naturals Salon → Jos Alukkas → Adidas Originals,186.4,249.25
+469,MedPlus Madhapur → Lakme Salon → Bawarchi RTC X Roads → Page 3 Luxury Salon,10030.5,10074.18
+470,Ratnadeep Supermarket → Alankrita Boutique → Ghanshyam Supermarket,59.39,106.82
+471,Ghanshyam Supermarket → Alankrita Boutique → Apollo Health City → Chutneys Restaurant → Jos Alukkas → Adidas Originals,182.61,237.47
+472,Ratnadeep Supermarket → Alankrita Boutique → Ghanshyam Supermarket,59.39,106.82
+473,Ratnadeep Supermarket → Alankrita Boutique → Ghanshyam Supermarket,59.39,106.82
+474,Joyalukkas → Ratnadeep Supermarket → Q-Mart Gachibowli → Lakme Salon → Ghanshyam Supermarket,86.48,154.31
+475,MedPlus Madhapur → Lakme Salon → Bawarchi RTC X Roads → Page 3 Luxury Salon,10030.5,10074.18
+476,Joyalukkas → Ratnadeep Supermarket → Q-Mart Gachibowli → Lakme Salon → Ghanshyam Supermarket,86.48,154.31
+477,Ghanshyam Supermarket → Alankrita Boutique → Apollo Health City → Chutneys Restaurant → Jos Alukkas → Adidas Originals,182.61,237.47
+478,MedPlus Madhapur → Lakme Salon → Bawarchi RTC X Roads → Page 3 Luxury Salon,10030.5,10074.18
+479,Ghanshyam Supermarket → Alankrita Boutique → Apollo Health City → Chutneys Restaurant → Jos Alukkas → Adidas Originals,182.61,237.47
+480,MedPlus Madhapur → Lakme Salon → Bawarchi RTC X Roads → Page 3 Luxury Salon,10030.5,10074.18

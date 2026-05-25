@@ -43,3 +43,54 @@ def build_duration_matrix(
                 matrix[i][j] = 9999
 
     return matrix
+
+def build_distance_matrix(
+    location_ids,
+    cache_df
+):
+
+    n = len(location_ids)
+
+    matrix = [
+
+        [0 for _ in range(n)]
+
+        for _ in range(n)
+    ]
+
+    for i in range(n):
+
+        for j in range(n):
+
+            if i == j:
+                continue
+
+            origin = location_ids[i]
+
+            destination = location_ids[j]
+
+            match = cache_df[
+
+                (cache_df["origin_id"] == origin) &
+
+                (cache_df["destination_id"] == destination)
+            ]
+
+            if len(match) > 0:
+
+                distance_km = round(
+
+                    match.iloc[0][
+                        "distance_meters"
+                    ] / 1000,
+
+                    2
+                )
+
+                matrix[i][j] = distance_km
+
+            else:
+
+                matrix[i][j] = 9999
+
+    return matrix

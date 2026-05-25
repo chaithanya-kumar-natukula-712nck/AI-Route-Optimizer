@@ -3,6 +3,9 @@ data/demo
 
 myfolder for cache/
 
+services/__pycache__
+
+
 __init__.py
 
 scripts/featuring_engineering.py

@@ -1,0 +1,8 @@
+.env
+data/demo
+
+myfolder for cache/
+
+__init__.py
+
+scripts/featuring_engineering.py

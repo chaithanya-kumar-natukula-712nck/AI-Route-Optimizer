@@ -1,0 +1,149 @@
+origin_id,destination_id,origin_store,destination_store,distance_meters,duration_seconds,duration_minutes
+L25,L57,IKEA Hyderabad,Joyalukkas,31682,3321,55.35
+L21,L57,Bajaj Electronics,Joyalukkas,9915,1255,20.92
+L57,L21,Joyalukkas,Bajaj Electronics,9516,1198,19.97
+L21,L25,Bajaj Electronics,IKEA Hyderabad,37881,3663,61.05
+L57,L25,Joyalukkas,IKEA Hyderabad,33309,3524,58.73
+L25,L5,IKEA Hyderabad,Reliance Smart Jubilee,45579,4144,69.07
+L57,L5,Joyalukkas,Reliance Smart Jubilee,39689,3140,52.33
+L25,L21,IKEA Hyderabad,Bajaj Electronics,37406,3638,60.63
+L21,L5,Bajaj Electronics,Reliance Smart Jubilee,44261,3280,54.67
+L5,L57,Reliance Smart Jubilee,Joyalukkas,28617,2911,48.52
+L5,L25,Reliance Smart Jubilee,IKEA Hyderabad,34992,3947,65.78
+L5,L21,Reliance Smart Jubilee,Bajaj Electronics,34341,3229,53.82
+L25,L57,IKEA Hyderabad,Joyalukkas,31682,3321,55.35
+L25,L21,IKEA Hyderabad,Bajaj Electronics,37406,3638,60.63
+L21,L25,Bajaj Electronics,IKEA Hyderabad,37881,3663,61.05
+L5,L25,Reliance Smart Jubilee,IKEA Hyderabad,34992,3947,65.78
+L57,L21,Joyalukkas,Bajaj Electronics,9516,1198,19.97
+L5,L57,Reliance Smart Jubilee,Joyalukkas,28617,2911,48.52
+L57,L25,Joyalukkas,IKEA Hyderabad,33309,3524,58.73
+L5,L21,Reliance Smart Jubilee,Bajaj Electronics,34341,3229,53.82
+L25,L5,IKEA Hyderabad,Reliance Smart Jubilee,45579,4144,69.07
+L21,L57,Bajaj Electronics,Joyalukkas,9915,1255,20.92
+L57,L5,Joyalukkas,Reliance Smart Jubilee,39689,3140,52.33
+L21,L5,Bajaj Electronics,Reliance Smart Jubilee,44261,3280,54.67
+L53,L35,Bata Shoe Store,Roastery Coffee House,16989,1682,28.03
+L35,L43,Roastery Coffee House,Naturals Salon,67608,4022,67.03
+L32,L35,Karachi Bakery,Roastery Coffee House,91161,6109,101.82
+L43,L32,Naturals Salon,Karachi Bakery,54939,4269,71.15
+L35,L53,Roastery Coffee House,Bata Shoe Store,18271,1735,28.92
+L32,L53,Karachi Bakery,Bata Shoe Store,101154,6246,104.1
+L32,L43,Karachi Bakery,Naturals Salon,53412,3932,65.53
+L53,L43,Bata Shoe Store,Naturals Salon,54748,3141,52.35
+L53,L32,Bata Shoe Store,Karachi Bakery,98253,6356,105.93
+L35,L32,Roastery Coffee House,Karachi Bakery,86462,6066,101.1
+L43,L53,Naturals Salon,Bata Shoe Store,54748,3112,51.87
+L43,L35,Naturals Salon,Roastery Coffee House,67034,4003,66.72
+L32,L35,Karachi Bakery,Roastery Coffee House,91161,6109,101.82
+L53,L32,Bata Shoe Store,Karachi Bakery,98253,6356,105.93
+L35,L43,Roastery Coffee House,Naturals Salon,67608,4022,67.03
+L53,L35,Bata Shoe Store,Roastery Coffee House,16989,1682,28.03
+L43,L53,Naturals Salon,Bata Shoe Store,54748,3112,51.87
+L35,L53,Roastery Coffee House,Bata Shoe Store,18271,1735,28.92
+L53,L43,Bata Shoe Store,Naturals Salon,54748,3141,52.35
+L43,L32,Naturals Salon,Karachi Bakery,54939,4269,71.15
+L35,L32,Roastery Coffee House,Karachi Bakery,86462,6066,101.1
+L32,L53,Karachi Bakery,Bata Shoe Store,101154,6246,104.1
+L32,L43,Karachi Bakery,Naturals Salon,53412,3932,65.53
+L43,L35,Naturals Salon,Roastery Coffee House,67034,4003,66.72
+L33,L25,Pista House,IKEA Hyderabad,20328,2486,41.43
+L25,L33,IKEA Hyderabad,Pista House,20681,2543,42.38
+L31,L1,Cafe Niloufer,Ratnadeep Supermarket,27877,2894,48.23
+L1,L31,Ratnadeep Supermarket,Cafe Niloufer,27363,2806,46.77
+L40,L33,Apollo Health City,Pista House,88029,5473,91.22
+L40,L31,Apollo Health City,Cafe Niloufer,46926,3683,61.38
+L31,L33,Cafe Niloufer,Pista House,59316,5002,83.37
+L1,L40,Ratnadeep Supermarket,Apollo Health City,56638,3402,56.7
+L33,L31,Pista House,Cafe Niloufer,60400,5058,84.3
+L40,L1,Apollo Health City,Ratnadeep Supermarket,56590,3364,56.07
+L31,L40,Cafe Niloufer,Apollo Health City,47018,3737,62.28
+L1,L25,Ratnadeep Supermarket,IKEA Hyderabad,34334,3246,54.1
+L1,L33,Ratnadeep Supermarket,Pista House,44612,3527,58.78
+L25,L40,IKEA Hyderabad,Apollo Health City,89139,5856,97.6
+L25,L31,IKEA Hyderabad,Cafe Niloufer,51075,5171,86.18
+L33,L1,Pista House,Ratnadeep Supermarket,45850,3617,60.28
+L40,L25,Apollo Health City,IKEA Hyderabad,89526,5844,97.4
+L33,L40,Pista House,Apollo Health City,92468,5637,93.95
+L31,L25,Cafe Niloufer,IKEA Hyderabad,52153,5291,88.18
+L25,L1,IKEA Hyderabad,Ratnadeep Supermarket,34358,3280,54.67
+L43,L35,Naturals Salon,Roastery Coffee House,67034,4003,66.72
+L35,L53,Roastery Coffee House,Bata Shoe Store,18271,1735,28.92
+L35,L43,Roastery Coffee House,Naturals Salon,67608,4022,67.03
+L43,L53,Naturals Salon,Bata Shoe Store,54748,3112,51.87
+L35,L32,Roastery Coffee House,Karachi Bakery,86462,6066,101.1
+L32,L43,Karachi Bakery,Naturals Salon,53412,3932,65.53
+L32,L35,Karachi Bakery,Roastery Coffee House,91161,6109,101.82
+L43,L32,Naturals Salon,Karachi Bakery,54939,4269,71.15
+L53,L43,Bata Shoe Store,Naturals Salon,54748,3141,52.35
+L53,L35,Bata Shoe Store,Roastery Coffee House,16989,1682,28.03
+L53,L32,Bata Shoe Store,Karachi Bakery,98253,6356,105.93
+L32,L53,Karachi Bakery,Bata Shoe Store,101154,6246,104.1
+L11,L32,Inorbit Mall Shoppers Stop,Karachi Bakery,5715,498,8.3
+L11,L21,Inorbit Mall Shoppers Stop,Bajaj Electronics,47112,3798,63.3
+L45,L18,Lakme Salon,Kalanikethan Kukatpally,18858,2856,47.6
+L45,L60,Lakme Salon,Lalitha Jewellery,36599,3853,64.22
+L11,L60,Inorbit Mall Shoppers Stop,Lalitha Jewellery,15509,1670,27.83
+L32,L11,Karachi Bakery,Inorbit Mall Shoppers Stop,5715,481,8.02
+L21,L45,Bajaj Electronics,Lakme Salon,29046,3105,51.75
+L18,L45,Kalanikethan Kukatpally,Lakme Salon,15700,2469,41.15
+L21,L11,Bajaj Electronics,Inorbit Mall Shoppers Stop,41624,3614,60.23
+L60,L45,Lalitha Jewellery,Lakme Salon,37912,3662,61.03
+L21,L18,Bajaj Electronics,Kalanikethan Kukatpally,34125,2678,44.63
+L18,L21,Kalanikethan Kukatpally,Bajaj Electronics,34031,2687,44.78
+L32,L60,Karachi Bakery,Lalitha Jewellery,21224,2151,35.85
+L18,L32,Kalanikethan Kukatpally,Karachi Bakery,77583,5626,93.77
+L21,L60,Bajaj Electronics,Lalitha Jewellery,38887,3092,51.53
+L60,L21,Lalitha Jewellery,Bajaj Electronics,39274,3018,50.3
+L60,L32,Lalitha Jewellery,Karachi Bakery,31380,3196,53.27
+L18,L11,Kalanikethan Kukatpally,Inorbit Mall Shoppers Stop,71869,5127,85.45
+L18,L60,Kalanikethan Kukatpally,Lalitha Jewellery,69132,4605,76.75
+L60,L18,Lalitha Jewellery,Kalanikethan Kukatpally,69324,4503,75.05
+L21,L32,Bajaj Electronics,Karachi Bakery,47339,4113,68.55
+L45,L32,Lakme Salon,Karachi Bakery,48814,5034,83.9
+L11,L45,Inorbit Mall Shoppers Stop,Lakme Salon,43066,4427,73.78
+L60,L11,Lalitha Jewellery,Inorbit Mall Shoppers Stop,25665,2697,44.95
+L32,L21,Karachi Bakery,Bajaj Electronics,52827,4279,71.32
+L45,L11,Lakme Salon,Inorbit Mall Shoppers Stop,43100,4535,75.58
+L32,L18,Karachi Bakery,Kalanikethan Kukatpally,82877,5764,96.07
+L45,L21,Lakme Salon,Bajaj Electronics,30381,3211,53.52
+L32,L45,Karachi Bakery,Lakme Salon,48780,4909,81.82
+L11,L18,Inorbit Mall Shoppers Stop,Kalanikethan Kukatpally,77162,5283,88.05
+L5,L57,Reliance Smart Jubilee,Joyalukkas,28617,2911,48.52
+L57,L5,Joyalukkas,Reliance Smart Jubilee,39689,3140,52.33
+L5,L21,Reliance Smart Jubilee,Bajaj Electronics,34341,3229,53.82
+L21,L5,Bajaj Electronics,Reliance Smart Jubilee,44261,3280,54.67
+L57,L21,Joyalukkas,Bajaj Electronics,9516,1198,19.97
+L21,L57,Bajaj Electronics,Joyalukkas,9915,1255,20.92
+L53,L43,Bata Shoe Store,Naturals Salon,54748,3141,52.35
+L32,L35,Karachi Bakery,Roastery Coffee House,91161,6109,101.82
+L53,L35,Bata Shoe Store,Roastery Coffee House,16989,1682,28.03
+L32,L43,Karachi Bakery,Naturals Salon,53412,3932,65.53
+L43,L53,Naturals Salon,Bata Shoe Store,54748,3112,51.87
+L35,L53,Roastery Coffee House,Bata Shoe Store,18271,1735,28.92
+L35,L32,Roastery Coffee House,Karachi Bakery,86462,6066,101.1
+L43,L35,Naturals Salon,Roastery Coffee House,67034,4003,66.72
+L43,L32,Naturals Salon,Karachi Bakery,54939,4269,71.15
+L53,L32,Bata Shoe Store,Karachi Bakery,98253,6356,105.93
+L35,L43,Roastery Coffee House,Naturals Salon,67608,4022,67.03
+L32,L53,Karachi Bakery,Bata Shoe Store,101154,6246,104.1
+L1,L40,Ratnadeep Supermarket,Apollo Health City,56638,3402,56.7
+L1,L25,Ratnadeep Supermarket,IKEA Hyderabad,34334,3246,54.1
+L31,L33,Cafe Niloufer,Pista House,59316,5002,83.37
+L33,L40,Pista House,Apollo Health City,92468,5637,93.95
+L31,L1,Cafe Niloufer,Ratnadeep Supermarket,27877,2894,48.23
+L33,L25,Pista House,IKEA Hyderabad,20328,2486,41.43
+L31,L40,Cafe Niloufer,Apollo Health City,47018,3737,62.28
+L33,L31,Pista House,Cafe Niloufer,60400,5058,84.3
+L25,L33,IKEA Hyderabad,Pista House,20681,2543,42.38
+L40,L33,Apollo Health City,Pista House,88029,5473,91.22
+L40,L31,Apollo Health City,Cafe Niloufer,46926,3683,61.38
+L40,L25,Apollo Health City,IKEA Hyderabad,89526,5844,97.4
+L25,L31,IKEA Hyderabad,Cafe Niloufer,51075,5171,86.18
+L25,L1,IKEA Hyderabad,Ratnadeep Supermarket,34358,3280,54.67
+L25,L40,IKEA Hyderabad,Apollo Health City,89139,5856,97.6
+L1,L33,Ratnadeep Supermarket,Pista House,44612,3527,58.78
+L1,L31,Ratnadeep Supermarket,Cafe Niloufer,27363,2806,46.77
+L40,L1,Apollo Health City,Ratnadeep Supermarket,56590,3364,56.07
+L33,L1,Pista House,Ratnadeep Supermarket,45850,3617,60.28
+L31,L25,Cafe Niloufer,IKEA Hyderabad,52153,5291,88.18

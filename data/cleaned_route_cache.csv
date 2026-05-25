@@ -1,0 +1,1253 @@
+origin_id,destination_id,origin_store,destination_store,distance_meters,duration_seconds,duration_minutes
+L57,L21,Joyalukkas,Bajaj Electronics,9516,1198,19.97
+L57,L25,Joyalukkas,IKEA Hyderabad,33309,3524,58.73
+L25,L21,IKEA Hyderabad,Bajaj Electronics,37406,3638,60.63
+L5,L21,Reliance Smart Jubilee,Bajaj Electronics,34341,3229,53.82
+L21,L25,Bajaj Electronics,IKEA Hyderabad,37881,3663,61.05
+L25,L5,IKEA Hyderabad,Reliance Smart Jubilee,45579,4144,69.07
+L21,L5,Bajaj Electronics,Reliance Smart Jubilee,44261,3280,54.67
+L21,L57,Bajaj Electronics,Joyalukkas,9915,1255,20.92
+L5,L57,Reliance Smart Jubilee,Joyalukkas,28617,2911,48.52
+L25,L57,IKEA Hyderabad,Joyalukkas,31682,3321,55.35
+L57,L5,Joyalukkas,Reliance Smart Jubilee,39689,3140,52.33
+L5,L25,Reliance Smart Jubilee,IKEA Hyderabad,34992,3947,65.78
+L53,L35,Bata Shoe Store,Roastery Coffee House,16989,1682,28.03
+L53,L43,Bata Shoe Store,Naturals Salon,54748,3141,52.35
+L43,L35,Naturals Salon,Roastery Coffee House,67034,4003,66.72
+L35,L43,Roastery Coffee House,Naturals Salon,67608,4022,67.03
+L35,L53,Roastery Coffee House,Bata Shoe Store,18271,1735,28.92
+L53,L32,Bata Shoe Store,Karachi Bakery,98253,6356,105.93
+L43,L53,Naturals Salon,Bata Shoe Store,54748,3112,51.87
+L43,L32,Naturals Salon,Karachi Bakery,54939,4269,71.15
+L32,L35,Karachi Bakery,Roastery Coffee House,91161,6109,101.82
+L32,L43,Karachi Bakery,Naturals Salon,53412,3932,65.53
+L35,L32,Roastery Coffee House,Karachi Bakery,86462,6066,101.1
+L32,L53,Karachi Bakery,Bata Shoe Store,101154,6246,104.1
+L25,L33,IKEA Hyderabad,Pista House,20681,2543,42.38
+L33,L25,Pista House,IKEA Hyderabad,20328,2486,41.43
+L31,L1,Cafe Niloufer,Ratnadeep Supermarket,27877,2894,48.23
+L31,L40,Cafe Niloufer,Apollo Health City,47018,3737,62.28
+L1,L40,Ratnadeep Supermarket,Apollo Health City,56638,3402,56.7
+L25,L31,IKEA Hyderabad,Cafe Niloufer,51075,5171,86.18
+L1,L33,Ratnadeep Supermarket,Pista House,44612,3527,58.78
+L25,L1,IKEA Hyderabad,Ratnadeep Supermarket,34358,3280,54.67
+L40,L31,Apollo Health City,Cafe Niloufer,46926,3683,61.38
+L33,L1,Pista House,Ratnadeep Supermarket,45850,3617,60.28
+L40,L33,Apollo Health City,Pista House,88029,5473,91.22
+L31,L25,Cafe Niloufer,IKEA Hyderabad,52153,5291,88.18
+L31,L33,Cafe Niloufer,Pista House,59316,5002,83.37
+L40,L1,Apollo Health City,Ratnadeep Supermarket,56590,3364,56.07
+L40,L25,Apollo Health City,IKEA Hyderabad,89526,5844,97.4
+L25,L40,IKEA Hyderabad,Apollo Health City,89139,5856,97.6
+L33,L31,Pista House,Cafe Niloufer,60400,5058,84.3
+L1,L25,Ratnadeep Supermarket,IKEA Hyderabad,34334,3246,54.1
+L1,L31,Ratnadeep Supermarket,Cafe Niloufer,27363,2806,46.77
+L33,L40,Pista House,Apollo Health City,92468,5637,93.95
+L11,L32,Inorbit Mall Shoppers Stop,Karachi Bakery,5715,498,8.3
+L32,L11,Karachi Bakery,Inorbit Mall Shoppers Stop,5715,481,8.02
+L32,L60,Karachi Bakery,Lalitha Jewellery,21224,2151,35.85
+L11,L60,Inorbit Mall Shoppers Stop,Lalitha Jewellery,15509,1670,27.83
+L60,L11,Lalitha Jewellery,Inorbit Mall Shoppers Stop,25665,2697,44.95
+L45,L32,Lakme Salon,Karachi Bakery,48814,5034,83.9
+L21,L11,Bajaj Electronics,Inorbit Mall Shoppers Stop,41624,3614,60.23
+L18,L60,Kalanikethan Kukatpally,Lalitha Jewellery,69132,4605,76.75
+L18,L11,Kalanikethan Kukatpally,Inorbit Mall Shoppers Stop,71869,5127,85.45
+L60,L21,Lalitha Jewellery,Bajaj Electronics,39274,3018,50.3
+L18,L21,Kalanikethan Kukatpally,Bajaj Electronics,34031,2687,44.78
+L11,L21,Inorbit Mall Shoppers Stop,Bajaj Electronics,47112,3798,63.3
+L60,L32,Lalitha Jewellery,Karachi Bakery,31380,3196,53.27
+L21,L60,Bajaj Electronics,Lalitha Jewellery,38887,3092,51.53
+L45,L60,Lakme Salon,Lalitha Jewellery,36599,3853,64.22
+L60,L45,Lalitha Jewellery,Lakme Salon,37912,3662,61.03
+L45,L11,Lakme Salon,Inorbit Mall Shoppers Stop,43100,4535,75.58
+L18,L32,Kalanikethan Kukatpally,Karachi Bakery,77583,5626,93.77
+L32,L21,Karachi Bakery,Bajaj Electronics,52827,4279,71.32
+L45,L21,Lakme Salon,Bajaj Electronics,30381,3211,53.52
+L60,L18,Lalitha Jewellery,Kalanikethan Kukatpally,69324,4503,75.05
+L21,L32,Bajaj Electronics,Karachi Bakery,47339,4113,68.55
+L18,L45,Kalanikethan Kukatpally,Lakme Salon,15700,2469,41.15
+L11,L45,Inorbit Mall Shoppers Stop,Lakme Salon,43066,4427,73.78
+L21,L18,Bajaj Electronics,Kalanikethan Kukatpally,34125,2678,44.63
+L11,L18,Inorbit Mall Shoppers Stop,Kalanikethan Kukatpally,77162,5283,88.05
+L21,L45,Bajaj Electronics,Lakme Salon,29046,3105,51.75
+L32,L45,Karachi Bakery,Lakme Salon,48780,4909,81.82
+L45,L18,Lakme Salon,Kalanikethan Kukatpally,18858,2856,47.6
+L32,L18,Karachi Bakery,Kalanikethan Kukatpally,82877,5764,96.07
+L39,L33,Apollo Pharmacy,Pista House,27139,3042,50.7
+L39,L25,Apollo Pharmacy,IKEA Hyderabad,28637,3413,56.88
+L1,L39,Ratnadeep Supermarket,Apollo Pharmacy,40132,2971,49.52
+L33,L39,Pista House,Apollo Pharmacy,28993,3150,52.5
+L39,L1,Apollo Pharmacy,Ratnadeep Supermarket,32258,2988,49.8
+L39,L31,Apollo Pharmacy,Cafe Niloufer,46808,4429,73.82
+L25,L39,IKEA Hyderabad,Apollo Pharmacy,29001,3511,58.52
+L40,L39,Apollo Health City,Apollo Pharmacy,35344,4792,79.87
+L31,L39,Cafe Niloufer,Apollo Pharmacy,54836,4446,74.1
+L39,L40,Apollo Pharmacy,Apollo Health City,34806,4585,76.42
+L19,L57,South India Shopping Mall,Joyalukkas,12195,1787,29.78
+L57,L19,Joyalukkas,South India Shopping Mall,11273,1532,25.53
+L19,L48,South India Shopping Mall,Decathlon Madhapur,25756,3391,56.52
+L48,L57,Decathlon Madhapur,Joyalukkas,34822,3119,51.98
+L57,L48,Joyalukkas,Decathlon Madhapur,30212,3073,51.22
+L48,L19,Decathlon Madhapur,South India Shopping Mall,24774,3460,57.67
+L53,L57,Bata Shoe Store,Joyalukkas,65615,3972,66.2
+L32,L57,Karachi Bakery,Joyalukkas,47102,3961,66.02
+L43,L57,Naturals Salon,Joyalukkas,55376,3318,55.3
+L57,L32,Joyalukkas,Karachi Bakery,42767,3973,66.22
+L57,L35,Joyalukkas,Roastery Coffee House,48901,3686,61.43
+L35,L57,Roastery Coffee House,Joyalukkas,53825,3681,61.35
+L57,L53,Joyalukkas,Bata Shoe Store,61928,4110,68.5
+L57,L43,Joyalukkas,Naturals Salon,55241,3383,56.38
+L18,L35,Kalanikethan Kukatpally,Roastery Coffee House,14037,1646,27.43
+L60,L35,Lalitha Jewellery,Roastery Coffee House,77609,4848,80.8
+L35,L45,Roastery Coffee House,Lakme Salon,23086,3201,53.35
+L35,L60,Roastery Coffee House,Lalitha Jewellery,78011,5046,84.1
+L35,L21,Roastery Coffee House,Bajaj Electronics,42909,3127,52.12
+L35,L11,Roastery Coffee House,Inorbit Mall Shoppers Stop,80748,5568,92.8
+L35,L18,Roastery Coffee House,Kalanikethan Kukatpally,13406,1826,30.43
+L45,L35,Lakme Salon,Roastery Coffee House,23306,3130,52.17
+L21,L35,Bajaj Electronics,Roastery Coffee House,42410,3023,50.38
+L11,L35,Inorbit Mall Shoppers Stop,Roastery Coffee House,85447,5628,93.8
+L25,L47,IKEA Hyderabad,Himalaya Book World,20280,2632,43.87
+L2,L47,Vijetha Supermarket,Himalaya Book World,16147,1978,32.97
+L40,L13,Apollo Health City,Forum Sujana Zara,30231,2029,33.82
+L40,L2,Apollo Health City,Vijetha Supermarket,85377,5183,86.38
+L25,L13,IKEA Hyderabad,Forum Sujana Zara,82603,5481,91.35
+L13,L47,Forum Sujana Zara,Himalaya Book World,74799,4633,77.22
+L47,L25,Himalaya Book World,IKEA Hyderabad,21088,2600,43.33
+L25,L2,IKEA Hyderabad,Vijetha Supermarket,12336,1761,29.35
+L2,L25,Vijetha Supermarket,IKEA Hyderabad,12335,1764,29.4
+L47,L2,Himalaya Book World,Vijetha Supermarket,16939,1940,32.33
+L47,L38,Himalaya Book World,MedPlus Madhapur,35059,3561,59.35
+L38,L13,MedPlus Madhapur,Forum Sujana Zara,60435,4200,70.0
+L40,L47,Apollo Health City,Himalaya Book World,81925,5017,83.62
+L47,L40,Himalaya Book World,Apollo Health City,81556,5068,84.47
+L2,L13,Vijetha Supermarket,Forum Sujana Zara,78470,4827,80.45
+L40,L38,Apollo Health City,MedPlus Madhapur,36628,3106,51.77
+L13,L29,Forum Sujana Zara,Bawarchi RTC X Roads,17466,2212,36.87
+L25,L38,IKEA Hyderabad,MedPlus Madhapur,42642,4349,72.48
+L38,L40,MedPlus Madhapur,Apollo Health City,36717,2925,48.75
+L2,L38,Vijetha Supermarket,MedPlus Madhapur,38509,3694,61.57
+L2,L40,Vijetha Supermarket,Apollo Health City,85006,5202,86.7
+L29,L40,Bawarchi RTC X Roads,Apollo Health City,36715,3061,51.02
+L13,L40,Forum Sujana Zara,Apollo Health City,29410,2055,34.25
+L38,L2,MedPlus Madhapur,Vijetha Supermarket,36681,3834,63.9
+L38,L47,MedPlus Madhapur,Himalaya Book World,33229,3668,61.13
+L47,L13,Himalaya Book World,Forum Sujana Zara,75020,4693,78.22
+L13,L2,Forum Sujana Zara,Vijetha Supermarket,78251,4799,79.98
+L13,L25,Forum Sujana Zara,IKEA Hyderabad,82401,5459,90.98
+L13,L38,Forum Sujana Zara,MedPlus Madhapur,60235,4470,74.5
+L38,L29,MedPlus Madhapur,Bawarchi RTC X Roads,29440,4257,70.95
+L25,L29,IKEA Hyderabad,Bawarchi RTC X Roads,51937,6568,109.47
+L29,L47,Bawarchi RTC X Roads,Himalaya Book World,42742,5667,94.45
+L29,L2,Bawarchi RTC X Roads,Vijetha Supermarket,46195,5833,97.22
+L2,L29,Vijetha Supermarket,Bawarchi RTC X Roads,47804,5914,98.57
+L40,L29,Apollo Health City,Bawarchi RTC X Roads,38510,3256,54.27
+L38,L25,MedPlus Madhapur,IKEA Hyderabad,40830,4494,74.9
+L29,L25,Bawarchi RTC X Roads,IKEA Hyderabad,50344,6493,108.22
+L29,L38,Bawarchi RTC X Roads,MedPlus Madhapur,30551,4333,72.22
+L29,L13,Bawarchi RTC X Roads,Forum Sujana Zara,17635,2266,37.77
+L47,L29,Himalaya Book World,Bawarchi RTC X Roads,44354,5780,96.33
+L37,L35,Alankrita Boutique,Roastery Coffee House,16662,2090,34.83
+L8,L15,Nature's Basket,Hyderabad Central,27533,2355,39.25
+L15,L8,Hyderabad Central,Nature's Basket,27208,2363,39.38
+L35,L8,Roastery Coffee House,Nature's Basket,37490,2888,48.13
+L8,L35,Nature's Basket,Roastery Coffee House,37223,2814,46.9
+L43,L8,Naturals Salon,Nature's Basket,74251,4372,72.87
+L35,L15,Roastery Coffee House,Hyderabad Central,14230,1744,29.07
+L7,L43,Q-Mart Gachibowli,Naturals Salon,47337,3139,52.32
+L8,L43,Nature's Basket,Naturals Salon,73222,4319,71.98
+L15,L37,Hyderabad Central,Alankrita Boutique,19916,3044,50.73
+L15,L35,Hyderabad Central,Roastery Coffee House,15858,2065,34.42
+L3,L43,Heritage Fresh,Naturals Salon,38093,2604,43.4
+L43,L7,Naturals Salon,Q-Mart Gachibowli,48336,3192,53.2
+L7,L8,Q-Mart Gachibowli,Nature's Basket,36949,3511,58.52
+L43,L37,Naturals Salon,Alankrita Boutique,34392,4173,69.55
+L15,L43,Hyderabad Central,Naturals Salon,80296,4591,76.52
+L37,L15,Alankrita Boutique,Hyderabad Central,18720,3000,50.0
+L43,L3,Naturals Salon,Heritage Fresh,38092,2601,43.35
+L15,L3,Hyderabad Central,Heritage Fresh,47952,3578,59.63
+L37,L8,Alankrita Boutique,Nature's Basket,53588,4117,68.62
+L35,L7,Roastery Coffee House,Q-Mart Gachibowli,70113,4662,77.7
+L43,L15,Naturals Salon,Hyderabad Central,80592,4656,77.6
+L3,L15,Heritage Fresh,Hyderabad Central,48163,3633,60.55
+L3,L7,Heritage Fresh,Q-Mart Gachibowli,36772,4783,79.72
+L7,L35,Q-Mart Gachibowli,Roastery Coffee House,62134,4605,76.75
+L7,L15,Q-Mart Gachibowli,Hyderabad Central,28799,4032,67.2
+L8,L37,Nature's Basket,Alankrita Boutique,36630,4374,72.9
+L3,L8,Heritage Fresh,Nature's Basket,66898,4476,74.6
+L7,L37,Q-Mart Gachibowli,Alankrita Boutique,19351,3015,50.25
+L37,L3,Alankrita Boutique,Heritage Fresh,22743,3363,56.05
+L37,L43,Alankrita Boutique,Naturals Salon,32859,4256,70.93
+L37,L7,Alankrita Boutique,Q-Mart Gachibowli,23557,3215,53.58
+L35,L3,Roastery Coffee House,Heritage Fresh,35264,3009,50.15
+L3,L35,Heritage Fresh,Roastery Coffee House,34605,2979,49.65
+L7,L3,Q-Mart Gachibowli,Heritage Fresh,35441,4653,77.55
+L8,L7,Nature's Basket,Q-Mart Gachibowli,44400,3504,58.4
+L8,L3,Nature's Basket,Heritage Fresh,67243,4512,75.2
+L3,L37,Heritage Fresh,Alankrita Boutique,23388,3585,59.75
+L35,L37,Roastery Coffee House,Alankrita Boutique,18515,2385,39.75
+L15,L7,Hyderabad Central,Q-Mart Gachibowli,30299,4280,71.33
+L47,L28,Himalaya Book World,Paradise Biryani Secunderabad,9579,1395,23.25
+L28,L47,Paradise Biryani Secunderabad,Himalaya Book World,9579,1436,23.93
+L47,L22,Himalaya Book World,Croma Jubilee Hills,25525,2397,39.95
+L28,L32,Paradise Biryani Secunderabad,Karachi Bakery,12470,1457,24.28
+L22,L47,Croma Jubilee Hills,Himalaya Book World,26209,2326,38.77
+L32,L28,Karachi Bakery,Paradise Biryani Secunderabad,12470,1460,24.33
+L47,L18,Himalaya Book World,Kalanikethan Kukatpally,59873,4335,72.25
+L32,L4,Karachi Bakery,D-Mart Begumpet,47937,4508,75.13
+L39,L47,Apollo Pharmacy,Himalaya Book World,21035,2587,43.12
+L22,L28,Croma Jubilee Hills,Paradise Biryani Secunderabad,17117,2253,37.55
+L28,L22,Paradise Biryani Secunderabad,Croma Jubilee Hills,16137,2326,38.77
+L39,L28,Apollo Pharmacy,Paradise Biryani Secunderabad,28293,3040,50.67
+L47,L39,Himalaya Book World,Apollo Pharmacy,21418,2723,45.38
+L32,L22,Karachi Bakery,Croma Jubilee Hills,22503,2448,40.8
+L47,L4,Himalaya Book World,D-Mart Begumpet,28862,3120,52.0
+L18,L39,Kalanikethan Kukatpally,Apollo Pharmacy,26031,3504,58.4
+L22,L32,Croma Jubilee Hills,Karachi Bakery,23484,2445,40.75
+L28,L39,Paradise Biryani Secunderabad,Apollo Pharmacy,30691,3315,55.25
+L22,L39,Croma Jubilee Hills,Apollo Pharmacy,16181,1438,23.97
+L32,L47,Karachi Bakery,Himalaya Book World,19380,2232,37.2
+L18,L4,Kalanikethan Kukatpally,D-Mart Begumpet,36712,3198,53.3
+L22,L18,Croma Jubilee Hills,Kalanikethan Kukatpally,63210,3919,65.32
+L4,L47,D-Mart Begumpet,Himalaya Book World,29265,3015,50.25
+L4,L22,D-Mart Begumpet,Croma Jubilee Hills,38575,2805,46.75
+L39,L32,Apollo Pharmacy,Karachi Bakery,38094,3863,64.38
+L4,L39,D-Mart Begumpet,Apollo Pharmacy,28071,3013,50.22
+L32,L39,Karachi Bakery,Apollo Pharmacy,38049,3722,62.03
+L28,L4,Paradise Biryani Secunderabad,D-Mart Begumpet,38135,3712,61.87
+L4,L28,D-Mart Begumpet,Paradise Biryani Secunderabad,36523,3468,57.8
+L22,L4,Croma Jubilee Hills,D-Mart Begumpet,39822,2943,49.05
+L28,L18,Paradise Biryani Secunderabad,Kalanikethan Kukatpally,69146,4927,82.12
+L18,L22,Kalanikethan Kukatpally,Croma Jubilee Hills,62035,3834,63.9
+L47,L32,Himalaya Book World,Karachi Bakery,19380,2218,36.97
+L39,L18,Apollo Pharmacy,Kalanikethan Kukatpally,26899,3551,59.18
+L39,L4,Apollo Pharmacy,D-Mart Begumpet,27711,3021,50.35
+L18,L47,Kalanikethan Kukatpally,Himalaya Book World,60524,4350,72.5
+L4,L32,D-Mart Begumpet,Karachi Bakery,46324,4291,71.52
+L4,L18,D-Mart Begumpet,Kalanikethan Kukatpally,36480,3208,53.47
+L39,L22,Apollo Pharmacy,Croma Jubilee Hills,16964,1629,27.15
+L18,L28,Kalanikethan Kukatpally,Paradise Biryani Secunderabad,67782,4803,80.05
+L41,L44,Kimmee's Salon,Page 3 Luxury Salon,3478,510,8.5
+L44,L41,Page 3 Luxury Salon,Kimmee's Salon,3337,484,8.07
+L43,L20,Naturals Salon,Chennai Shopping Mall,13180,1546,25.77
+L39,L43,Apollo Pharmacy,Naturals Salon,48089,3185,53.08
+L43,L39,Naturals Salon,Apollo Pharmacy,49250,3220,53.67
+L43,L22,Naturals Salon,Croma Jubilee Hills,33722,2075,34.58
+L43,L10,Naturals Salon,Metro Cash & Carry,8738,1163,19.38
+L10,L43,Metro Cash & Carry,Naturals Salon,8738,1155,19.25
+L22,L43,Croma Jubilee Hills,Naturals Salon,32544,1998,33.3
+L20,L39,Chennai Shopping Mall,Apollo Pharmacy,21598,2602,43.37
+L22,L20,Croma Jubilee Hills,Chennai Shopping Mall,20792,2316,38.6
+L39,L20,Apollo Pharmacy,Chennai Shopping Mall,21757,2497,41.62
+L20,L22,Chennai Shopping Mall,Croma Jubilee Hills,21377,2525,42.08
+L10,L39,Metro Cash & Carry,Apollo Pharmacy,30795,3826,63.77
+L22,L10,Croma Jubilee Hills,Metro Cash & Carry,41235,3105,51.75
+L39,L10,Apollo Pharmacy,Metro Cash & Carry,31738,3737,62.28
+L20,L43,Chennai Shopping Mall,Naturals Salon,13775,1586,26.43
+L10,L20,Metro Cash & Carry,Chennai Shopping Mall,10346,1566,26.1
+L20,L10,Chennai Shopping Mall,Metro Cash & Carry,11479,1665,27.75
+L10,L22,Metro Cash & Carry,Croma Jubilee Hills,42413,3196,53.27
+L25,L56,IKEA Hyderabad,Malabar Gold & Diamonds,10805,1441,24.02
+L56,L25,Malabar Gold & Diamonds,IKEA Hyderabad,10808,1442,24.03
+L59,L27,GRT Jewellers,Chutneys Restaurant,14777,1299,21.65
+L8,L25,Nature's Basket,IKEA Hyderabad,36408,3342,55.7
+L8,L59,Nature's Basket,GRT Jewellers,80281,4849,80.82
+L59,L46,GRT Jewellers,Crossword Bookstore,35724,2490,41.5
+L9,L59,Spencer's Retail,GRT Jewellers,64411,4027,67.12
+L25,L8,IKEA Hyderabad,Nature's Basket,36396,3334,55.57
+L27,L46,Chutneys Restaurant,Crossword Bookstore,28642,2293,38.22
+L25,L27,IKEA Hyderabad,Chutneys Restaurant,81341,5424,90.4
+L56,L59,Malabar Gold & Diamonds,GRT Jewellers,67610,4419,73.65
+L27,L59,Chutneys Restaurant,GRT Jewellers,13303,1418,23.63
+L27,L25,Chutneys Restaurant,IKEA Hyderabad,81138,5434,90.57
+L8,L46,Nature's Basket,Crossword Bookstore,57314,3896,64.93
+L9,L27,Spencer's Retail,Chutneys Restaurant,77562,4534,75.57
+L8,L56,Nature's Basket,Malabar Gold & Diamonds,40114,3967,66.12
+L9,L56,Spencer's Retail,Malabar Gold & Diamonds,34839,3136,52.27
+L8,L27,Nature's Basket,Chutneys Restaurant,80401,4755,79.25
+L59,L9,GRT Jewellers,Spencer's Retail,66031,3992,66.53
+L25,L9,IKEA Hyderabad,Spencer's Retail,35225,3494,58.23
+L46,L8,Crossword Bookstore,Nature's Basket,56641,3801,63.35
+L59,L25,GRT Jewellers,IKEA Hyderabad,68863,4855,80.92
+L56,L9,Malabar Gold & Diamonds,Spencer's Retail,34644,2996,49.93
+L46,L59,Crossword Bookstore,GRT Jewellers,36127,2479,41.32
+L9,L8,Spencer's Retail,Nature's Basket,23610,2691,44.85
+L56,L27,Malabar Gold & Diamonds,Chutneys Restaurant,80761,4927,82.12
+L59,L56,GRT Jewellers,Malabar Gold & Diamonds,68282,4353,72.55
+L56,L46,Malabar Gold & Diamonds,Crossword Bookstore,95252,6052,100.87
+L27,L9,Chutneys Restaurant,Spencer's Retail,78306,4572,76.2
+L27,L56,Chutneys Restaurant,Malabar Gold & Diamonds,80557,4933,82.22
+L46,L56,Crossword Bookstore,Malabar Gold & Diamonds,101189,5977,99.62
+L46,L9,Crossword Bookstore,Spencer's Retail,48513,4477,74.62
+L9,L25,Spencer's Retail,IKEA Hyderabad,35420,3638,60.63
+L27,L8,Chutneys Restaurant,Nature's Basket,79806,4767,79.45
+L9,L46,Spencer's Retail,Crossword Bookstore,49328,4488,74.8
+L8,L9,Nature's Basket,Spencer's Retail,24897,2847,47.45
+L46,L25,Crossword Bookstore,IKEA Hyderabad,101771,6478,107.97
+L59,L8,GRT Jewellers,Nature's Basket,81363,4873,81.22
+L25,L46,IKEA Hyderabad,Crossword Bookstore,95833,6550,109.17
+L56,L8,Malabar Gold & Diamonds,Nature's Basket,49976,3877,64.62
+L46,L27,Crossword Bookstore,Chutneys Restaurant,28724,2212,36.87
+L25,L59,IKEA Hyderabad,GRT Jewellers,68190,4917,81.95
+L1,L5,Ratnadeep Supermarket,Reliance Smart Jubilee,52490,3514,58.57
+L57,L1,Joyalukkas,Ratnadeep Supermarket,18452,1917,31.95
+L1,L32,Ratnadeep Supermarket,Karachi Bakery,55567,4347,72.45
+L15,L1,Hyderabad Central,Ratnadeep Supermarket,33786,2612,43.53
+L34,L5,Concu Jubilee Hills,Reliance Smart Jubilee,28307,3049,50.82
+L15,L57,Hyderabad Central,Joyalukkas,43542,3156,52.6
+L15,L5,Hyderabad Central,Reliance Smart Jubilee,73102,4708,78.47
+L32,L34,Karachi Bakery,Concu Jubilee Hills,50010,4165,69.42
+L15,L34,Hyderabad Central,Concu Jubilee Hills,17541,2921,48.68
+L57,L34,Joyalukkas,Concu Jubilee Hills,12428,1655,27.58
+L34,L1,Concu Jubilee Hills,Ratnadeep Supermarket,31428,2570,42.83
+L1,L34,Ratnadeep Supermarket,Concu Jubilee Hills,30585,2410,40.17
+L34,L57,Concu Jubilee Hills,Joyalukkas,12271,1745,29.08
+L1,L57,Ratnadeep Supermarket,Joyalukkas,22930,1963,32.72
+L15,L32,Hyderabad Central,Karachi Bakery,76180,5541,92.35
+L5,L1,Reliance Smart Jubilee,Ratnadeep Supermarket,42249,3410,56.83
+L34,L32,Concu Jubilee Hills,Karachi Bakery,44704,4151,69.18
+L57,L15,Joyalukkas,Hyderabad Central,25008,3404,56.73
+L32,L15,Karachi Bakery,Hyderabad Central,81472,5650,94.17
+L5,L34,Reliance Smart Jubilee,Concu Jubilee Hills,24362,2902,48.37
+L32,L1,Karachi Bakery,Ratnadeep Supermarket,60734,4460,74.33
+L34,L15,Concu Jubilee Hills,Hyderabad Central,17806,2906,48.43
+L32,L5,Karachi Bakery,Reliance Smart Jubilee,37677,3550,59.17
+L5,L32,Reliance Smart Jubilee,Karachi Bakery,35362,3684,61.4
+L5,L15,Reliance Smart Jubilee,Hyderabad Central,62987,4600,76.67
+L1,L15,Ratnadeep Supermarket,Hyderabad Central,33551,2555,42.58
+L48,L51,Decathlon Madhapur,Adidas Originals,8057,1296,21.6
+L51,L30,Adidas Originals,Shah Ghouse Gachibowli,23715,2750,45.83
+L48,L30,Decathlon Madhapur,Shah Ghouse Gachibowli,20886,2424,40.4
+L30,L51,Shah Ghouse Gachibowli,Adidas Originals,23907,2749,45.82
+L51,L48,Adidas Originals,Decathlon Madhapur,8057,1218,20.3
+L51,L47,Adidas Originals,Himalaya Book World,52179,4511,75.18
+L30,L47,Shah Ghouse Gachibowli,Himalaya Book World,58888,4094,68.23
+L47,L48,Himalaya Book World,Decathlon Madhapur,49469,4068,67.8
+L7,L47,Q-Mart Gachibowli,Himalaya Book World,20483,2555,42.58
+L7,L48,Q-Mart Gachibowli,Decathlon Madhapur,43445,3993,66.55
+L45,L47,Lakme Salon,Himalaya Book World,34505,3696,61.6
+L47,L7,Himalaya Book World,Q-Mart Gachibowli,20837,2705,45.08
+L47,L30,Himalaya Book World,Shah Ghouse Gachibowli,58236,4074,67.9
+L48,L45,Decathlon Madhapur,Lakme Salon,31824,4457,74.28
+L30,L48,Shah Ghouse Gachibowli,Decathlon Madhapur,21078,2355,39.25
+L30,L3,Shah Ghouse Gachibowli,Heritage Fresh,47720,3407,56.78
+L45,L51,Lakme Salon,Adidas Originals,38240,5161,86.02
+L48,L47,Decathlon Madhapur,Himalaya Book World,50400,4228,70.47
+L47,L45,Himalaya Book World,Lakme Salon,33697,3666,61.1
+L48,L7,Decathlon Madhapur,Q-Mart Gachibowli,51111,4099,68.32
+L51,L7,Adidas Originals,Q-Mart Gachibowli,52890,4382,73.03
+L7,L45,Q-Mart Gachibowli,Lakme Salon,12618,2048,34.13
+L47,L51,Himalaya Book World,Adidas Originals,49941,4343,72.38
+L45,L7,Lakme Salon,Q-Mart Gachibowli,15259,2231,37.18
+L45,L30,Lakme Salon,Shah Ghouse Gachibowli,17805,2661,44.35
+L51,L3,Adidas Originals,Heritage Fresh,63658,5054,84.23
+L45,L3,Lakme Salon,Heritage Fresh,28162,3643,60.72
+L30,L7,Shah Ghouse Gachibowli,Q-Mart Gachibowli,59599,3965,66.08
+L30,L45,Shah Ghouse Gachibowli,Lakme Salon,19108,2712,45.2
+L7,L51,Q-Mart Gachibowli,Adidas Originals,43916,4268,71.13
+L48,L3,Decathlon Madhapur,Heritage Fresh,60829,4728,78.8
+L47,L3,Himalaya Book World,Heritage Fresh,84633,5402,90.03
+L51,L45,Adidas Originals,Lakme Salon,31132,4572,76.2
+L3,L30,Heritage Fresh,Shah Ghouse Gachibowli,47931,3486,58.1
+L7,L30,Q-Mart Gachibowli,Shah Ghouse Gachibowli,52212,3999,66.65
+L3,L47,Heritage Fresh,Himalaya Book World,84353,5275,87.92
+L3,L51,Heritage Fresh,Adidas Originals,63829,5033,83.88
+L45,L48,Lakme Salon,Decathlon Madhapur,32518,4356,72.6
+L3,L48,Heritage Fresh,Decathlon Madhapur,61000,4640,77.33
+L3,L45,Heritage Fresh,Lakme Salon,27866,3815,63.58
+L37,L17,Alankrita Boutique,Mebaz Banjara Hills,43012,3582,59.7
+L21,L23,Bajaj Electronics,Reliance Digital,36029,2991,49.85
+L25,L23,IKEA Hyderabad,Reliance Digital,37347,3855,64.25
+L25,L15,IKEA Hyderabad,Hyderabad Central,66052,5009,83.48
+L15,L17,Hyderabad Central,Mebaz Banjara Hills,46317,3234,53.9
+L21,L15,Bajaj Electronics,Hyderabad Central,32721,2564,42.73
+L17,L21,Mebaz Banjara Hills,Bajaj Electronics,70805,4423,73.72
+L21,L37,Bajaj Electronics,Alankrita Boutique,36691,3745,62.42
+L17,L25,Mebaz Banjara Hills,IKEA Hyderabad,100037,6410,106.83
+L25,L17,IKEA Hyderabad,Mebaz Banjara Hills,100656,6523,108.72
+L23,L17,Reliance Digital,Mebaz Banjara Hills,76063,4693,78.22
+L23,L15,Reliance Digital,Hyderabad Central,64598,4275,71.25
+L23,L21,Reliance Digital,Bajaj Electronics,35952,2904,48.4
+L23,L25,Reliance Digital,IKEA Hyderabad,36603,3622,60.37
+L37,L21,Alankrita Boutique,Bajaj Electronics,28999,3949,65.82
+L15,L21,Hyderabad Central,Bajaj Electronics,32627,2602,43.37
+L25,L37,IKEA Hyderabad,Alankrita Boutique,48925,5093,84.88
+L15,L23,Hyderabad Central,Reliance Digital,64870,4419,73.65
+L37,L23,Alankrita Boutique,Reliance Digital,38502,4406,73.43
+L21,L17,Bajaj Electronics,Mebaz Banjara Hills,70796,4377,72.95
+L17,L37,Mebaz Banjara Hills,Alankrita Boutique,37109,4052,67.53
+L37,L25,Alankrita Boutique,IKEA Hyderabad,49038,5271,87.85
+L23,L37,Reliance Digital,Alankrita Boutique,37552,4241,70.68
+L15,L25,Hyderabad Central,IKEA Hyderabad,66722,5091,84.85
+L17,L15,Mebaz Banjara Hills,Hyderabad Central,46651,3341,55.68
+L42,L15,Green Trends,Hyderabad Central,13625,2065,34.42
+L37,L42,Alankrita Boutique,Green Trends,10029,1493,24.88
+L15,L42,Hyderabad Central,Green Trends,14756,2054,34.23
+L42,L17,Green Trends,Mebaz Banjara Hills,39461,3348,55.8
+L42,L37,Green Trends,Alankrita Boutique,12853,1763,29.38
+L42,L25,Green Trends,IKEA Hyderabad,49179,5632,93.87
+L17,L42,Mebaz Banjara Hills,Green Trends,40320,3581,59.68
+L21,L42,Bajaj Electronics,Green Trends,45923,3674,61.23
+L23,L42,Reliance Digital,Green Trends,42144,4787,79.78
+L42,L21,Green Trends,Bajaj Electronics,40785,3670,61.17
+L42,L23,Green Trends,Reliance Digital,42910,4904,81.73
+L17,L23,Mebaz Banjara Hills,Reliance Digital,76246,4800,80.0
+L25,L42,IKEA Hyderabad,Green Trends,48925,5544,92.4
+L39,L38,Apollo Pharmacy,MedPlus Madhapur,22584,2697,44.95
+L38,L26,MedPlus Madhapur,Fabindia Gachibowli,9339,1271,21.18
+L38,L43,MedPlus Madhapur,Naturals Salon,62762,4354,72.57
+L26,L53,Fabindia Gachibowli,Bata Shoe Store,29658,2124,35.4
+L53,L38,Bata Shoe Store,MedPlus Madhapur,35897,3169,52.82
+L26,L38,Fabindia Gachibowli,MedPlus Madhapur,8346,1352,22.53
+L38,L39,MedPlus Madhapur,Apollo Pharmacy,23033,2841,47.35
+L53,L39,Bata Shoe Store,Apollo Pharmacy,33860,4789,79.82
+L26,L43,Fabindia Gachibowli,Naturals Salon,78995,4411,73.52
+L53,L26,Bata Shoe Store,Fabindia Gachibowli,29015,2096,34.93
+L43,L26,Naturals Salon,Fabindia Gachibowli,79061,4417,73.62
+L26,L39,Fabindia Gachibowli,Apollo Pharmacy,59032,3903,65.05
+L3,L53,Heritage Fresh,Bata Shoe Store,22319,2089,34.82
+L39,L26,Apollo Pharmacy,Fabindia Gachibowli,30123,3693,61.55
+L38,L53,MedPlus Madhapur,Bata Shoe Store,36346,2962,49.37
+L43,L38,Naturals Salon,MedPlus Madhapur,66336,4346,72.43
+L53,L3,Bata Shoe Store,Heritage Fresh,22404,2128,35.47
+L26,L3,Fabindia Gachibowli,Heritage Fresh,46651,3398,56.63
+L39,L53,Apollo Pharmacy,Bata Shoe Store,33405,4545,75.75
+L3,L26,Heritage Fresh,Fabindia Gachibowli,46632,3394,56.57
+L3,L39,Heritage Fresh,Apollo Pharmacy,33570,4669,77.82
+L3,L38,Heritage Fresh,MedPlus Madhapur,53514,4466,74.43
+L38,L3,MedPlus Madhapur,Heritage Fresh,53339,4236,70.6
+L39,L3,Apollo Pharmacy,Heritage Fresh,34573,4473,74.55
+L17,L59,Mebaz Banjara Hills,GRT Jewellers,34393,2411,40.18
+L55,L22,Khazana Jewellers,Croma Jubilee Hills,16288,1749,29.15
+L22,L52,Croma Jubilee Hills,Puma Store,64857,4064,67.73
+L55,L52,Khazana Jewellers,Puma Store,27624,4071,67.85
+L52,L17,Puma Store,Mebaz Banjara Hills,44932,3264,54.4
+L52,L59,Puma Store,GRT Jewellers,67129,4119,68.65
+L22,L59,Croma Jubilee Hills,GRT Jewellers,39603,2528,42.13
+L59,L52,GRT Jewellers,Puma Store,65980,4055,67.58
+L22,L17,Croma Jubilee Hills,Mebaz Banjara Hills,72070,4134,68.9
+L22,L55,Croma Jubilee Hills,Khazana Jewellers,15870,1579,26.32
+L10,L17,Metro Cash & Carry,Mebaz Banjara Hills,55222,4055,67.58
+L59,L22,GRT Jewellers,Croma Jubilee Hills,40835,2576,42.93
+L10,L55,Metro Cash & Carry,Khazana Jewellers,23335,3668,61.13
+L52,L55,Puma Store,Khazana Jewellers,29419,4097,68.28
+L52,L22,Puma Store,Croma Jubilee Hills,41986,3962,66.03
+L17,L22,Mebaz Banjara Hills,Croma Jubilee Hills,72008,4131,68.85
+L55,L59,Khazana Jewellers,GRT Jewellers,30572,3766,62.77
+L10,L59,Metro Cash & Carry,GRT Jewellers,20800,2174,36.23
+L55,L17,Khazana Jewellers,Mebaz Banjara Hills,37757,4974,82.9
+L55,L10,Khazana Jewellers,Metro Cash & Carry,25713,3730,62.17
+L59,L17,GRT Jewellers,Mebaz Banjara Hills,34093,2398,39.97
+L10,L52,Metro Cash & Carry,Puma Store,87110,5712,95.2
+L59,L55,GRT Jewellers,Khazana Jewellers,28439,3538,58.97
+L59,L10,GRT Jewellers,Metro Cash & Carry,14925,1920,32.0
+L17,L55,Mebaz Banjara Hills,Khazana Jewellers,38150,5112,85.2
+L17,L10,Mebaz Banjara Hills,Metro Cash & Carry,54866,4019,66.98
+L52,L10,Puma Store,Metro Cash & Carry,87601,5727,95.45
+L17,L52,Mebaz Banjara Hills,Puma Store,44478,3275,54.58
+L23,L33,Reliance Digital,Pista House,15393,2046,34.1
+L13,L23,Forum Sujana Zara,Reliance Digital,58610,3850,64.17
+L13,L8,Forum Sujana Zara,Nature's Basket,73619,4479,74.65
+L8,L23,Nature's Basket,Reliance Digital,49438,3787,63.12
+L23,L13,Reliance Digital,Forum Sujana Zara,58010,3651,60.85
+L13,L33,Forum Sujana Zara,Pista House,66532,4761,79.35
+L41,L46,Kimmee's Salon,Crossword Bookstore,1389,249,4.15
+L23,L8,Reliance Digital,Nature's Basket,49102,3640,60.67
+L46,L41,Crossword Bookstore,Kimmee's Salon,1248,217,3.62
+L8,L13,Nature's Basket,Forum Sujana Zara,74339,4476,74.6
+L33,L23,Pista House,Reliance Digital,15393,2059,34.32
+L33,L8,Pista House,Nature's Basket,51093,4172,69.53
+L13,L46,Forum Sujana Zara,Crossword Bookstore,22454,2006,33.43
+L23,L46,Reliance Digital,Crossword Bookstore,77694,4785,79.75
+L33,L13,Pista House,Forum Sujana Zara,65827,4454,74.23
+L8,L33,Nature's Basket,Pista House,49793,4088,68.13
+L46,L13,Crossword Bookstore,Forum Sujana Zara,22662,1932,32.2
+L46,L33,Crossword Bookstore,Pista House,85902,5780,96.33
+L33,L46,Pista House,Crossword Bookstore,85511,5588,93.13
+L46,L23,Crossword Bookstore,Reliance Digital,77980,4868,81.13
+L33,L7,Pista House,Q-Mart Gachibowli,28079,3122,52.03
+L33,L60,Pista House,Lalitha Jewellery,12167,1579,26.32
+L60,L33,Lalitha Jewellery,Pista House,22323,2582,43.03
+L33,L15,Pista House,Hyderabad Central,66588,4807,80.12
+L33,L19,Pista House,South India Shopping Mall,33972,3198,53.3
+L60,L15,Lalitha Jewellery,Hyderabad Central,67919,4389,73.15
+L15,L60,Hyderabad Central,Lalitha Jewellery,67728,4520,75.33
+L15,L33,Hyderabad Central,Pista House,65225,4721,78.68
+L60,L7,Lalitha Jewellery,Q-Mart Gachibowli,26267,2448,40.8
+L7,L19,Q-Mart Gachibowli,South India Shopping Mall,14245,1929,32.15
+L33,L37,Pista House,Alankrita Boutique,49461,4891,81.52
+L60,L19,Lalitha Jewellery,South India Shopping Mall,35303,2780,46.33
+L25,L19,IKEA Hyderabad,South India Shopping Mall,33435,3401,56.68
+L25,L7,IKEA Hyderabad,Q-Mart Gachibowli,28420,3493,58.22
+L15,L19,Hyderabad Central,South India Shopping Mall,14879,2374,39.57
+L19,L33,South India Shopping Mall,Pista House,33089,3245,54.08
+L60,L37,Lalitha Jewellery,Alankrita Boutique,44645,4629,77.15
+L19,L60,South India Shopping Mall,Lalitha Jewellery,35593,3045,50.75
+L19,L7,South India Shopping Mall,Q-Mart Gachibowli,16274,2262,37.7
+L19,L15,South India Shopping Mall,Hyderabad Central,14714,2242,37.37
+L19,L25,South India Shopping Mall,IKEA Hyderabad,34587,3616,60.27
+L7,L25,Q-Mart Gachibowli,IKEA Hyderabad,28085,3382,56.37
+L25,L60,IKEA Hyderabad,Lalitha Jewellery,40206,3956,65.93
+L37,L19,Alankrita Boutique,South India Shopping Mall,15306,2010,33.5
+L7,L60,Q-Mart Gachibowli,Lalitha Jewellery,26148,2584,43.07
+L60,L25,Lalitha Jewellery,IKEA Hyderabad,39924,3735,62.25
+L7,L33,Q-Mart Gachibowli,Pista House,26587,3011,50.18
+L37,L33,Alankrita Boutique,Pista House,47541,4900,81.67
+L19,L37,South India Shopping Mall,Alankrita Boutique,15649,1832,30.53
+L37,L60,Alankrita Boutique,Lalitha Jewellery,44897,4836,80.6
+L40,L58,Apollo Health City,Jos Alukkas,62345,3408,56.8
+L13,L5,Forum Sujana Zara,Reliance Smart Jubilee,49266,3390,56.5
+L40,L18,Apollo Health City,Kalanikethan Kukatpally,32682,2386,39.77
+L58,L54,Jos Alukkas,Metro Shoes,54865,3558,59.3
+L58,L40,Jos Alukkas,Apollo Health City,62147,3413,56.88
+L18,L54,Kalanikethan Kukatpally,Metro Shoes,9656,1621,27.02
+L54,L58,Metro Shoes,Jos Alukkas,55037,3572,59.53
+L54,L18,Metro Shoes,Kalanikethan Kukatpally,10528,1749,29.15
+L58,L5,Jos Alukkas,Reliance Smart Jubilee,18235,1941,32.35
+L13,L54,Forum Sujana Zara,Metro Shoes,61464,4960,82.67
+L54,L24,Metro Shoes,Darpan Furnishings,39501,3659,60.98
+L54,L40,Metro Shoes,Apollo Health City,41129,3545,59.08
+L54,L5,Metro Shoes,Reliance Smart Jubilee,33025,3461,57.68
+L40,L54,Apollo Health City,Metro Shoes,31633,3720,62.0
+L18,L24,Kalanikethan Kukatpally,Darpan Furnishings,68726,4914,81.9
+L18,L5,Kalanikethan Kukatpally,Reliance Smart Jubilee,74506,4793,79.88
+L58,L13,Jos Alukkas,Forum Sujana Zara,35507,2229,37.15
+L5,L54,Reliance Smart Jubilee,Metro Shoes,30492,3319,55.32
+L13,L18,Forum Sujana Zara,Kalanikethan Kukatpally,56288,3750,62.5
+L13,L24,Forum Sujana Zara,Darpan Furnishings,83001,5196,86.6
+L5,L13,Reliance Smart Jubilee,Forum Sujana Zara,50147,3345,55.75
+L13,L58,Forum Sujana Zara,Jos Alukkas,35405,2293,38.22
+L24,L18,Darpan Furnishings,Kalanikethan Kukatpally,68030,4853,80.88
+L5,L18,Reliance Smart Jubilee,Kalanikethan Kukatpally,64391,4714,78.57
+L5,L58,Reliance Smart Jubilee,Jos Alukkas,19561,2016,33.6
+L18,L40,Kalanikethan Kukatpally,Apollo Health City,32733,2353,39.22
+L58,L18,Jos Alukkas,Kalanikethan Kukatpally,84212,4796,79.93
+L18,L58,Kalanikethan Kukatpally,Jos Alukkas,84262,4827,80.45
+L24,L54,Darpan Furnishings,Metro Shoes,38684,3615,60.25
+L24,L40,Darpan Furnishings,Apollo Health City,89713,5586,93.1
+L40,L24,Apollo Health City,Darpan Furnishings,90127,5581,93.02
+L24,L5,Darpan Furnishings,Reliance Smart Jubilee,46153,3874,64.57
+L18,L13,Kalanikethan Kukatpally,Forum Sujana Zara,56452,3627,60.45
+L24,L58,Darpan Furnishings,Jos Alukkas,55910,3908,65.13
+L24,L13,Darpan Furnishings,Forum Sujana Zara,83177,5211,86.85
+L58,L24,Jos Alukkas,Darpan Furnishings,55413,3766,62.77
+L5,L24,Reliance Smart Jubilee,Darpan Furnishings,35592,3684,61.4
+L40,L5,Apollo Health City,Reliance Smart Jubilee,76205,4505,75.08
+L5,L40,Reliance Smart Jubilee,Apollo Health City,76788,4528,75.47
+L54,L13,Metro Shoes,Forum Sujana Zara,64847,4819,80.32
+L23,L32,Reliance Digital,Karachi Bakery,24450,2659,44.32
+L32,L24,Karachi Bakery,Darpan Furnishings,15648,1814,30.23
+L24,L52,Darpan Furnishings,Puma Store,69678,4998,83.3
+L20,L52,Chennai Shopping Mall,Puma Store,76203,5153,85.88
+L20,L23,Chennai Shopping Mall,Reliance Digital,24918,3095,51.58
+L52,L23,Puma Store,Reliance Digital,46224,4631,77.18
+L20,L32,Chennai Shopping Mall,Karachi Bakery,43529,4706,78.43
+L23,L20,Reliance Digital,Chennai Shopping Mall,24700,2967,49.45
+L23,L52,Reliance Digital,Puma Store,67649,4534,75.57
+L32,L3,Karachi Bakery,Heritage Fresh,84498,5734,95.57
+L18,L52,Kalanikethan Kukatpally,Puma Store,5983,912,15.2
+L23,L24,Reliance Digital,Darpan Furnishings,37203,3359,55.98
+L52,L18,Puma Store,Kalanikethan Kukatpally,5644,745,12.42
+L32,L52,Karachi Bakery,Puma Store,84524,5909,98.48
+L3,L18,Heritage Fresh,Kalanikethan Kukatpally,49568,3747,62.45
+L23,L18,Reliance Digital,Kalanikethan Kukatpally,66002,4389,73.15
+L24,L32,Darpan Furnishings,Karachi Bakery,15621,1809,30.15
+L23,L3,Reliance Digital,Heritage Fresh,67623,4359,72.65
+L24,L20,Darpan Furnishings,Chennai Shopping Mall,46718,4706,78.43
+L52,L32,Puma Store,Karachi Bakery,57535,5753,95.88
+L32,L23,Karachi Bakery,Reliance Digital,24450,2631,43.85
+L20,L3,Chennai Shopping Mall,Heritage Fresh,35876,3163,52.72
+L3,L24,Heritage Fresh,Darpan Furnishings,92555,5839,97.32
+L52,L3,Puma Store,Heritage Fresh,46567,3608,60.13
+L24,L23,Darpan Furnishings,Reliance Digital,37921,3585,59.75
+L3,L52,Heritage Fresh,Puma Store,45991,3567,59.45
+L32,L20,Karachi Bakery,Chennai Shopping Mall,42661,4600,76.67
+L20,L24,Chennai Shopping Mall,Darpan Furnishings,43759,4707,78.45
+L3,L23,Heritage Fresh,Reliance Digital,68165,4492,74.87
+L52,L24,Puma Store,Darpan Furnishings,48677,5041,84.02
+L20,L18,Chennai Shopping Mall,Kalanikethan Kukatpally,79780,5333,88.88
+L3,L20,Heritage Fresh,Chennai Shopping Mall,36472,3149,52.48
+L18,L3,Kalanikethan Kukatpally,Heritage Fresh,49356,3663,61.05
+L24,L3,Darpan Furnishings,Heritage Fresh,92791,5920,98.67
+L3,L32,Heritage Fresh,Karachi Bakery,85143,6017,100.28
+L18,L23,Kalanikethan Kukatpally,Reliance Digital,66273,4504,75.07
+L52,L20,Puma Store,Chennai Shopping Mall,77289,5166,86.1
+L18,L20,Kalanikethan Kukatpally,Chennai Shopping Mall,80077,5221,87.02
+L51,L31,Adidas Originals,Cafe Niloufer,4827,962,16.03
+L31,L51,Cafe Niloufer,Adidas Originals,4703,861,14.35
+L51,L58,Adidas Originals,Jos Alukkas,75917,4987,83.12
+L13,L51,Forum Sujana Zara,Adidas Originals,70550,5036,83.93
+L13,L31,Forum Sujana Zara,Cafe Niloufer,70532,5047,84.12
+L51,L13,Adidas Originals,Forum Sujana Zara,70754,5018,83.63
+L58,L51,Jos Alukkas,Adidas Originals,74280,4803,80.05
+L51,L38,Adidas Originals,MedPlus Madhapur,26224,3687,61.45
+L31,L7,Cafe Niloufer,Q-Mart Gachibowli,53922,4418,73.63
+L31,L38,Cafe Niloufer,MedPlus Madhapur,25899,3515,58.58
+L38,L51,MedPlus Madhapur,Adidas Originals,26465,3532,58.87
+L31,L58,Cafe Niloufer,Jos Alukkas,76949,5024,83.73
+L58,L38,Jos Alukkas,MedPlus Madhapur,59398,4021,67.02
+L31,L13,Cafe Niloufer,Forum Sujana Zara,70736,5012,83.53
+L7,L58,Q-Mart Gachibowli,Jos Alukkas,41541,2929,48.82
+L7,L38,Q-Mart Gachibowli,MedPlus Madhapur,23451,2877,47.95
+L7,L31,Q-Mart Gachibowli,Cafe Niloufer,46256,4397,73.28
+L13,L7,Forum Sujana Zara,Q-Mart Gachibowli,68986,4298,71.63
+L38,L31,MedPlus Madhapur,Cafe Niloufer,25187,3491,58.18
+L58,L31,Jos Alukkas,Cafe Niloufer,76619,4933,82.22
+L38,L7,MedPlus Madhapur,Q-Mart Gachibowli,25480,3200,53.33
+L7,L13,Q-Mart Gachibowli,Forum Sujana Zara,68809,4232,70.53
+L58,L7,Jos Alukkas,Q-Mart Gachibowli,41398,2867,47.78
+L38,L58,MedPlus Madhapur,Jos Alukkas,56967,4145,69.08
+L57,L51,Joyalukkas,Adidas Originals,30683,3348,55.8
+L19,L9,South India Shopping Mall,Spencer's Retail,4257,551,9.18
+L57,L9,Joyalukkas,Spencer's Retail,13062,1625,27.08
+L51,L25,Adidas Originals,IKEA Hyderabad,51120,5254,87.57
+L9,L19,Spencer's Retail,South India Shopping Mall,4917,718,11.97
+L29,L51,Bawarchi RTC X Roads,Adidas Originals,77854,6042,100.7
+L19,L30,South India Shopping Mall,Shah Ghouse Gachibowli,16616,2267,37.78
+L9,L30,Spencer's Retail,Shah Ghouse Gachibowli,18277,2602,43.37
+L57,L29,Joyalukkas,Bawarchi RTC X Roads,36768,4901,81.68
+L9,L57,Spencer's Retail,Joyalukkas,12441,1826,30.43
+L51,L19,Adidas Originals,South India Shopping Mall,24083,3574,59.57
+L51,L29,Adidas Originals,Bawarchi RTC X Roads,79033,6246,104.1
+L57,L30,Joyalukkas,Shah Ghouse Gachibowli,38979,3079,51.32
+L30,L25,Shah Ghouse Gachibowli,IKEA Hyderabad,66489,4920,82.0
+L51,L9,Adidas Originals,Spencer's Retail,21803,3207,53.45
+L9,L51,Spencer's Retail,Adidas Originals,22261,3261,54.35
+L25,L51,IKEA Hyderabad,Adidas Originals,48735,5042,84.03
+L29,L30,Bawarchi RTC X Roads,Shah Ghouse Gachibowli,61956,4495,74.92
+L51,L57,Adidas Originals,Joyalukkas,36601,3402,56.7
+L30,L9,Shah Ghouse Gachibowli,Spencer's Retail,16233,2406,40.1
+L9,L29,Spencer's Retail,Bawarchi RTC X Roads,29084,4033,67.22
+L29,L19,Bawarchi RTC X Roads,South India Shopping Mall,28159,4023,67.05
+L30,L19,Shah Ghouse Gachibowli,South India Shopping Mall,15953,2302,38.37
+L19,L29,South India Shopping Mall,Bawarchi RTC X Roads,29231,3960,66.0
+L19,L51,South India Shopping Mall,Adidas Originals,25286,3630,60.5
+L30,L29,Shah Ghouse Gachibowli,Bawarchi RTC X Roads,63094,4598,76.63
+L29,L9,Bawarchi RTC X Roads,Spencer's Retail,29897,4320,72.0
+L30,L57,Shah Ghouse Gachibowli,Joyalukkas,43310,2985,49.75
+L25,L30,IKEA Hyderabad,Shah Ghouse Gachibowli,65819,4862,81.03
+L29,L57,Bawarchi RTC X Roads,Joyalukkas,35170,5010,83.5
+L14,L60,Sarath City Capital H&M,Lalitha Jewellery,3924,846,14.1
+L27,L60,Chutneys Restaurant,Lalitha Jewellery,58909,3842,64.03
+L47,L14,Himalaya Book World,Sarath City Capital H&M,31016,2791,46.52
+L20,L60,Chennai Shopping Mall,Lalitha Jewellery,31313,3526,58.77
+L27,L14,Chutneys Restaurant,Sarath City Capital H&M,57303,3465,57.75
+L60,L47,Lalitha Jewellery,Himalaya Book World,32323,2909,48.48
+L47,L31,Himalaya Book World,Cafe Niloufer,52281,4473,74.55
+L60,L14,Lalitha Jewellery,Sarath City Capital H&M,5978,862,14.37
+L60,L31,Lalitha Jewellery,Cafe Niloufer,61731,4640,77.33
+L31,L47,Cafe Niloufer,Himalaya Book World,53212,4547,75.78
+L60,L27,Lalitha Jewellery,Chutneys Restaurant,56465,3641,60.68
+L27,L31,Chutneys Restaurant,Cafe Niloufer,76720,5335,88.92
+L60,L20,Lalitha Jewellery,Chennai Shopping Mall,31793,3354,55.9
+L31,L27,Cafe Niloufer,Chutneys Restaurant,76798,5291,88.18
+L14,L20,Sarath City Capital H&M,Chennai Shopping Mall,28025,2926,48.77
+L31,L14,Cafe Niloufer,Sarath City Capital H&M,60214,4425,73.75
+L47,L60,Himalaya Book World,Lalitha Jewellery,16740,2423,40.38
+L27,L20,Chutneys Restaurant,Chennai Shopping Mall,16608,2189,36.48
+L20,L27,Chennai Shopping Mall,Chutneys Restaurant,16507,2102,35.03
+L47,L27,Himalaya Book World,Chutneys Restaurant,73758,4636,77.27
+L47,L20,Himalaya Book World,Chennai Shopping Mall,38561,4189,69.82
+L27,L47,Chutneys Restaurant,Himalaya Book World,73537,4608,76.8
+L20,L47,Chennai Shopping Mall,Himalaya Book World,35557,4143,69.05
+L14,L47,Sarath City Capital H&M,Himalaya Book World,28555,2481,41.35
+L20,L14,Chennai Shopping Mall,Sarath City Capital H&M,29707,3148,52.47
+L20,L31,Chennai Shopping Mall,Cafe Niloufer,64965,5874,97.9
+L31,L20,Cafe Niloufer,Chennai Shopping Mall,67758,5823,97.05
+L14,L31,Sarath City Capital H&M,Cafe Niloufer,57964,4212,70.2
+L31,L60,Cafe Niloufer,Lalitha Jewellery,61820,4802,80.03
+L14,L27,Sarath City Capital H&M,Chutneys Restaurant,56302,3279,54.65
+L28,L14,Paradise Biryani Secunderabad,Sarath City Capital H&M,24049,2840,47.33
+L20,L13,Chennai Shopping Mall,Forum Sujana Zara,26262,2454,40.9
+L13,L28,Forum Sujana Zara,Paradise Biryani Secunderabad,82057,5085,84.75
+L14,L8,Sarath City Capital H&M,Nature's Basket,48657,3326,55.43
+L30,L28,Shah Ghouse Gachibowli,Paradise Biryani Secunderabad,66146,4546,75.77
+L30,L13,Shah Ghouse Gachibowli,Forum Sujana Zara,54815,3371,56.18
+L28,L8,Paradise Biryani Secunderabad,Nature's Basket,52247,4178,69.63
+L14,L28,Sarath City Capital H&M,Paradise Biryani Secunderabad,21246,2576,42.93
+L13,L20,Forum Sujana Zara,Chennai Shopping Mall,26917,2507,41.78
+L8,L14,Nature's Basket,Sarath City Capital H&M,50691,3511,58.52
+L28,L30,Paradise Biryani Secunderabad,Shah Ghouse Gachibowli,67509,4666,77.77
+L8,L30,Nature's Basket,Shah Ghouse Gachibowli,27301,2208,36.8
+L30,L8,Shah Ghouse Gachibowli,Nature's Basket,26975,2192,36.53
+L13,L30,Forum Sujana Zara,Shah Ghouse Gachibowli,54651,3489,58.15
+L30,L14,Shah Ghouse Gachibowli,Sarath City Capital H&M,65890,3972,66.2
+L13,L14,Forum Sujana Zara,Sarath City Capital H&M,58565,3490,58.17
+L28,L13,Paradise Biryani Secunderabad,Forum Sujana Zara,68518,4903,81.72
+L14,L30,Sarath City Capital H&M,Shah Ghouse Gachibowli,63919,3814,63.57
+L28,L20,Paradise Biryani Secunderabad,Chennai Shopping Mall,36295,4478,74.63
+L8,L20,Nature's Basket,Chennai Shopping Mall,58236,4909,81.82
+L8,L28,Nature's Basket,Paradise Biryani Secunderabad,50947,4086,68.1
+L42,L30,Green Trends,Shah Ghouse Gachibowli,8904,1410,23.5
+L20,L30,Chennai Shopping Mall,Shah Ghouse Gachibowli,78143,5072,84.53
+L30,L20,Shah Ghouse Gachibowli,Chennai Shopping Mall,78441,4964,82.73
+L20,L28,Chennai Shopping Mall,Paradise Biryani Secunderabad,37162,4515,75.25
+L8,L42,Nature's Basket,Green Trends,40736,3465,57.75
+L42,L8,Green Trends,Nature's Basket,35366,3431,57.18
+L14,L13,Sarath City Capital H&M,Forum Sujana Zara,57564,3336,55.6
+L42,L14,Green Trends,Sarath City Capital H&M,48579,4684,78.07
+L28,L42,Paradise Biryani Secunderabad,Green Trends,50615,5348,89.13
+L30,L42,Shah Ghouse Gachibowli,Green Trends,10105,1418,23.63
+L13,L42,Forum Sujana Zara,Green Trends,48553,3877,64.62
+L42,L20,Green Trends,Chennai Shopping Mall,34074,4433,73.88
+L42,L28,Green Trends,Paradise Biryani Secunderabad,48835,5259,87.65
+L20,L42,Chennai Shopping Mall,Green Trends,32864,4429,73.82
+L42,L13,Green Trends,Forum Sujana Zara,48192,3656,60.93
+L14,L42,Sarath City Capital H&M,Green Trends,47025,4496,74.93
+L20,L8,Chennai Shopping Mall,Nature's Basket,55658,4988,83.13
+L12,L6,GVK One Lifestyle,Ghanshyam Supermarket,10184,1535,25.58
+L57,L11,Joyalukkas,Inorbit Mall Shoppers Stop,37052,3474,57.9
+L3,L12,Heritage Fresh,GVK One Lifestyle,7696,1169,19.48
+L57,L6,Joyalukkas,Ghanshyam Supermarket,34159,4547,75.78
+L11,L57,Inorbit Mall Shoppers Stop,Joyalukkas,41388,3480,58.0
+L6,L57,Ghanshyam Supermarket,Joyalukkas,31651,4539,75.65
+L3,L6,Heritage Fresh,Ghanshyam Supermarket,14280,1998,33.3
+L6,L12,Ghanshyam Supermarket,GVK One Lifestyle,8488,1395,23.25
+L3,L57,Heritage Fresh,Joyalukkas,85580,5066,84.43
+L57,L12,Joyalukkas,GVK One Lifestyle,41942,5367,89.45
+L12,L11,GVK One Lifestyle,Inorbit Mall Shoppers Stop,85245,6221,103.68
+L57,L3,Joyalukkas,Heritage Fresh,86326,5186,86.43
+L12,L3,GVK One Lifestyle,Heritage Fresh,7456,1107,18.45
+L6,L11,Ghanshyam Supermarket,Inorbit Mall Shoppers Stop,52066,5619,93.65
+L3,L11,Heritage Fresh,Inorbit Mall Shoppers Stop,79429,5518,91.97
+L57,L10,Joyalukkas,Metro Cash & Carry,63931,4490,74.83
+L11,L10,Inorbit Mall Shoppers Stop,Metro Cash & Carry,56388,4557,75.95
+L3,L10,Heritage Fresh,Metro Cash & Carry,46784,3711,61.85
+L11,L3,Inorbit Mall Shoppers Stop,Heritage Fresh,78783,5253,87.55
+L10,L6,Metro Cash & Carry,Ghanshyam Supermarket,22342,3042,50.7
+L10,L12,Metro Cash & Carry,GVK One Lifestyle,26826,3699,61.65
+L12,L10,GVK One Lifestyle,Metro Cash & Carry,26311,3621,60.35
+L11,L6,Inorbit Mall Shoppers Stop,Ghanshyam Supermarket,46935,5685,94.75
+L10,L57,Metro Cash & Carry,Joyalukkas,64067,4439,73.98
+L11,L12,Inorbit Mall Shoppers Stop,GVK One Lifestyle,84761,5884,98.07
+L12,L57,GVK One Lifestyle,Joyalukkas,40102,5544,92.4
+L6,L10,Ghanshyam Supermarket,Metro Cash & Carry,21503,2958,49.3
+L10,L11,Metro Cash & Carry,Inorbit Mall Shoppers Stop,57915,4892,81.53
+L10,L3,Metro Cash & Carry,Heritage Fresh,46782,3722,62.03
+L6,L3,Ghanshyam Supermarket,Heritage Fresh,15308,2028,33.8
+L53,L40,Bata Shoe Store,Apollo Health City,4028,556,9.27
+L40,L52,Apollo Health City,Puma Store,29105,2207,36.78
+L52,L40,Puma Store,Apollo Health City,29944,2298,38.3
+L52,L53,Puma Store,Bata Shoe Store,29574,2335,38.92
+L40,L53,Apollo Health City,Bata Shoe Store,4177,484,8.07
+L21,L53,Bajaj Electronics,Bata Shoe Store,55437,3447,57.45
+L53,L52,Bata Shoe Store,Puma Store,28374,2270,37.83
+L21,L54,Bajaj Electronics,Metro Shoes,25876,2537,42.28
+L21,L40,Bajaj Electronics,Apollo Health City,55808,3411,56.85
+L52,L21,Puma Store,Bajaj Electronics,36550,2965,49.42
+L52,L54,Puma Store,Metro Shoes,10942,1708,28.47
+L12,L53,GVK One Lifestyle,Bata Shoe Store,28846,2944,49.07
+L53,L54,Bata Shoe Store,Metro Shoes,30149,3717,61.95
+L53,L21,Bata Shoe Store,Bajaj Electronics,54700,3418,56.97
+L54,L53,Metro Shoes,Bata Shoe Store,40758,3581,59.68
+L7,L21,Q-Mart Gachibowli,Bajaj Electronics,23778,2688,44.8
+L53,L12,Bata Shoe Store,GVK One Lifestyle,28774,3016,50.27
+L40,L21,Apollo Health City,Bajaj Electronics,55432,3354,55.9
+L7,L54,Q-Mart Gachibowli,Metro Shoes,18919,2414,40.23
+L40,L12,Apollo Health City,GVK One Lifestyle,29506,2953,49.22
+L54,L7,Metro Shoes,Q-Mart Gachibowli,20588,2568,42.8
+L7,L12,Q-Mart Gachibowli,GVK One Lifestyle,31249,4181,69.68
+L7,L40,Q-Mart Gachibowli,Apollo Health City,35674,4764,79.4
+L54,L21,Metro Shoes,Bajaj Electronics,19547,2685,44.75
+L40,L7,Apollo Health City,Q-Mart Gachibowli,38547,4906,81.77
+L21,L7,Bajaj Electronics,Q-Mart Gachibowli,30990,2708,45.13
+L7,L52,Q-Mart Gachibowli,Puma Store,29727,4276,71.27
+L12,L52,GVK One Lifestyle,Puma Store,52517,4423,73.72
+L7,L53,Q-Mart Gachibowli,Bata Shoe Store,34273,4725,78.75
+L12,L21,GVK One Lifestyle,Bajaj Electronics,78844,5571,92.85
+L52,L7,Puma Store,Q-Mart Gachibowli,29764,3950,65.83
+L12,L40,GVK One Lifestyle,Apollo Health City,29217,2908,48.47
+L52,L12,Puma Store,GVK One Lifestyle,52937,4496,74.93
+L12,L54,GVK One Lifestyle,Metro Shoes,28906,4248,70.8
+L12,L7,GVK One Lifestyle,Q-Mart Gachibowli,32676,4320,72.0
+L21,L52,Bajaj Electronics,Puma Store,35772,2823,47.05
+L53,L7,Bata Shoe Store,Q-Mart Gachibowli,37063,4903,81.72
+L54,L52,Metro Shoes,Puma Store,15145,2294,38.23
+L54,L12,Metro Shoes,GVK One Lifestyle,29884,4300,71.67
+L21,L12,Bajaj Electronics,GVK One Lifestyle,78801,5609,93.48
+L21,L28,Bajaj Electronics,Paradise Biryani Secunderabad,37537,3290,54.83
+L28,L21,Paradise Biryani Secunderabad,Bajaj Electronics,39096,3442,57.37
+L46,L28,Crossword Bookstore,Paradise Biryani Secunderabad,101427,6104,101.73
+L46,L21,Crossword Bookstore,Bajaj Electronics,62060,4040,67.33
+L28,L46,Paradise Biryani Secunderabad,Crossword Bookstore,88202,6037,100.62
+L20,L21,Chennai Shopping Mall,Bajaj Electronics,42508,4252,70.87
+L21,L20,Bajaj Electronics,Chennai Shopping Mall,44826,4112,68.53
+L46,L20,Crossword Bookstore,Chennai Shopping Mall,46288,3526,58.77
+L20,L46,Chennai Shopping Mall,Crossword Bookstore,45946,3588,59.8
+L21,L46,Bajaj Electronics,Crossword Bookstore,62501,4105,68.42
+L9,L37,Spencer's Retail,Alankrita Boutique,15501,1905,31.75
+L9,L14,Spencer's Retail,Sarath City Capital H&M,34821,2689,44.82
+L31,L37,Cafe Niloufer,Alankrita Boutique,37039,4939,82.32
+L9,L31,Spencer's Retail,Cafe Niloufer,25542,3426,57.1
+L37,L31,Alankrita Boutique,Cafe Niloufer,50501,4685,78.08
+L6,L37,Ghanshyam Supermarket,Alankrita Boutique,14712,2274,37.9
+L9,L6,Spencer's Retail,Ghanshyam Supermarket,26474,3679,61.32
+L37,L14,Alankrita Boutique,Sarath City Capital H&M,43291,4459,74.32
+L9,L5,Spencer's Retail,Reliance Smart Jubilee,41800,3254,54.23
+L31,L6,Cafe Niloufer,Ghanshyam Supermarket,74810,6508,108.47
+L14,L3,Sarath City Capital H&M,Heritage Fresh,67178,4045,67.42
+L14,L9,Sarath City Capital H&M,Spencer's Retail,33325,2445,40.75
+L31,L3,Cafe Niloufer,Heritage Fresh,63640,5048,84.13
+L31,L5,Cafe Niloufer,Reliance Smart Jubilee,67193,4990,83.17
+L3,L14,Heritage Fresh,Sarath City Capital H&M,68119,4132,68.87
+L31,L9,Cafe Niloufer,Spencer's Retail,25306,3412,56.87
+L5,L37,Reliance Smart Jubilee,Alankrita Boutique,30895,3732,62.2
+L37,L5,Alankrita Boutique,Reliance Smart Jubilee,33765,3992,66.53
+L5,L9,Reliance Smart Jubilee,Spencer's Retail,32159,3084,51.4
+L5,L31,Reliance Smart Jubilee,Cafe Niloufer,56798,4851,80.85
+L37,L9,Alankrita Boutique,Spencer's Retail,15543,2079,34.65
+L3,L5,Heritage Fresh,Reliance Smart Jubilee,58820,4032,67.2
+L37,L6,Alankrita Boutique,Ghanshyam Supermarket,14468,2430,40.5
+L6,L9,Ghanshyam Supermarket,Spencer's Retail,26378,3848,64.13
+L6,L14,Ghanshyam Supermarket,Sarath City Capital H&M,43959,4559,75.98
+L6,L5,Ghanshyam Supermarket,Reliance Smart Jubilee,29159,3522,58.7
+L6,L31,Ghanshyam Supermarket,Cafe Niloufer,75788,6624,110.4
+L5,L14,Reliance Smart Jubilee,Sarath City Capital H&M,21540,2125,35.42
+L3,L31,Heritage Fresh,Cafe Niloufer,63812,5044,84.07
+L14,L37,Sarath City Capital H&M,Alankrita Boutique,40877,4201,70.02
+L5,L6,Reliance Smart Jubilee,Ghanshyam Supermarket,29575,3571,59.52
+L9,L3,Spencer's Retail,Heritage Fresh,38450,4971,82.85
+L3,L9,Heritage Fresh,Spencer's Retail,35585,5091,84.85
+L14,L5,Sarath City Capital H&M,Reliance Smart Jubilee,20357,1861,31.02
+L5,L3,Reliance Smart Jubilee,Heritage Fresh,59761,4053,67.55
+L14,L6,Sarath City Capital H&M,Ghanshyam Supermarket,38014,4492,74.87
+L36,L8,Aroma Boutique,Nature's Basket,3258,414,6.9
+L8,L36,Nature's Basket,Aroma Boutique,3267,434,7.23
+L18,L8,Kalanikethan Kukatpally,Nature's Basket,28611,2448,40.8
+L39,L36,Apollo Pharmacy,Aroma Boutique,37915,3319,55.32
+L36,L18,Aroma Boutique,Kalanikethan Kukatpally,27874,2653,44.22
+L8,L39,Nature's Basket,Apollo Pharmacy,45313,3532,58.87
+L8,L18,Nature's Basket,Kalanikethan Kukatpally,28938,2469,41.15
+L36,L39,Aroma Boutique,Apollo Pharmacy,46452,3722,62.03
+L39,L8,Apollo Pharmacy,Nature's Basket,37501,3543,59.05
+L18,L36,Kalanikethan Kukatpally,Aroma Boutique,24191,2216,36.93
+L23,L56,Reliance Digital,Malabar Gold & Diamonds,36021,3121,52.02
+L40,L20,Apollo Health City,Chennai Shopping Mall,53857,3622,60.37
+L56,L40,Malabar Gold & Diamonds,Apollo Health City,88559,5358,89.3
+L56,L20,Malabar Gold & Diamonds,Chennai Shopping Mall,45564,4479,74.65
+L56,L23,Malabar Gold & Diamonds,Reliance Digital,36767,3357,55.95
+L40,L23,Apollo Health City,Reliance Digital,85550,4965,82.75
+L11,L40,Inorbit Mall Shoppers Stop,Apollo Health City,95810,5728,95.47
+L56,L50,Malabar Gold & Diamonds,Nike Exclusive Store,56085,4399,73.32
+L40,L50,Apollo Health City,Nike Exclusive Store,51286,3630,60.5
+L40,L11,Apollo Health City,Inorbit Mall Shoppers Stop,93270,5795,96.58
+L40,L56,Apollo Health City,Malabar Gold & Diamonds,88945,5342,89.03
+L23,L11,Reliance Digital,Inorbit Mall Shoppers Stop,18735,2161,36.02
+L50,L40,Nike Exclusive Store,Apollo Health City,50648,3494,58.23
+L23,L40,Reliance Digital,Apollo Health City,84650,4834,80.57
+L11,L23,Inorbit Mall Shoppers Stop,Reliance Digital,18735,2149,35.82
+L20,L50,Chennai Shopping Mall,Nike Exclusive Store,61767,5510,91.83
+L50,L23,Nike Exclusive Store,Reliance Digital,55416,4138,68.97
+L50,L56,Nike Exclusive Store,Malabar Gold & Diamonds,56687,4310,71.83
+L11,L56,Inorbit Mall Shoppers Stop,Malabar Gold & Diamonds,8182,1066,17.77
+L56,L11,Malabar Gold & Diamonds,Inorbit Mall Shoppers Stop,8182,1030,17.17
+L50,L20,Nike Exclusive Store,Chennai Shopping Mall,64213,5260,87.67
+L11,L50,Inorbit Mall Shoppers Stop,Nike Exclusive Store,66371,5056,84.27
+L20,L56,Chennai Shopping Mall,Malabar Gold & Diamonds,42577,4468,74.47
+L20,L40,Chennai Shopping Mall,Apollo Health City,52903,3638,60.63
+L23,L50,Reliance Digital,Nike Exclusive Store,55211,4163,69.38
+L11,L20,Inorbit Mall Shoppers Stop,Chennai Shopping Mall,36946,4119,68.65
+L50,L11,Nike Exclusive Store,Inorbit Mall Shoppers Stop,61011,4762,79.37
+L20,L11,Chennai Shopping Mall,Inorbit Mall Shoppers Stop,37814,4208,70.13
+L22,L60,Croma Jubilee Hills,Lalitha Jewellery,11356,1443,24.05
+L13,L53,Forum Sujana Zara,Bata Shoe Store,29040,2092,34.87
+L60,L22,Lalitha Jewellery,Croma Jubilee Hills,11653,1330,22.17
+L13,L60,Forum Sujana Zara,Lalitha Jewellery,60171,3867,64.45
+L53,L46,Bata Shoe Store,Crossword Bookstore,8945,1041,17.35
+L53,L13,Bata Shoe Store,Forum Sujana Zara,29500,2092,34.87
+L22,L54,Croma Jubilee Hills,Metro Shoes,33863,2681,44.68
+L13,L22,Forum Sujana Zara,Croma Jubilee Hills,54372,3180,53.0
+L60,L13,Lalitha Jewellery,Forum Sujana Zara,57727,3698,61.63
+L53,L22,Bata Shoe Store,Croma Jubilee Hills,80580,4359,72.65
+L53,L60,Bata Shoe Store,Lalitha Jewellery,86380,5046,84.1
+L60,L53,Lalitha Jewellery,Bata Shoe Store,83996,4918,81.97
+L46,L60,Crossword Bookstore,Lalitha Jewellery,79541,4886,81.43
+L54,L60,Metro Shoes,Lalitha Jewellery,39907,3351,55.85
+L54,L22,Metro Shoes,Croma Jubilee Hills,32810,2580,43.0
+L22,L13,Croma Jubilee Hills,Forum Sujana Zara,54017,3092,51.53
+L46,L53,Crossword Bookstore,Bata Shoe Store,9095,1007,16.78
+L60,L46,Lalitha Jewellery,Crossword Bookstore,77411,4832,80.53
+L22,L53,Croma Jubilee Hills,Bata Shoe Store,80286,4312,71.87
+L22,L46,Croma Jubilee Hills,Crossword Bookstore,73701,4226,70.43
+L60,L54,Lalitha Jewellery,Metro Shoes,39977,3265,54.42
+L46,L54,Crossword Bookstore,Metro Shoes,38102,4388,73.13
+L46,L22,Crossword Bookstore,Croma Jubilee Hills,73742,4199,69.98
+L54,L46,Metro Shoes,Crossword Bookstore,47822,4239,70.65
+L33,L47,Pista House,Himalaya Book World,8425,1429,23.82
+L33,L27,Pista House,Chutneys Restaurant,64565,4397,73.28
+L47,L33,Himalaya Book World,Pista House,8425,1398,23.3
+L57,L27,Joyalukkas,Chutneys Restaurant,75451,4420,73.67
+L47,L57,Himalaya Book World,Joyalukkas,24099,2533,42.22
+L7,L57,Q-Mart Gachibowli,Joyalukkas,17437,2351,39.18
+L33,L29,Pista House,Bawarchi RTC X Roads,45331,5491,91.52
+L6,L27,Ghanshyam Supermarket,Chutneys Restaurant,20784,2720,45.33
+L57,L33,Joyalukkas,Pista House,31812,3153,52.55
+L29,L27,Bawarchi RTC X Roads,Chutneys Restaurant,18534,2575,42.92
+L6,L47,Ghanshyam Supermarket,Himalaya Book World,39223,5195,86.58
+L57,L47,Joyalukkas,Himalaya Book World,25708,2697,44.95
+L27,L33,Chutneys Restaurant,Pista House,65270,4736,78.93
+L29,L6,Bawarchi RTC X Roads,Ghanshyam Supermarket,5253,1001,16.68
+L47,L6,Himalaya Book World,Ghanshyam Supermarket,41745,5427,90.45
+L7,L27,Q-Mart Gachibowli,Chutneys Restaurant,36013,4128,68.8
+L6,L29,Ghanshyam Supermarket,Bawarchi RTC X Roads,4471,864,14.4
+L57,L7,Joyalukkas,Q-Mart Gachibowli,26418,2568,42.8
+L33,L57,Pista House,Joyalukkas,32218,3118,51.97
+L27,L7,Chutneys Restaurant,Q-Mart Gachibowli,36392,4366,72.77
+L27,L29,Chutneys Restaurant,Bawarchi RTC X Roads,19022,2631,43.85
+L27,L6,Chutneys Restaurant,Ghanshyam Supermarket,21935,2903,48.38
+L33,L6,Pista House,Ghanshyam Supermarket,43593,5595,93.25
+L7,L29,Q-Mart Gachibowli,Bawarchi RTC X Roads,26074,3715,61.92
+L7,L6,Q-Mart Gachibowli,Ghanshyam Supermarket,23465,3361,56.02
+L6,L33,Ghanshyam Supermarket,Pista House,48723,5504,91.73
+L29,L33,Bawarchi RTC X Roads,Pista House,45720,5479,91.32
+L29,L7,Bawarchi RTC X Roads,Q-Mart Gachibowli,27745,3786,63.1
+L27,L57,Chutneys Restaurant,Joyalukkas,74764,4399,73.32
+L6,L7,Ghanshyam Supermarket,Q-Mart Gachibowli,24225,3315,55.25
+L2,L32,Vijetha Supermarket,Karachi Bakery,14448,1739,28.98
+L40,L49,Apollo Health City,Wildcraft Store,21398,1692,28.2
+L47,L49,Himalaya Book World,Wildcraft Store,92971,5707,95.12
+L32,L2,Karachi Bakery,Vijetha Supermarket,14448,1719,28.65
+L2,L4,Vijetha Supermarket,D-Mart Begumpet,32312,3254,54.23
+L49,L40,Wildcraft Store,Apollo Health City,21076,1724,28.73
+L4,L2,D-Mart Begumpet,Vijetha Supermarket,32717,3181,53.02
+L40,L32,Apollo Health City,Karachi Bakery,98984,6293,104.88
+L40,L4,Apollo Health City,D-Mart Begumpet,58113,3865,64.42
+L49,L47,Wildcraft Store,Himalaya Book World,92333,5548,92.47
+L49,L2,Wildcraft Store,Vijetha Supermarket,95786,5714,95.23
+L2,L49,Vijetha Supermarket,Wildcraft Store,96421,5840,97.33
+L49,L32,Wildcraft Store,Karachi Bakery,93123,6290,104.83
+L32,L49,Karachi Bakery,Wildcraft Store,92835,6039,100.65
+L4,L49,D-Mart Begumpet,Wildcraft Store,73048,4879,81.32
+L4,L40,D-Mart Begumpet,Apollo Health City,58163,3941,65.68
+L32,L40,Karachi Bakery,Apollo Health City,101524,6209,103.48
+L29,L49,Bawarchi RTC X Roads,Wildcraft Store,28026,2891,48.18
+L29,L4,Bawarchi RTC X Roads,D-Mart Begumpet,49418,6101,101.68
+L4,L29,D-Mart Begumpet,Bawarchi RTC X Roads,53482,5905,98.42
+L49,L4,Wildcraft Store,D-Mart Begumpet,73385,4899,81.65
+L32,L29,Karachi Bakery,Bawarchi RTC X Roads,54388,6063,101.05
+L29,L32,Bawarchi RTC X Roads,Karachi Bakery,54777,6092,101.53
+L49,L29,Wildcraft Store,Bawarchi RTC X Roads,22328,3113,51.88
+L50,L27,Nike Exclusive Store,Chutneys Restaurant,80428,5048,84.13
+L50,L36,Nike Exclusive Store,Aroma Boutique,11924,1592,26.53
+L51,L36,Adidas Originals,Aroma Boutique,15567,2222,37.03
+L37,L36,Alankrita Boutique,Aroma Boutique,49167,3886,64.77
+L36,L50,Aroma Boutique,Nike Exclusive Store,16564,2106,35.1
+L50,L39,Nike Exclusive Store,Apollo Pharmacy,51291,3884,64.73
+L39,L51,Apollo Pharmacy,Adidas Originals,44468,4299,71.65
+L51,L50,Adidas Originals,Nike Exclusive Store,14801,2445,40.75
+L50,L37,Nike Exclusive Store,Alankrita Boutique,30993,3918,65.3
+L47,L37,Himalaya Book World,Alankrita Boutique,41341,4305,71.75
+L37,L47,Alankrita Boutique,Himalaya Book World,41437,4444,74.07
+L51,L27,Adidas Originals,Chutneys Restaurant,76816,5298,88.3
+L36,L51,Aroma Boutique,Adidas Originals,16030,2308,38.47
+L27,L36,Chutneys Restaurant,Aroma Boutique,75386,4535,75.58
+L39,L37,Apollo Pharmacy,Alankrita Boutique,18483,2835,47.25
+L51,L37,Adidas Originals,Alankrita Boutique,53179,5129,85.48
+L36,L27,Aroma Boutique,Chutneys Restaurant,79337,4939,82.32
+L47,L36,Himalaya Book World,Aroma Boutique,43388,3363,56.05
+L27,L51,Chutneys Restaurant,Adidas Originals,76738,5324,88.73
+L39,L50,Apollo Pharmacy,Nike Exclusive Store,29200,3676,61.27
+L50,L47,Nike Exclusive Store,Himalaya Book World,49666,3985,66.42
+L27,L37,Chutneys Restaurant,Alankrita Boutique,31152,4054,67.57
+L50,L51,Nike Exclusive Store,Adidas Originals,13483,2227,37.12
+L27,L50,Chutneys Restaurant,Nike Exclusive Store,81080,5282,88.03
+L47,L50,Himalaya Book World,Nike Exclusive Store,49082,4109,68.48
+L37,L51,Alankrita Boutique,Adidas Originals,50519,4674,77.9
+L27,L39,Chutneys Restaurant,Apollo Pharmacy,37306,4394,73.23
+L37,L39,Alankrita Boutique,Apollo Pharmacy,20355,3101,51.68
+L36,L47,Aroma Boutique,Himalaya Book World,44828,3822,63.7
+L39,L27,Apollo Pharmacy,Chutneys Restaurant,36766,4175,69.58
+L37,L27,Alankrita Boutique,Chutneys Restaurant,29844,4095,68.25
+L37,L50,Alankrita Boutique,Nike Exclusive Store,27793,3695,61.58
+L51,L39,Adidas Originals,Apollo Pharmacy,53804,4410,73.5
+L36,L37,Aroma Boutique,Alankrita Boutique,37769,4563,76.05
+L16,L21,Neeru's Emporio,Bajaj Electronics,9599,1251,20.85
+L16,L56,Neeru's Emporio,Malabar Gold & Diamonds,43127,3341,55.68
+L21,L16,Bajaj Electronics,Neeru's Emporio,9652,1190,19.83
+L16,L48,Neeru's Emporio,Decathlon Madhapur,17113,2080,34.67
+L56,L21,Malabar Gold & Diamonds,Bajaj Electronics,36826,3141,52.35
+L60,L56,Lalitha Jewellery,Malabar Gold & Diamonds,39343,3234,53.9
+L56,L48,Malabar Gold & Diamonds,Decathlon Madhapur,56472,4358,72.63
+L60,L16,Lalitha Jewellery,Neeru's Emporio,44872,3134,52.23
+L48,L60,Decathlon Madhapur,Lalitha Jewellery,59008,4483,74.72
+L56,L16,Malabar Gold & Diamonds,Neeru's Emporio,42424,3257,54.28
+L48,L16,Decathlon Madhapur,Neeru's Emporio,18178,2305,38.42
+L21,L48,Bajaj Electronics,Decathlon Madhapur,23721,2411,40.18
+L48,L56,Decathlon Madhapur,Malabar Gold & Diamonds,57421,4553,75.88
+L60,L48,Lalitha Jewellery,Decathlon Madhapur,58920,4235,70.58
+L16,L60,Neeru's Emporio,Lalitha Jewellery,44715,3272,54.53
+L21,L56,Bajaj Electronics,Malabar Gold & Diamonds,37300,3162,52.7
+L56,L60,Malabar Gold & Diamonds,Lalitha Jewellery,39625,3459,57.65
+L29,L56,Bawarchi RTC X Roads,Malabar Gold & Diamonds,49762,5992,99.87
+L29,L60,Bawarchi RTC X Roads,Lalitha Jewellery,42562,4911,81.85
+L48,L21,Decathlon Madhapur,Bajaj Electronics,23907,2565,42.75
+L29,L16,Bawarchi RTC X Roads,Neeru's Emporio,81606,5703,95.05
+L42,L48,Green Trends,Decathlon Madhapur,29468,3595,59.92
+L16,L42,Neeru's Emporio,Green Trends,41461,3677,61.28
+L56,L29,Malabar Gold & Diamonds,Bawarchi RTC X Roads,51357,6070,101.17
+L42,L16,Green Trends,Neeru's Emporio,36048,3649,60.82
+L21,L29,Bajaj Electronics,Bawarchi RTC X Roads,46696,5421,90.35
+L29,L21,Bawarchi RTC X Roads,Bajaj Electronics,45757,5513,91.88
+L48,L29,Decathlon Madhapur,Bawarchi RTC X Roads,76204,5920,98.67
+L42,L56,Green Trends,Malabar Gold & Diamonds,48598,5131,85.52
+L60,L29,Lalitha Jewellery,Bawarchi RTC X Roads,43519,4817,80.28
+L48,L42,Decathlon Madhapur,Green Trends,34322,3681,61.35
+L29,L42,Bawarchi RTC X Roads,Green Trends,26887,4022,67.03
+L16,L29,Neeru's Emporio,Bawarchi RTC X Roads,52524,5600,93.33
+L42,L60,Green Trends,Lalitha Jewellery,50185,5061,84.35
+L29,L48,Bawarchi RTC X Roads,Decathlon Madhapur,75025,5649,94.15
+L56,L42,Malabar Gold & Diamonds,Green Trends,48344,5046,84.1
+L60,L42,Lalitha Jewellery,Green Trends,50792,4923,82.05
+L42,L29,Green Trends,Bawarchi RTC X Roads,28251,3955,65.92
+L28,L1,Paradise Biryani Secunderabad,Ratnadeep Supermarket,47004,3623,60.38
+L28,L56,Paradise Biryani Secunderabad,Malabar Gold & Diamonds,9303,1244,20.73
+L14,L1,Sarath City Capital H&M,Ratnadeep Supermarket,43414,2771,46.18
+L21,L14,Bajaj Electronics,Sarath City Capital H&M,37281,2715,45.25
+L1,L21,Ratnadeep Supermarket,Bajaj Electronics,11933,1298,21.63
+L1,L14,Ratnadeep Supermarket,Sarath City Capital H&M,45510,2950,49.17
+L21,L1,Bajaj Electronics,Ratnadeep Supermarket,11962,1255,20.92
+L14,L21,Sarath City Capital H&M,Bajaj Electronics,35507,2590,43.17
+L1,L28,Ratnadeep Supermarket,Paradise Biryani Secunderabad,45766,3524,58.73
+L10,L56,Metro Cash & Carry,Malabar Gold & Diamonds,69860,4973,82.88
+L1,L56,Ratnadeep Supermarket,Malabar Gold & Diamonds,45528,3397,56.62
+L56,L1,Malabar Gold & Diamonds,Ratnadeep Supermarket,44734,3322,55.37
+L56,L28,Malabar Gold & Diamonds,Paradise Biryani Secunderabad,9303,1230,20.5
+L6,L21,Ghanshyam Supermarket,Bajaj Electronics,42237,5041,84.02
+L1,L10,Ratnadeep Supermarket,Metro Cash & Carry,76732,4864,81.07
+L14,L56,Sarath City Capital H&M,Malabar Gold & Diamonds,35576,2806,46.77
+L21,L6,Bajaj Electronics,Ghanshyam Supermarket,44087,5067,84.45
+L1,L6,Ratnadeep Supermarket,Ghanshyam Supermarket,52316,5302,88.37
+L10,L14,Metro Cash & Carry,Sarath City Capital H&M,46606,3505,58.42
+L14,L10,Sarath City Capital H&M,Metro Cash & Carry,44783,3349,55.82
+L6,L56,Ghanshyam Supermarket,Malabar Gold & Diamonds,46243,5520,92.0
+L6,L1,Ghanshyam Supermarket,Ratnadeep Supermarket,50145,5222,87.03
+L21,L10,Bajaj Electronics,Metro Cash & Carry,68503,4630,77.17
+L10,L1,Metro Cash & Carry,Ratnadeep Supermarket,77698,4938,82.3
+L6,L28,Ghanshyam Supermarket,Paradise Biryani Secunderabad,46481,5648,94.13
+L10,L21,Metro Cash & Carry,Bajaj Electronics,69791,4757,79.28
+L56,L10,Malabar Gold & Diamonds,Metro Cash & Carry,69241,4996,83.27
+L28,L6,Paradise Biryani Secunderabad,Ghanshyam Supermarket,46283,6044,100.73
+L56,L6,Malabar Gold & Diamonds,Ghanshyam Supermarket,48748,5717,95.28
+L10,L28,Metro Cash & Carry,Paradise Biryani Secunderabad,70098,5101,85.02
+L56,L14,Malabar Gold & Diamonds,Sarath City Capital H&M,38019,3081,51.35
+L28,L10,Paradise Biryani Secunderabad,Metro Cash & Carry,55736,4916,81.93
+L52,L1,Puma Store,Ratnadeep Supermarket,37708,2975,49.58
+L1,L9,Ratnadeep Supermarket,Spencer's Retail,31219,2380,39.67
+L1,L52,Ratnadeep Supermarket,Puma Store,36602,2814,46.9
+L52,L9,Puma Store,Spencer's Retail,14624,2147,35.78
+L9,L1,Spencer's Retail,Ratnadeep Supermarket,31602,2506,41.77
+L17,L18,Mebaz Banjara Hills,Kalanikethan Kukatpally,48055,3455,57.58
+L9,L52,Spencer's Retail,Puma Store,18754,2620,43.67
+L9,L33,Spencer's Retail,Pista House,33922,3267,54.45
+L18,L17,Kalanikethan Kukatpally,Mebaz Banjara Hills,47721,3319,55.32
+L18,L1,Kalanikethan Kukatpally,Ratnadeep Supermarket,35189,2697,44.95
+L55,L33,Khazana Jewellers,Pista House,29384,3318,55.3
+L33,L52,Pista House,Puma Store,69640,5066,84.43
+L17,L1,Mebaz Banjara Hills,Ratnadeep Supermarket,71963,4432,73.87
+L18,L33,Kalanikethan Kukatpally,Pista House,66628,4806,80.1
+L1,L18,Ratnadeep Supermarket,Kalanikethan Kukatpally,34955,2669,44.48
+L33,L9,Pista House,Spencer's Retail,35761,3291,54.85
+L17,L9,Mebaz Banjara Hills,Spencer's Retail,57258,4860,81.0
+L33,L17,Pista House,Mebaz Banjara Hills,83880,5496,91.6
+L9,L18,Spencer's Retail,Kalanikethan Kukatpally,16180,2253,37.55
+L52,L33,Puma Store,Pista House,46579,4933,82.22
+L9,L17,Spencer's Retail,Mebaz Banjara Hills,57622,4760,79.33
+L55,L9,Khazana Jewellers,Spencer's Retail,19353,2738,45.63
+L18,L9,Kalanikethan Kukatpally,Spencer's Retail,15555,2089,34.82
+L55,L18,Khazana Jewellers,Kalanikethan Kukatpally,28778,4128,68.8
+L55,L1,Khazana Jewellers,Ratnadeep Supermarket,37680,3633,60.55
+L9,L55,Spencer's Retail,Khazana Jewellers,19296,2771,46.18
+L17,L33,Mebaz Banjara Hills,Pista House,84168,5712,95.2
+L1,L55,Ratnadeep Supermarket,Khazana Jewellers,46913,3654,60.9
+L18,L55,Kalanikethan Kukatpally,Khazana Jewellers,28133,4010,66.83
+L33,L18,Pista House,Kalanikethan Kukatpally,67993,4921,82.02
+L33,L55,Pista House,Khazana Jewellers,28682,3292,54.87
+L1,L17,Ratnadeep Supermarket,Mebaz Banjara Hills,71626,4368,72.8
+L8,L50,Nature's Basket,Nike Exclusive Store,15425,1916,31.93
+L23,L51,Reliance Digital,Adidas Originals,56070,4397,73.28
+L17,L50,Mebaz Banjara Hills,Nike Exclusive Store,66659,4698,78.3
+L8,L17,Nature's Basket,Mebaz Banjara Hills,65608,4168,69.47
+L8,L51,Nature's Basket,Adidas Originals,16860,2142,35.7
+L51,L8,Adidas Originals,Nature's Basket,19275,2370,39.5
+L50,L3,Nike Exclusive Store,Heritage Fresh,67270,4804,80.07
+L17,L3,Mebaz Banjara Hills,Heritage Fresh,8675,1259,20.98
+L51,L23,Adidas Originals,Reliance Digital,57929,4664,77.73
+L17,L8,Mebaz Banjara Hills,Nature's Basket,65386,4184,69.73
+L3,L50,Heritage Fresh,Nike Exclusive Store,68171,4991,83.18
+L3,L17,Heritage Fresh,Mebaz Banjara Hills,8675,1244,20.73
+L51,L17,Adidas Originals,Mebaz Banjara Hills,62023,4710,78.5
+L17,L51,Mebaz Banjara Hills,Adidas Originals,62317,4740,79.0
+L50,L17,Nike Exclusive Store,Mebaz Banjara Hills,65635,4460,74.33
+L50,L8,Nike Exclusive Store,Nature's Basket,13891,1633,27.22
+L27,L26,Chutneys Restaurant,Fabindia Gachibowli,59541,3685,61.42
+L5,L22,Reliance Smart Jubilee,Croma Jubilee Hills,13210,1502,25.03
+L5,L27,Reliance Smart Jubilee,Chutneys Restaurant,48885,3288,54.8
+L27,L5,Chutneys Restaurant,Reliance Smart Jubilee,48004,3365,56.08
+L22,L5,Croma Jubilee Hills,Reliance Smart Jubilee,11230,1441,24.02
+L45,L5,Lakme Salon,Reliance Smart Jubilee,25467,3008,50.13
+L26,L27,Fabindia Gachibowli,Chutneys Restaurant,59809,3642,60.7
+L5,L50,Reliance Smart Jubilee,Nike Exclusive Store,53600,4487,74.78
+L26,L22,Fabindia Gachibowli,Croma Jubilee Hills,58918,3487,58.12
+L37,L45,Alankrita Boutique,Lakme Salon,7916,1388,23.13
+L50,L5,Nike Exclusive Store,Reliance Smart Jubilee,63648,4427,73.78
+L22,L27,Croma Jubilee Hills,Chutneys Restaurant,52754,3035,50.58
+L27,L22,Chutneys Restaurant,Croma Jubilee Hills,53110,3155,52.58
+L50,L45,Nike Exclusive Store,Lakme Salon,28589,3756,62.6
+L22,L37,Croma Jubilee Hills,Alankrita Boutique,33645,3591,59.85
+L26,L45,Fabindia Gachibowli,Lakme Salon,19832,2934,48.9
+L45,L22,Lakme Salon,Croma Jubilee Hills,26662,2852,47.53
+L22,L45,Croma Jubilee Hills,Lakme Salon,26912,2625,43.75
+L26,L37,Fabindia Gachibowli,Alankrita Boutique,22235,3097,51.62
+L5,L26,Reliance Smart Jubilee,Fabindia Gachibowli,61671,4408,73.47
+L27,L45,Chutneys Restaurant,Lakme Salon,31759,4126,68.77
+L50,L26,Nike Exclusive Store,Fabindia Gachibowli,26244,2455,40.92
+L45,L50,Lakme Salon,Nike Exclusive Store,25703,3441,57.35
+L5,L45,Reliance Smart Jubilee,Lakme Salon,24162,2766,46.1
+L37,L22,Alankrita Boutique,Croma Jubilee Hills,34960,3835,63.92
+L22,L50,Croma Jubilee Hills,Nike Exclusive Store,52419,3693,61.55
+L45,L37,Lakme Salon,Alankrita Boutique,8018,1256,20.93
+L50,L22,Nike Exclusive Store,Croma Jubilee Hills,51177,3469,57.82
+L22,L26,Croma Jubilee Hills,Fabindia Gachibowli,60490,3613,60.22
+L45,L26,Lakme Salon,Fabindia Gachibowli,21114,2900,48.33
+L26,L5,Fabindia Gachibowli,Reliance Smart Jubilee,71389,4446,74.1
+L37,L26,Alankrita Boutique,Fabindia Gachibowli,33322,3035,50.58
+L26,L50,Fabindia Gachibowli,Nike Exclusive Store,26768,2616,43.6
+L45,L27,Lakme Salon,Chutneys Restaurant,31563,4017,66.95
+L16,L49,Neeru's Emporio,Wildcraft Store,66231,4352,72.53
+L49,L53,Wildcraft Store,Bata Shoe Store,17107,1765,29.42
+L53,L51,Bata Shoe Store,Adidas Originals,46212,3736,62.27
+L53,L16,Bata Shoe Store,Neeru's Emporio,49964,3396,56.6
+L16,L11,Neeru's Emporio,Inorbit Mall Shoppers Stop,47452,3794,63.23
+L16,L51,Neeru's Emporio,Adidas Originals,17585,2354,39.23
+L49,L11,Wildcraft Store,Inorbit Mall Shoppers Stop,87409,5792,96.53
+L49,L51,Wildcraft Store,Adidas Originals,62215,4705,78.42
+L53,L49,Bata Shoe Store,Wildcraft Store,16957,1785,29.75
+L11,L49,Inorbit Mall Shoppers Stop,Wildcraft Store,87121,5558,92.63
+L49,L16,Wildcraft Store,Neeru's Emporio,65966,4366,72.77
+L11,L53,Inorbit Mall Shoppers Stop,Bata Shoe Store,95439,5765,96.08
+L60,L51,Lalitha Jewellery,Adidas Originals,59391,4510,75.17
+L51,L11,Adidas Originals,Inorbit Mall Shoppers Stop,63524,5288,88.13
+L60,L49,Lalitha Jewellery,Wildcraft Store,75678,4711,78.52
+L51,L49,Adidas Originals,Wildcraft Store,61921,4682,78.03
+L11,L51,Inorbit Mall Shoppers Stop,Adidas Originals,67229,5290,88.17
+L16,L10,Neeru's Emporio,Metro Cash & Carry,74331,4809,80.15
+L16,L53,Neeru's Emporio,Bata Shoe Store,50974,3451,57.52
+L51,L53,Adidas Originals,Bata Shoe Store,46665,3780,63.0
+L51,L60,Adidas Originals,Lalitha Jewellery,60787,4766,79.43
+L51,L16,Adidas Originals,Neeru's Emporio,19958,2588,43.13
+L49,L60,Wildcraft Store,Lalitha Jewellery,77705,4783,79.72
+L53,L11,Bata Shoe Store,Inorbit Mall Shoppers Stop,92538,5858,97.63
+L10,L53,Metro Cash & Carry,Bata Shoe Store,63438,4233,70.55
+L11,L16,Inorbit Mall Shoppers Stop,Neeru's Emporio,52710,3914,65.23
+L10,L60,Metro Cash & Carry,Lalitha Jewellery,48212,3882,64.7
+L49,L10,Wildcraft Store,Metro Cash & Carry,54764,3984,66.4
+L60,L10,Lalitha Jewellery,Metro Cash & Carry,44945,3710,61.83
+L53,L10,Bata Shoe Store,Metro Cash & Carry,63438,4247,70.78
+L10,L51,Metro Cash & Carry,Adidas Originals,89908,6249,104.15
+L51,L10,Adidas Originals,Metro Cash & Carry,90403,6303,105.05
+L10,L49,Metro Cash & Carry,Wildcraft Store,55120,4026,67.1
+L10,L16,Metro Cash & Carry,Neeru's Emporio,75389,4873,81.22
+L20,L29,Chennai Shopping Mall,Bawarchi RTC X Roads,13225,1887,31.45
+L20,L45,Chennai Shopping Mall,Lakme Salon,17451,3098,51.63
+L45,L20,Lakme Salon,Chennai Shopping Mall,17690,3035,50.58
+L29,L45,Bawarchi RTC X Roads,Lakme Salon,18839,2818,46.97
+L45,L38,Lakme Salon,MedPlus Madhapur,13575,1905,31.75
+L45,L29,Lakme Salon,Bawarchi RTC X Roads,18796,2705,45.08
+L38,L45,MedPlus Madhapur,Lakme Salon,12702,1806,30.1
+L29,L20,Bawarchi RTC X Roads,Chennai Shopping Mall,12731,1811,30.18
+L20,L38,Chennai Shopping Mall,MedPlus Madhapur,29922,4771,79.52
+L38,L20,MedPlus Madhapur,Chennai Shopping Mall,29982,4742,79.03
+L51,L43,Adidas Originals,Naturals Salon,81713,5197,86.62
+L27,L58,Chutneys Restaurant,Jos Alukkas,34143,2268,37.8
+L27,L40,Chutneys Restaurant,Apollo Health City,35598,2343,39.05
+L58,L27,Jos Alukkas,Chutneys Restaurant,34245,2172,36.2
+L43,L51,Naturals Salon,Adidas Originals,81218,5128,85.47
+L43,L40,Naturals Salon,Apollo Health City,55118,3075,51.25
+L43,L27,Naturals Salon,Chutneys Restaurant,27216,1835,30.58
+L40,L27,Apollo Health City,Chutneys Restaurant,36293,2308,38.47
+L51,L40,Adidas Originals,Apollo Health City,47035,3744,62.4
+L6,L58,Ghanshyam Supermarket,Jos Alukkas,33376,3739,62.32
+L40,L51,Apollo Health City,Adidas Originals,46944,3672,61.2
+L37,L40,Alankrita Boutique,Apollo Health City,23193,2595,43.25
+L40,L43,Apollo Health City,Naturals Salon,55479,3077,51.28
+L43,L6,Naturals Salon,Ghanshyam Supermarket,25175,3022,50.37
+L40,L37,Apollo Health City,Alankrita Boutique,23531,2678,44.63
+L40,L6,Apollo Health City,Ghanshyam Supermarket,34305,3525,58.75
+L58,L43,Jos Alukkas,Naturals Salon,10534,1053,17.55
+L6,L43,Ghanshyam Supermarket,Naturals Salon,23799,2880,48.0
+L37,L58,Alankrita Boutique,Jos Alukkas,42436,5114,85.23
+L58,L37,Jos Alukkas,Alankrita Boutique,65680,4766,79.43
+L6,L51,Ghanshyam Supermarket,Adidas Originals,75805,6613,110.22
+L51,L6,Adidas Originals,Ghanshyam Supermarket,74828,6515,108.58
+L27,L43,Chutneys Restaurant,Naturals Salon,27277,1937,32.28
+L43,L58,Naturals Salon,Jos Alukkas,10649,1038,17.3
+L58,L6,Jos Alukkas,Ghanshyam Supermarket,34658,3905,65.08
+L6,L40,Ghanshyam Supermarket,Apollo Health City,34666,3632,60.53
+L45,L25,Lakme Salon,IKEA Hyderabad,42106,4523,75.38
+L7,L1,Q-Mart Gachibowli,Ratnadeep Supermarket,31706,2956,49.27
+L57,L45,Joyalukkas,Lakme Salon,19117,2584,43.07
+L45,L6,Lakme Salon,Ghanshyam Supermarket,16187,2351,39.18
+L1,L45,Ratnadeep Supermarket,Lakme Salon,37274,3339,55.65
+L1,L7,Ratnadeep Supermarket,Q-Mart Gachibowli,39219,2943,49.05
+L6,L25,Ghanshyam Supermarket,IKEA Hyderabad,46824,6021,100.35
+L45,L57,Lakme Salon,Joyalukkas,18020,2757,45.95
+L6,L45,Ghanshyam Supermarket,Lakme Salon,15319,2346,39.1
+L25,L45,IKEA Hyderabad,Lakme Salon,41280,4453,74.22
+L45,L1,Lakme Salon,Ratnadeep Supermarket,38288,3392,56.53
+L25,L6,IKEA Hyderabad,Ghanshyam Supermarket,49328,6215,103.58
+L1,L46,Ratnadeep Supermarket,Crossword Bookstore,63331,4096,68.27
+L1,L37,Ratnadeep Supermarket,Alankrita Boutique,44919,3979,66.32
+L46,L37,Crossword Bookstore,Alankrita Boutique,30000,3345,55.75
+L6,L46,Ghanshyam Supermarket,Crossword Bookstore,25872,3348,55.8
+L46,L1,Crossword Bookstore,Ratnadeep Supermarket,63219,4050,67.5
+L37,L46,Alankrita Boutique,Crossword Bookstore,29571,3263,54.38
+L46,L6,Crossword Bookstore,Ghanshyam Supermarket,26283,3288,54.8
+L37,L1,Alankrita Boutique,Ratnadeep Supermarket,35600,4328,72.13
+L57,L28,Joyalukkas,Paradise Biryani Secunderabad,32965,3150,52.5
+L12,L28,GVK One Lifestyle,Paradise Biryani Secunderabad,97428,6431,107.18
+L47,L46,Himalaya Book World,Crossword Bookstore,88249,5762,96.03
+L46,L57,Crossword Bookstore,Joyalukkas,72975,4594,76.57
+L28,L12,Paradise Biryani Secunderabad,GVK One Lifestyle,84110,6243,104.05
+L12,L47,GVK One Lifestyle,Himalaya Book World,90170,5978,99.63
+L47,L21,Himalaya Book World,Bajaj Electronics,29823,2851,47.52
+L47,L12,Himalaya Book World,GVK One Lifestyle,90612,6033,100.55
+L46,L47,Crossword Bookstore,Himalaya Book World,94169,5651,94.18
+L28,L57,Paradise Biryani Secunderabad,Joyalukkas,33372,3125,52.08
+L57,L46,Joyalukkas,Crossword Bookstore,68992,4767,79.45
+L12,L20,GVK One Lifestyle,Chennai Shopping Mall,18649,2549,42.48
+L20,L12,Chennai Shopping Mall,GVK One Lifestyle,19476,2658,44.3
+L20,L57,Chennai Shopping Mall,Joyalukkas,36784,3934,65.57
+L57,L20,Joyalukkas,Chennai Shopping Mall,40254,3973,66.22
+L12,L46,GVK One Lifestyle,Crossword Bookstore,21593,2667,44.45
+L21,L47,Bajaj Electronics,Himalaya Book World,30279,2837,47.28
+L46,L12,Crossword Bookstore,GVK One Lifestyle,21829,2726,45.43
+L47,L8,Himalaya Book World,Nature's Basket,42973,3587,59.78
+L8,L47,Nature's Basket,Himalaya Book World,43689,3633,60.55
+L36,L10,Aroma Boutique,Metro Cash & Carry,83052,5615,93.58
+L8,L10,Nature's Basket,Metro Cash & Carry,81913,5426,90.43
+L47,L10,Himalaya Book World,Metro Cash & Carry,62238,4706,78.43
+L10,L47,Metro Cash & Carry,Himalaya Book World,62840,4648,77.47
+L10,L18,Metro Cash & Carry,Kalanikethan Kukatpally,90687,5892,98.2
+L10,L8,Metro Cash & Carry,Nature's Basket,82941,5493,91.55
+L18,L10,Kalanikethan Kukatpally,Metro Cash & Carry,90390,5782,96.37
+L10,L36,Metro Cash & Carry,Aroma Boutique,83356,5269,87.82
+L50,L21,Nike Exclusive Store,Bajaj Electronics,23173,2322,38.7
+L21,L50,Bajaj Electronics,Nike Exclusive Store,17329,2406,40.1
+L19,L38,South India Shopping Mall,MedPlus Madhapur,9367,1087,18.12
+L19,L45,South India Shopping Mall,Lakme Salon,11624,1508,25.13
+L15,L38,Hyderabad Central,MedPlus Madhapur,12119,1821,30.35
+L45,L19,Lakme Salon,South India Shopping Mall,11499,1606,26.77
+L38,L15,MedPlus Madhapur,Hyderabad Central,11293,1686,28.1
+L20,L15,Chennai Shopping Mall,Hyderabad Central,78376,5219,86.98
+L45,L15,Lakme Salon,Hyderabad Central,19890,3157,52.62
+L15,L20,Hyderabad Central,Chennai Shopping Mall,78674,5136,85.6
+L15,L45,Hyderabad Central,Lakme Salon,17520,2887,48.12
+L38,L19,MedPlus Madhapur,South India Shopping Mall,10061,1293,21.55
+L20,L19,Chennai Shopping Mall,South India Shopping Mall,33985,3858,64.3
+L29,L15,Bawarchi RTC X Roads,Hyderabad Central,62188,4643,77.38
+L19,L20,South India Shopping Mall,Chennai Shopping Mall,34699,3867,64.45
+L15,L29,Hyderabad Central,Bawarchi RTC X Roads,35314,5236,87.27
+L5,L7,Reliance Smart Jubilee,Q-Mart Gachibowli,12518,1551,25.85
+L7,L5,Q-Mart Gachibowli,Reliance Smart Jubilee,15016,1739,28.98
+L46,L14,Crossword Bookstore,Sarath City Capital H&M,77935,4509,75.15
+L14,L46,Sarath City Capital H&M,Crossword Bookstore,77248,4470,74.5

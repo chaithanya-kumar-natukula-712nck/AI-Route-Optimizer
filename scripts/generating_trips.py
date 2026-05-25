@@ -138,7 +138,7 @@ for day in range(NUM_DAYS):
         num_stops = random.randint(3, 7)
 
         selected_locations = (
-            locations_df.sample(num_stops,random_state=42)
+            locations_df.sample(num_stops,random_state=day+num_stops)
             .reset_index(drop=True)
         )
 

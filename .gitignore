@@ -5,7 +5,6 @@ myfolder for cache/
 
 services/__pycache__
 
-notebooks/model_training.ipynb
 
 
 __init__.py
